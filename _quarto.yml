@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "COAIM"
+  navbar:
+    pinned: true
+    collapse: true
+    collapse-below: md
+    left:
+      - href: index.qmd
+        text: "{{< fa house height=20px >}} Home"
+      - href: content/program/program.qmd
+        text: "{{< fa calendar-days height=20px >}} Program"
+      - href: content/talks/speakers.qmd
+        text: "{{< iconify file-icons keynote height=20px >}} Talks"
+      - href: content/logistics/vaernes.qmd
+        text: "{{< fa car height=20px >}} Logistics"
+    right:
+      - href: about.qmd
+        text: "{{< fa question height=20px >}} About"
+
+format:
+  html:
+    theme:
+      - default
+      - libs/light.scss
+    css: libs/styles.css
+    toc: true
+
+
+

@@ -1,0 +1,14 @@
+---
+title: "Anatomical units of space, time and memory"
+speaker: "Menno Witter"
+affiliation: "JCA/KISN"
+date: "2025-01-01"  # Update with actual date
+time: "14:00-14:30"
+day: 1
+type: "regular"
+abstract: |
+  Add abstract here...
+image: "images/placeholder.jpg"
+--- 
+
+{{< placeholder >}}

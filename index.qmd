@@ -1,0 +1,13 @@
+---
+title: "COAIM"
+subtitle: "Conference On Alzheimer’s disease In Midt-Norge  \n International collaborative conference"
+
+description: "[Norges Teknisk-Naturvitenskapelige Universitet](https://www.ntnu.no/)  \n [Kavli Institute for Systems Neuroscience](https://www.ntnu.edu/kavli/)  \n [Nasjonalforeningen For Folkehelsen](https://nasjonalforeningen.no/)"
+
+about:
+  template: jolla
+  image-shape: rectangle
+
+image: res/placeholder.png
+image-alt: "Temporary placeholder image"
+---

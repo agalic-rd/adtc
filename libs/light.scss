@@ -1,0 +1,50 @@
+/*-- scss:defaults --*/
+
+// Custom
+$red: #C3212B !default;
+$blue:  #00509E !default;
+$gray:  #888888 !default;
+
+
+$col1:          $red !default;
+$col2:          $blue !default;
+$col3:          $gray !default;
+
+$primary:       $col1 !default;
+$success:       $col3 !default;
+$link-color:    $col3 !default;
+
+$navbar-bg: $primary !default;
+
+// Code
+
+$code-block-border-left: $red !default;
+
+/*-- scss:rules --*/
+
+.quarto-title-block .quarto-title-banner {
+    background-color: $col2 !important;
+    color: white;
+}
+.quarto-title h1.title { 
+    color: #F0F3F3; /* Otherwise title appear gray after Quarto 1.3.300~ish */
+    /* background-color: transparent !important; */
+}
+
+h1:not(.title) { color: $col1;}
+h2:not(.title) { color: $col2;}
+h5.quarto-listing-category-title { color: $col2; }
+
+.quarto-listing-category .category.active { color: $col3; }
+
+#progress-bar { background: lighten($col2, 20%); }
+
+.quarto-title:not(.column-body) h1.title { color: $col1; }
+
+.quarto-title:not(.column-body) .subtitle { color: $col2; }
+  
+.column-page h2 { color: $col2; }
+
+.card-body > .card-title { color: $col3; }
+
+.navbar .nav-item > a.nav-link.active { border-top: 2px solid; } // #b4c5e9

@@ -1,0 +1,37 @@
+---
+title: "Conference Talks"
+listing:
+  - id: keynotes
+    contents: "keynotes/*.qmd"
+    type: grid
+    grid-columns: 2
+    sort: date
+    grid-item-align: left
+    grid-item-border: true
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    fields: [image, title, subtitle, speaker, affiliation]
+    
+  - id: talks 
+    contents: "regular/*.qmd"
+    type: grid
+    grid-columns: 3
+    sort: date
+    grid-item-align: left
+    grid-item-border: true
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    fields: [image, title, subtitle, speaker, affiliation]
+---
+
+## Keynote Speakers
+
+:::{#keynotes}
+:::
+
+## Speakers
+
+:::{#talks}
+:::
