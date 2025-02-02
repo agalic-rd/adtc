@@ -1,0 +1,41 @@
+---
+title: "Prof. Dietmar Thal"
+subtitle: "Professor of Neuropathology at KU Leuven"
+
+author:
+    name: "Dietmar Thal"
+    degrees:
+      - PhD
+    affiliations:
+        - ref: kuleuven
+
+image: "/res/img/logo.png"
+
+categories:
+  - Neuropathology
+  - Protein Changes
+  - AD Pathology
+
+metadata-files: ["../../_people_partials.yml"]
+
+socials:
+    - name: Website
+      url: https://gbiomed.kuleuven.be/english/research/50000715/50000716/staff/00092729
+---
+
+## About
+
+Prof. Dietmar Thal is a renowned neuropathologist specializing in the study of protein changes in Alzheimer's disease. His research focuses on understanding the sequence and patterns of pathological changes in neurodegenerative diseases.
+
+## Research Interests
+
+- Sequence of protein changes in AD
+- Neuropathological staging of AD
+- Protein aggregation patterns
+- Disease progression markers
+
+## Selected Publications
+
+- Thal DR, et al. (2019). Sequence of Aβ protein deposition in the human medial temporal lobe
+- Thal DR, et al. (2015). Phases of Aβ deposition in the human brain
+- Thal DR, et al. (2012). Neuropathology and biochemistry of Aβ and its aggregates in AD 

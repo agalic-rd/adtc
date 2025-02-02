@@ -1,0 +1,43 @@
+---
+title: "Prof. Paul Edison"
+subtitle: "Professor at Imperial College London"
+
+author:
+    name: "Paul Edison"
+    degrees:
+      - PhD
+    affiliations:
+        - ref: imperial
+
+image: "/res/img/logo.png"
+
+categories:
+  - Inflammation
+  - Neuroimaging
+  - Dementia
+
+metadata-files: ["../../_people_partials.yml"]
+
+socials:
+    - name: Website
+      url: https://www.imperial.ac.uk/people/paul.edison
+    - name: ResearchGate
+      url: https://www.researchgate.net/profile/Paul-Edison
+---
+
+## About
+
+Prof. Paul Edison is a leading researcher at Imperial College London, specializing in neuroinflammation and its role in Alzheimer's disease and dementia. His work combines advanced imaging techniques with clinical research to understand inflammatory processes in neurodegeneration.
+
+## Research Interests
+
+- Neuroinflammation in AD
+- Imaging biomarkers
+- Clinical translation
+- Novel therapeutic approaches
+
+## Selected Publications
+
+- Edison P, et al. (2021). Neuroinflammation in Alzheimer's disease
+- Edison P, et al. (2019). Imaging inflammation in neurodegenerative diseases
+- Edison P, et al. (2017). Biomarkers of neuroinflammation in dementia 

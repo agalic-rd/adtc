@@ -1,0 +1,44 @@
+---
+title: "Dr. Tora Bonnevie"
+subtitle: "Research Scientist at KISN, NTNU"
+
+author:
+    name: "Tora Bonnevie"
+    degrees:
+      - PhD
+    affiliations:
+        - ref: kisn
+        - ref: ntnu
+
+image: "/res/img/logo.png"
+
+categories:
+  - AD Time Project
+  - Temporal Dynamics
+  - Neural Circuits
+
+metadata-files: ["../../_people_partials.yml"]
+
+socials:
+    - name: Website
+      url: https://www.ntnu.edu/employees/tora.bonnevie
+    - name: ResearchGate
+      url: https://www.researchgate.net/profile/Tora-Bonnevie
+---
+
+## About
+
+Dr. Tora Bonnevie is a research scientist at the Kavli Institute for Systems Neuroscience, leading the AD Time project. Her research focuses on understanding the temporal dynamics of Alzheimer's disease progression.
+
+## Research Interests
+
+- Temporal progression of AD
+- Neural circuit dynamics
+- Disease mechanisms
+- Early intervention strategies
+
+## Selected Publications
+
+- Bonnevie T, et al. (2023). Temporal dynamics in AD progression
+- Bonnevie T, et al. (2021). Circuit mechanisms in neurodegeneration
+- Bonnevie T, et al. (2019). Early markers of AD pathology 

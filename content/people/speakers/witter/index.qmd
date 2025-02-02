@@ -1,0 +1,49 @@
+---
+title: "Prof. Menno Witter"
+subtitle: "Professor of Neuroscience at NTNU"
+
+author:
+    name: "Menno Witter"
+    url: "https://www.ntnu.edu/employees/menno.witter"
+    degrees:
+      - PhD
+    affiliations:
+        - ref: kisn
+
+image: https://backends.it.ntnu.no/user-profile-service/rest/files/5e8b3d76-c13b-36d3-8008-7825623b0d96
+image-alt: "Profile picture of Menno Witter"
+
+categories:
+  - Neural Architecture
+  - Memory Systems
+  - Spatial Processing
+
+metadata-files: ["../../_people_partials.yml"]
+
+socials:
+    - name: Website
+      url: https://www.ntnu.edu/employees/menno.witter
+    - name: ResearchGate
+      url: https://www.researchgate.net/profile/Menno-Witter
+---
+
+## About
+
+Prof. Menno Witter is a leading neuroscientist at the Kavli Institute for Systems Neuroscience. His research has been instrumental in understanding the organization of memory systems and how spatial and temporal information is processed in the brain.
+
+## Research Interests
+
+- Anatomical organization of memory systems
+- Neural circuits for spatial and temporal processing
+- Integration of information in the hippocampal formation
+- Comparative neuroanatomy
+
+## Recent Research
+
+His current work focuses on understanding the detailed organization of neural circuits involved in memory formation and spatial navigation. His research provides crucial insights into how different brain regions communicate and process information.
+
+## Selected Publications
+
+- Witter MP, et al. (2017). Architecture of spatial circuits in the hippocampal region. Science, 355(6321):1-8
+- Ohara S, Onodera M, Simonsen ØW, Jimenez-Martin A, Treves A, Witter MP (2021). Intrinsic projections of the presubicular cortex. eLife, 10:e63947
+- Witter MP, Doan TP, Jacobsen B, Nilssen ES, Ohara S (2017). Architecture of the entorhinal cortex: a review of entorhinal anatomy in rodents with some comparative notes. Frontiers in Systems Neuroscience, 11:46 

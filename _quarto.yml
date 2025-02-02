@@ -1,32 +1,129 @@
 project:
   type: website
+  resources:
+    - .nojekyll
+    - CNAME
+    - "/res/*"
+    - "/libs/*"
+    - "/content/**/*.pdf"
+  render:
+    - "*.qmd"
+    - "!TODO.md"
+    - "!LICENSE.md"
+    - "!test/"
+    - "!src/"
+    - "!libs/"
 
 website:
   title: "COAIM"
+  description: "Conference On Alzheimer's disease In Midt-Norge  \n International collaborative conference"
+  favicon: "/res/img/JCA.png"
+  bread-crumbs: true
+  back-to-top-navigation: true
+  # site-url: https://www.coaim.org
+
+  ### Navbar ###
   navbar:
+    logo: "/res/img/JCA.png"
     pinned: true
     collapse: true
     collapse-below: md
     left:
       - href: index.qmd
         text: "{{< fa house height=20px >}} Home"
-      - href: content/program/program.qmd
+      - href: content/program/index.qmd
         text: "{{< fa calendar-days height=20px >}} Program"
-      - href: content/talks/speakers.qmd
+      - href: content/talks/index.qmd
         text: "{{< iconify file-icons keynote height=20px >}} Talks"
-      - href: content/logistics/vaernes.qmd
+      - href: content/people/index.qmd
+        text: "{{< iconify bi people height=20px >}} People"
+      - href: content/logistics/index.qmd
         text: "{{< fa car height=20px >}} Logistics"
-    right:
-      - href: about.qmd
-        text: "{{< fa question height=20px >}} About"
+
+  ### Search ###
+  search:
+    location: navbar
+    type: overlay
+    collapse-after: 2
+    show-item-context: true
+  
+  ### Sidebar ###
+  sidebar: false
+
+  ### Footer ###
+  page-footer:
+    border: true
+    background: dark
+    left:
+      - text: "{{< fa university height=20px >}} Norges Teknisk-Naturvitenskapelige Universitet"
+        href: https://www.ntnu.no/
+      - text: "{{< iconify iconoir brain-research height=20px >}} Kavli Institute for Systems Neuroscience" 
+        href: https://www.ntnu.edu/kavli/
+      - text: "{{< iconify game-icons caduceus height=20px >}} Nasjonalforeningen For Folkehelsen"
+        href: https://nasjonalforeningen.no/
+    center: 
+      - text: "© 2025, COAIM"
+        href: LICENSE.md
+        aria-label: "Website's license"
+      - text: "About"
+        href: about.qmd
+        aria-label: "About"
+
+lightbox: true
+
+from: markdown+emoji
+comments: false
+toc: false
+
+## Format options ##
+brand: /_brand.yml
 
 format:
   html:
-    theme:
-      - default
-      - libs/light.scss
+    theme: [default, brand, libs/light.scss]
     css: libs/styles.css
     toc: true
+    grid:
+      sidebar-width: 250px
+      body-width: 1200px
+      margin-width: 250px
+    df-print: paged
+    fig-align: center
+    fig-dpi: 500
+    fig-format: svg
+    anchor-sections: true
+    footnotes-hover: true
+    crossrefs-hover: true
+    link-external-icon: true
+    link-external-newwindow: true
 
 
+## Execution / R options ##
 
+engine: knitr
+
+knitr:
+  opts_chunk:
+    warning: false
+    message: false
+    fig.align: center
+    dpi: 500
+    dev: svg
+    dev.args:
+      bg: transparent
+    # R.options:
+    #   scipen: 999
+  opts_knit:
+    verbose: false
+
+execute:
+  engine: knitr
+  warning: false
+  message: false
+  echo: false
+  cache: false
+  freeze: auto
+
+editor: source
+
+# Templates: https://github.com/quarto-dev/quarto-cli/tree/f6b86d11b7d6a93b60f541982d3fe119ff484b15/src/resources/formats/html/templates

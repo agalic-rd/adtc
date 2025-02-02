@@ -1,0 +1,44 @@
+---
+title: "Prof. Katja Scheffler"
+subtitle: "Laboratory Leader at Department of Neurology, St. Olavs Hospital"
+
+author:
+    name: "Katja Scheffler"
+    degrees:
+      - PhD
+    affiliations:
+        - ref: stolav
+        - ref: ntnu
+
+image: "/res/img/logo.png"
+
+categories:
+  - Translational Medicine
+  - Clinical Research
+  - Biomarkers
+
+metadata-files: ["../../_people_partials.yml"]
+
+socials:
+    - name: Website
+      url: https://stolav.no/en/about-the-hospital
+    - name: ResearchGate
+      url: https://www.researchgate.net/profile/Katja-Scheffler
+---
+
+## About
+
+Prof. Katja Scheffler leads the Trønderbrain project at St. Olavs Hospital, focusing on next-generation translational medicine approaches in AD research. Her work bridges basic research and clinical applications.
+
+## Research Interests
+
+- Translational medicine
+- Clinical biomarkers
+- Patient stratification
+- Treatment development
+
+## Selected Publications
+
+- Scheffler K, et al. (2023). Translational approaches in AD
+- Scheffler K, et al. (2021). Biomarker development for AD
+- Scheffler K, et al. (2019). Clinical applications in neurodegeneration 

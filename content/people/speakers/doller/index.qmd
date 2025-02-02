@@ -1,0 +1,54 @@
+---
+title: "Prof. Christian Döller"
+subtitle: "Professor of Cognitive Neuroscience at the Max Planck Institute for Human Cognitive and Brain Sciences"
+
+author:
+    name: "Christian Döller"
+    url: "#"
+    degrees:
+      - PhD
+    affiliations:
+        - ref: jca
+        - ref: kisn
+        - ref: max-planck
+
+image: https://www.cbs.mpg.de/1253592/header_image-1673870849.webp
+image-alt: "Profile picture of Christian Döller"
+
+categories:
+  - Imaging
+  - Structural Brain Analysis
+  - Memory
+
+metadata-files: ["../../_people_partials.yml"]
+
+socials:
+    - name: Website
+      url: https://www.cbs.mpg.de/employees/doeller
+    - name: ResearchGate
+      url: https://www.researchgate.net/profile/Christian-Doeller
+    - name: Twitter
+      url: https://twitter.com/CDoeller
+---
+
+## About
+
+Prof. Christian Döller is a renowned neuroscientist and expert in brain imaging and structural analyses. He is a Professor at the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig and holds a joint appointment at JCA/KISN. His research focuses on understanding how the brain represents space, time and memory.
+
+## Research Interests
+
+- Advanced neuroimaging techniques for studying memory systems
+- Structural and functional analysis of brain regions involved in spatial navigation
+- Neural mechanisms of episodic memory
+- Computational models of memory and navigation
+
+## Recent Research
+
+His current research combines cutting-edge neuroimaging methods with virtual reality to investigate how the brain's structural and functional architecture supports spatial navigation and memory. He has made significant contributions to understanding how the hippocampus and entorhinal cortex work together to create cognitive maps of space and memory.
+
+## Selected Publications
+
+- Doeller CF, Barry C, Burgess N (2010). Evidence for grid cells in a human memory network. Nature, 463(7281):657-61
+- Bellmund JLS, Gärdenfors P, Moser EI, Doeller CF (2018). Navigating cognition: Spatial codes for human thinking. Science, 362(6415)
+- Navarro Schröder T, Haak KV, Zaragoza Jimenez NI, Beckmann CF, Doeller CF (2015). Functional topography of the human entorhinal cortex. eLife, 4:e06738
+- Kunz L, Schröder TN, Lee H, Montag C, Lachmann B, Sariyska R, Reuter M, Stirnberg R, Stöcker T, Messing-Floeter PC, Fell J, Doeller CF, Axmacher N (2015). Reduced grid-cell-like representations in adults at genetic risk for Alzheimer's disease. Science, 350(6259):430-3

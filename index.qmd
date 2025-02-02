@@ -1,13 +1,107 @@
 ---
-title: "COAIM"
-subtitle: "Conference On Alzheimer’s disease In Midt-Norge  \n International collaborative conference"
+image: res/img/logo.png
+image-alt: "COAIM conference logo"
 
-description: "[Norges Teknisk-Naturvitenskapelige Universitet](https://www.ntnu.no/)  \n [Kavli Institute for Systems Neuroscience](https://www.ntnu.edu/kavli/)  \n [Nasjonalforeningen For Folkehelsen](https://nasjonalforeningen.no/)"
+engine: knitr
 
-about:
-  template: jolla
-  image-shape: rectangle
-
-image: res/placeholder.png
-image-alt: "Temporary placeholder image"
+layout: custom
 ---
+
+```{css echo=FALSE}
+/* TODO: use https://github.com/quarto-dev/quarto-web/blob/54f82c6f137be7e7702e0befad24a3e7d2524bf1/docs/gallery/carousel.R#L5 */
+
+.quarto-title-block {
+    display: none;
+}
+
+.carousel-item {
+    height: 100vh;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.carousel-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: -1;
+    overflow: hidden;
+}
+
+.content-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+.hex-container {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    clip-path: polygon(50% 0%, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%);
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+}
+
+.hex-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.title-container {
+    margin-top: 2rem;
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+.title-container .custom-title {
+    margin: 0 0 0 1rem;
+    color: #C3212B;
+}
+
+.title-container .custom-subtitle {
+    margin-top: 1rem;
+    color: #00509E;
+    white-space: pre-line;
+}
+```
+
+```{=html}
+<div class="carousel-background">
+    <div id="backgroundCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="res/img/carousel/NTNU.jpg" alt="NTNU campus">
+            </div>
+            <div class="carousel-item">
+                <img src="res/img/carousel/Trondheim.jpg" alt="Trondheim">
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="content-wrapper">
+    <div>
+        <div class="hex-container">
+            <img src="{{< meta image >}}" alt="{{< meta image-alt >}}">
+        </div>
+        <div class="title-container">
+            <h2 class="custom-title">COAIM</h2>
+            <div class="custom-subtitle">Conference On Alzheimer's disease In Midt-Norge <br> International collaborative conference</div>
+        </div>
+    </div>
+</div>
+```

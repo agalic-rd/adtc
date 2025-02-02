@@ -1,0 +1,26 @@
+---
+title: "Translational research on the AD cascade"
+
+author:
+    name: "[Karen Duff](/content/people/speakers/duff/)"
+    affiliations:
+        - ref: ucl
+
+abstract: |
+  {{< lipsum 1 >}}
+
+categories:
+  - Translational Research
+  - AD Cascade
+
+image: "/res/img/logo.png"
+
+date: "2025-01-01"
+time: "09:00-09:40"
+day: 3
+---
+
+***
+
+<object data="/res/quarto.pdf" type="application/pdf" width="100%" height="600">
+</object> 

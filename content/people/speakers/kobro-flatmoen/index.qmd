@@ -1,0 +1,51 @@
+---
+title: "Dr. Asgeir Kobro-Flatmoen"
+subtitle: "Neuroscientist at the National Union Dementia Centre and KISN"
+
+author:
+    name: "Asgeir Kobro-Flatmoen"
+    url: "#"
+    degrees:
+      - PhD
+    affiliations:
+        - ref: nudc
+        - ref: kisn
+        - ref: ntnu
+
+image: "/res/img/logo.png"
+image-alt: "Profile picture of Asgeir Kobro-Flatmoen"
+
+categories:
+  - Neurodegeneration
+  - Cellular Neuroscience
+  - Early Detection
+
+metadata-files: ["../../_people_partials.yml"]
+
+socials:
+    - name: Website
+      url: https://www.ntnu.edu/employees/asgeir.kobro-flatmoen
+    - name: ResearchGate
+      url: https://www.researchgate.net/profile/Asgeir-Kobro-Flatmoen
+---
+
+## About
+
+Dr. Asgeir Kobro-Flatmoen is a neuroscientist at the National Union Dementia Centre and KISN at NTNU. His research focuses on understanding the cellular mechanisms that underlie selective neuronal vulnerability in the early stages of Alzheimer's disease.
+
+## Research Interests
+
+- Cellular mechanisms of neurodegeneration
+- Early markers of neural dysfunction
+- Selective vulnerability in AD
+- Therapeutic targeting strategies
+
+## Recent Research
+
+His current work investigates the cellular and molecular mechanisms that make specific neurons particularly vulnerable in the early stages of Alzheimer's disease. This research aims to identify potential therapeutic targets and develop strategies for early intervention.
+
+## Selected Publications
+
+- Kobro-Flatmoen A, et al. (2021). Selective neuronal vulnerability in prodromal AD
+- Kobro-Flatmoen A, et al. (2019). Early cellular changes in Alzheimer's disease
+- Kobro-Flatmoen A, et al. (2016). Neural circuit vulnerability in neurodegeneration 

@@ -1,0 +1,51 @@
+---
+title: "Dr. Gøril Rolfseng Grøntvedt"
+subtitle: "Clinical Researcher at the National Union Dementia Centre and KISN at NTNU"
+
+author:
+    name: "Gøril Rolfseng Grøntvedt"
+    url: "#"
+    degrees:
+      - PhD
+    affiliations:
+        - ref: nudc
+        - ref: kisn
+        - ref: ntnu
+
+image: "/res/img/logo.png"
+image-alt: "Profile picture of Gøril Rolfseng Grøntvedt"
+
+categories:
+  - Clinical Diagnosis
+  - Biomarkers
+  - Dementia Research
+
+metadata-files: ["../../_people_partials.yml"]
+
+socials:
+    - name: Website
+      url: https://www.ntnu.edu/employees/goril.grontvedt
+    - name: ResearchGate
+      url: https://www.researchgate.net/profile/Goeril-Grontvedt
+---
+
+## About
+
+Dr. Gøril Rolfseng Grøntvedt is a clinical researcher at the National Union Dementia Centre and KISN at NTNU. Her work focuses on improving the clinical diagnosis and understanding of Alzheimer's disease, with particular emphasis on early detection and biomarker development.
+
+## Research Interests
+
+- Clinical presentation and diagnosis of AD
+- Development and validation of biomarkers
+- Early detection of cognitive decline
+- Implementation of innovative diagnostic tools
+
+## Recent Research
+
+Her current research focuses on developing and validating enhanced clinical protocols for early detection of Alzheimer's disease. She works on integrating novel biomarkers with traditional clinical assessments to improve diagnostic accuracy and enable earlier intervention.
+
+## Selected Publications
+
+- Grøntvedt GR, et al. (2020). Biomarker profiles and clinical presentation in early-onset Alzheimer's disease
+- Grøntvedt GR, et al. (2018). Clinical correlates of CSF biomarkers in dementia diagnosis
+- Grøntvedt GR, et al. (2016). The progression of cognitive decline in early-stage Alzheimer's disease 

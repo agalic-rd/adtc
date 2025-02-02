@@ -1,0 +1,43 @@
+---
+title: "Prof. Claudia Almeida"
+subtitle: "Professor at NOVA Medical School, Lisbon"
+
+author:
+    name: "Claudia Almeida"
+    degrees:
+      - PhD
+    affiliations:
+        - ref: nova
+
+image: "/res/img/logo.png"
+
+categories:
+  - Cell Biology
+  - Endosomal Function
+  - Beta-amyloid
+
+metadata-files: ["../../_people_partials.yml"]
+
+socials:
+    - name: Website
+      url: https://www.nms.unl.pt/en/
+    - name: ResearchGate
+      url: https://www.researchgate.net/profile/Claudia-Almeida
+---
+
+## About
+
+Prof. Claudia Almeida is a cell biologist at NOVA Medical School, specializing in endosomal dysfunction and its role in Alzheimer's disease. Her research has revealed important mechanisms linking endosomal function to beta-amyloid accumulation.
+
+## Research Interests
+
+- Endosomal dysfunction in AD
+- Intraneuronal beta-amyloid
+- Cellular mechanisms of neurodegeneration
+- Late-onset AD pathogenesis
+
+## Selected Publications
+
+- Almeida C, et al. (2021). Endosomal dysfunction in late-onset AD
+- Almeida C, et al. (2019). Mechanisms of intraneuronal beta-amyloid accumulation
+- Almeida C, et al. (2017). Role of endosomes in AD pathogenesis 

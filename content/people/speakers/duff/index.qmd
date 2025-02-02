@@ -1,0 +1,43 @@
+---
+title: "Prof. Karen Duff"
+subtitle: "UK DRI Centre Director, University College London"
+
+author:
+    name: "Karen Duff"
+    degrees:
+      - PhD
+    affiliations:
+        - ref: ucl
+
+image: "/res/img/logo.png"
+
+categories:
+  - Translational Research
+  - AD Cascade
+  - Therapeutic Development
+
+metadata-files: ["../../_people_partials.yml"]
+
+socials:
+    - name: Website
+      url: https://www.ucl.ac.uk/uk-dementia-research-institute/people/prof-karen-duff
+    - name: ResearchGate
+      url: https://www.researchgate.net/profile/Karen-Duff
+---
+
+## About
+
+Prof. Karen Duff is the Director of the UK Dementia Research Institute at UCL. Her research focuses on translational aspects of Alzheimer's disease, particularly understanding and targeting the disease cascade.
+
+## Research Interests
+
+- AD pathogenesis cascade
+- Therapeutic development
+- Translational research
+- Disease mechanisms
+
+## Selected Publications
+
+- Duff K, et al. (2023). Translational approaches in AD
+- Duff K, et al. (2021). Therapeutic targeting in neurodegeneration
+- Duff K, et al. (2019). Disease mechanisms in AD 

@@ -1,0 +1,98 @@
+---
+title: "Logistics"
+---
+
+## Venue
+
+**TODO: Summary of venue**
+
+{{< lipsum 1 >}}
+
+:::{.column-margin}
+::::{.callout-note appearance="simple"}
+#### Venue information
+[More details here](/content/logistics/venue.qmd)
+::::
+:::
+
+## Vaernes Airport
+
+Vaernes Airport (TRD) is located about 32 km northeast of Trondheim city center. There are several transportation options available:
+
+### Bus
+
+[Værnes-Ekspressen](https://en.vaernesekspressen.no/) operates frequent bus services between the airport and Trondheim city center. The journey takes approximately 40 minutes.
+
+- **Schedule**: Buses depart every 30 minutes during peak hours
+- **Ticket price**: NOK 220 for adults (one-way)
+- **Purchase**: Tickets can be bought online, through their app, or directly from the driver
+- **Bus stop**: Located right outside the arrival terminal
+
+:::{.column-margin}
+::::{.callout-note appearance="simple"}
+#### Bus information
+[More details here](/content/logistics/travel/bus.qmd)
+::::
+:::
+
+### Train
+
+[SJ Nord](https://www.sj.no/en/frontpage) runs train services from Værnes station to Trondheim Central Station (Trondheim S).
+
+- **Journey time**: About 35 minutes
+- **Frequency**: Trains run approximately every hour
+- **Ticket price**: NOK 120 for adults (one-way)
+- **Station access**: The airport train station is connected to the terminal building by a covered walkway (5-minute walk)
+- **Tickets**: Available from ticket machines at the station or online
+
+:::{.column-margin}
+::::{.callout-note appearance="simple"}
+#### Train information
+[More details here](/content/logistics/travel/train.qmd)
+::::
+:::
+
+### Taxi
+
+Taxis are readily available outside the arrival terminal.
+
+- **Journey time**: Around 30-35 minutes (depending on traffic)
+
+- **Approximate cost**: NOK 800-1000
+- **Companies**: 
+    - [Trøndertaxi](https://trondertaxi.no/): +47 07373
+    - [Norgestaxi](https://norgestaxi.no/): +47 08000
+
+:::{.column-margin}
+::::{.callout-note appearance="simple"}
+#### Taxi information
+[More details here](/content/logistics/travel/taxi.qmd)
+::::
+:::
+
+## City Plan
+
+**TODO: Summary of city layout + markers on map**
+
+:::{.column-margin}
+::::{.callout-note appearance="simple"}
+#### Trondheim city information
+[More details here](/content/logistics/trondheim.qmd)
+::::
+
+:::
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d7139.030494232128!2d10.3860781!3d63.4276172!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sno!4v1738433670044!5m2!1sen!2sno" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## Accomodations
+
+**TODO: Summary of accomodations**
+
+{{< lipsum 1 >}}
+
+:::{.column-margin}
+::::{.callout-note appearance="simple"}
+#### Accomodations information
+[More details here](/content/logistics/accomodations.qmd)
+::::
+:::

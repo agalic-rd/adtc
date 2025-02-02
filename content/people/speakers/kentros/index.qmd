@@ -1,0 +1,44 @@
+---
+title: "Prof. Cliff Kentros"
+subtitle: "Professor at Kavli Institute for Systems Neuroscience, NTNU"
+
+author:
+    name: "Cliff Kentros"
+    degrees:
+      - PhD
+    affiliations:
+        - ref: kisn
+        - ref: ntnu
+
+image: "/res/img/logo.png"
+
+categories:
+  - Neural Models
+  - Tau Pathology
+  - Systems Neuroscience
+
+metadata-files: ["../../_people_partials.yml"]
+
+socials:
+    - name: Website
+      url: https://www.ntnu.edu/employees/clifford.kentros
+    - name: ResearchGate
+      url: https://www.researchgate.net/profile/Clifford-Kentros
+---
+
+## About
+
+Prof. Cliff Kentros is a leading neuroscientist at KISN, focusing on developing and studying models of tau pathology in rats. His research combines advanced molecular techniques with behavioral studies to understand the onset of tau pathology.
+
+## Research Interests
+
+- Modeling tau pathology
+- Neural circuit function
+- Behavioral neuroscience
+- Early AD mechanisms
+
+## Selected Publications
+
+- Kentros C, et al. (2022). Novel rat models of tau pathology
+- Kentros C, et al. (2020). Circuit mechanisms in early AD
+- Kentros C, et al. (2018). Neural basis of memory formation 

@@ -1,0 +1,47 @@
+---
+title: "Agalic Rodriguez-Duboc"
+subtitle: "Postdoctoral Fellow at the Kavli Institute for Systems Neuroscience"
+
+author:
+    name: "Agalic Rodriguez-Duboc"
+    url: "https://agalic-rd.com"
+    degrees:
+      - MD
+      - PhD
+      - BUN
+    affiliations:
+        - ref: nudc
+        - ref: kisn
+
+image: https://agalic-rd.com/res/avatar.jpg
+image-alt: "Profile picture of Agalic Rodriguez-Duboc"
+
+categories:
+    - Neuroscience
+    - Alzheimer's Disease
+
+metadata-files: ["../../_people_partials.yml"]
+
+socials:
+    - name: Website
+      url: https://agalic-rd.com
+    - name: GitHub
+      url: https://github.com/agalic-rd
+    - name: Twitter
+      url: https://twitter.com/agalic_rd
+---
+
+## About
+
+Trained as a general physician and passionate about research, I then obtained my PhD in the field of cellular and molecular neurosciences. My PhD project was focused on cerebellar development and apnea of prematurity.
+
+I am currently working as a postdoctoral fellow at the Kavli Institute for Systems Neuroscience, developing a new model to better understand the initiation of Alzheimer's disease.
+
+## Research Interests
+
+
+## Recent Research
+
+
+## Selected Publications
+

@@ -1,0 +1,27 @@
+---
+title: "The AD time project"
+
+author:
+    name: "[Tora Bonnevie](/content/people/speakers/bonnevie/)"
+    affiliations:
+        - ref: kisn
+        - ref: ntnu
+
+abstract: |
+  {{< lipsum 1 >}}
+
+categories:
+  - AD Time Project
+  - Temporal Dynamics
+
+image: "/res/img/logo.png"
+
+date: "2025-01-01"
+time: "11:40-12:10"
+day: 3
+---
+
+***
+
+<object data="/res/quarto.pdf" type="application/pdf" width="100%" height="600">
+</object> 

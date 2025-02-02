@@ -1,0 +1,27 @@
+---
+title: "The viscious circle between neuronal hyperexcitability and AD"
+
+author:
+    name: "[Heikki Tanila](/content/people/speakers/tanila/)"
+    affiliations:
+        - ref: uef
+
+abstract: |
+  {{< lipsum 1 >}}
+
+categories:
+  - Neuronal Hyperexcitability
+  - AD Mechanisms
+
+image: "/res/img/logo.png"
+
+date: "2025-01-01"
+time: "16:30-17:00"
+day: 2
+part: 2
+---
+
+***
+
+<object data="/res/quarto.pdf" type="application/pdf" width="100%" height="600">
+</object> 

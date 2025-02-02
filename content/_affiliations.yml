@@ -1,0 +1,86 @@
+affiliations:
+  - id: ntnu
+    name: "Norwegian University of Science and Technology"
+    url: https://www.ntnu.edu/
+    city: Trondheim
+    country: Norway
+  - id: kisn
+    name: "Kavli Institute for Systems Neuroscience"
+    url: https://www.ntnu.edu/kavli/
+    city: Trondheim
+    country: Norway
+  - id: jca
+    name: "K.G. Jebsen Centre for Alzheimer's Disease"
+    url: https://www.ntnu.edu/kavli/k.g.-jebsen-centre-for-alzheimer-s-disease
+    city: Trondheim
+    country: Norway
+  - id: cambridge
+    name: "University of Cambridge"
+    url: https://www.cam.ac.uk/
+    city: Cambridge
+    country: United Kingdom
+  - id: max-planck
+    name: "Max Planck Institute for Human Cognitive and Brain Sciences"
+    url: https://www.cbs.mpg.de/
+    city: Leipzig
+    country: Germany
+  - id: ruhr
+    name: "Ruhr University Bochum"
+    url: https://www.ruhr-uni-bochum.de/
+    city: Bochum
+    country: Germany
+  - id: nudc
+    name: "The National Union Dementia Centre"
+    url: https://www.ntnu.edu/
+    city: Trondheim
+    country: Norway
+  - id: kuleuven
+    name: "KU Leuven"
+    url: https://www.kuleuven.be/
+    city: Leuven
+    country: Belgium
+  - id: ucl
+    name: "University College London"
+    url: https://www.ucl.ac.uk/
+    city: London
+    country: United Kingdom
+  - id: imperial
+    name: "Imperial College London"
+    url: https://www.imperial.ac.uk/
+    city: London
+    country: United Kingdom
+  - id: aging-health
+    name: "Norwegian National Advisory Unit on Ageing and Health"
+    url: https://www.aldringoghelse.no/
+    city: Oslo
+    country: Norway
+  - id: uef
+    name: "University of Eastern Finland"
+    url: https://www.uef.fi/
+    city: Kuopio
+    country: Finland
+  - id: ucph
+    name: "University of Copenhagen"
+    url: https://www.ku.dk/
+    city: Copenhagen
+    country: Denmark
+  - id: uio
+    name: "University of Oslo"
+    url: https://www.uio.no/
+    city: Oslo
+    country: Norway
+  - id: stolav
+    name: "St. Olavs Hospital"
+    url: https://stolav.no/
+    city: Trondheim
+    country: Norway
+  - id: nova
+    name: "NOVA Medical School"
+    url: https://www.nms.unl.pt/
+    city: Lisbon
+    country: Portugal
+  - id: lund
+    name: "Lund University"
+    url: https://www.lunduniversity.lu.se/
+    city: Lund
+    country: Sweden

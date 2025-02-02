@@ -1,0 +1,43 @@
+---
+title: "Prof. Kristine Freude"
+subtitle: "Professor at Department of Veterinary and Animal Sciences, University of Copenhagen"
+
+author:
+    name: "Kristine Freude"
+    degrees:
+      - PhD
+    affiliations:
+        - ref: ucph
+
+image: "/res/img/logo.png"
+
+categories:
+  - Microglia
+  - Early AD
+  - Cell Biology
+
+metadata-files: ["../../_people_partials.yml"]
+
+socials:
+    - name: Website
+      url: https://ivh.ku.dk/english/employees/?pure=en/persons/306913
+    - name: ResearchGate
+      url: https://www.researchgate.net/profile/Kristine-Freude
+---
+
+## About
+
+Prof. Kristine Freude specializes in microglial changes in early stages of Alzheimer's disease at the University of Copenhagen. Her research focuses on understanding the role of immune cells in AD progression.
+
+## Research Interests
+
+- Microglial function in AD
+- Early disease mechanisms
+- Cellular pathology
+- Neuroinflammation
+
+## Selected Publications
+
+- Freude K, et al. (2022). Microglial activation in early AD
+- Freude K, et al. (2020). Immune responses in neurodegeneration
+- Freude K, et al. (2018). Cellular mechanisms in AD 

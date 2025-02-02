@@ -1,0 +1,26 @@
+---
+title: "The clinical presentation and diagnosis of AD"
+
+author:
+    name: "[Gøril Rolfseng Grøntvedt](/content/people/speakers/grontvedt/)"
+    affiliations:
+        - ref: nudc
+        - ref: kisn
+        - ref: ntnu
+
+abstract: |
+  {{< lipsum 1 >}}
+
+categories:
+  - Alzheimer's Disease
+
+image: "/res/img/logo.png"
+image-alt: "Profile picture of Gøril Rolfseng Grøntvedt"
+
+date: "2025-01-01"
+time: "18:30-19:00"
+day: 1
+---
+
+<object data="/res/quarto.pdf" type="application/pdf" width="100%" height="600">
+</object>

@@ -1,0 +1,27 @@
+---
+title: "Ethologically relevant phenotyping of cognitive impairments in AD model mice"
+
+author:
+    name: "[Julija Krupic](/content/people/speakers/krupic/)"
+    affiliations:
+        - ref: cambridge
+
+abstract: |
+  {{< lipsum 1 >}}
+
+categories:
+  - Behavioral Analysis
+  - AD Models
+
+image: "/res/img/logo.png"
+
+date: "2025-01-01"
+time: "18:50-19:20"
+day: 2
+part: 2
+---
+
+***
+
+<object data="/res/quarto.pdf" type="application/pdf" width="100%" height="600">
+</object> 

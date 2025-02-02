@@ -1,0 +1,28 @@
+---
+title: "Modeling the onset of p-tau in rats"
+
+author:
+    name: "[Cliff Kentros](/content/people/speakers/kentros/)"
+    affiliations:
+        - ref: kisn
+        - ref: ntnu
+
+abstract: |
+  {{< lipsum 1 >}}
+
+categories:
+  - Neural Models
+  - Tau Pathology
+
+image: "/res/img/logo.png"
+
+date: "2025-01-01"
+time: "17:10-17:40"
+day: 2
+part: 2
+---
+
+***
+
+<object data="/res/quarto.pdf" type="application/pdf" width="100%" height="600">
+</object> 

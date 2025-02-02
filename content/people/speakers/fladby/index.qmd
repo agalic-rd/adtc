@@ -1,0 +1,44 @@
+---
+title: "Prof. Tormod Fladby"
+subtitle: "Professor of Neurology"
+
+author:
+    name: "Tormod Fladby"
+    degrees:
+      - PhD
+      - MD
+    affiliations:
+        - ref: uio
+
+image: "/res/img/logo.png"
+
+categories:
+  - Biomarkers
+  - Neuroinflammation
+  - Clinical Research
+
+metadata-files: ["../../_people_partials.yml"]
+
+socials:
+    - name: Website
+      url: https://www.med.uio.no/klinmed/english/people/aca/tormodfl/
+    - name: ResearchGate
+      url: https://www.researchgate.net/profile/Tormod-Fladby
+---
+
+## About
+
+Prof. Tormod Fladby is a neurologist specializing in Alzheimer's disease biomarkers. His research focuses on understanding how different biomarkers reflect neuronal and immune pathologies in AD.
+
+## Research Interests
+
+- AD biomarker development
+- Neuroinflammatory mechanisms
+- Clinical diagnostics
+- Early disease detection
+
+## Selected Publications
+
+- Fladby T, et al. (2022). Biomarker profiles in early AD
+- Fladby T, et al. (2020). Neuroinflammatory markers in AD
+- Fladby T, et al. (2018). Novel biomarkers for AD diagnosis 

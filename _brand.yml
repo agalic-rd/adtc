@@ -1,0 +1,56 @@
+# See: 
+## - https://posit-dev.github.io/brand-yml/
+## - https://quarto.org/docs/authoring/brand.html
+## - https://quarto.org/docs/reference/metadata/brand.html
+
+# Access from within .qmd: {{< brand color COLOR_NAME >}}
+color:
+  palette:
+    red: "#C3212B"
+    blue: "#00509E"
+    gray: "#888888"
+    black: "#000000"
+    white: "#FFFFFF"
+  background: white
+  foreground: black
+  primary: red
+  secondary: blue
+  tertiary: gray
+  success: blue
+  # info: blue
+  # warning: red
+  # danger: red
+  light: white
+  dark: "#404041"
+
+logo:
+  images:
+    jca-logo: 
+      path: /res/img/JCA.png
+      alt: "JCA logo"
+  medium: jca-logo
+
+typography:
+  fonts:
+    - family: Roboto Slab
+      source: google
+    - family: Fira Code
+      source: google
+  base:
+    family: Roboto Slab
+    line-height: 1.2
+    size: 1rem
+  headings:
+    family: Roboto Slab
+    weight: 400
+    color: secondary
+  link:
+    color: secondary
+  monospace:
+    family: Fira Code
+    size: 0.9em
+  monospace-inline:
+    color: "#222222"
+    background-color: "#ddeaf1" # or use a named color from `color`
+  monospace-block: 
+    background-color: "#eef4f8"

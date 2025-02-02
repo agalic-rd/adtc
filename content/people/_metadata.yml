@@ -1,0 +1,5 @@
+author-title: "Name"
+date-format: full
+
+metadata-files:
+  - ../_affiliations.yml

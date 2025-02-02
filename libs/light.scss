@@ -1,29 +1,9 @@
-/*-- scss:defaults --*/
-
-// Custom
-$red: #C3212B !default;
-$blue:  #00509E !default;
-$gray:  #888888 !default;
-
-
-$col1:          $red !default;
-$col2:          $blue !default;
-$col3:          $gray !default;
-
-$primary:       $col1 !default;
-$success:       $col3 !default;
-$link-color:    $col3 !default;
-
-$navbar-bg: $primary !default;
-
-// Code
-
-$code-block-border-left: $red !default;
-
 /*-- scss:rules --*/
 
+$navbar-bg: $brand-blue !default;
+
 .quarto-title-block .quarto-title-banner {
-    background-color: $col2 !important;
+    background-color: $brand-blue !important;
     color: white;
 }
 .quarto-title h1.title { 
@@ -31,20 +11,20 @@ $code-block-border-left: $red !default;
     /* background-color: transparent !important; */
 }
 
-h1:not(.title) { color: $col1;}
-h2:not(.title) { color: $col2;}
-h5.quarto-listing-category-title { color: $col2; }
+h1:not(.title) { color: $brand-red;}
+h2:not(.title) { color: $brand-blue;}
+h5.quarto-listing-category-title { color: $brand-blue; }
 
-.quarto-listing-category .category.active { color: $col3; }
+.quarto-listing-category .category.active { color: $brand-gray; }
 
-#progress-bar { background: lighten($col2, 20%); }
+#progress-bar { background: lighten($brand-blue, 20%); }
 
-.quarto-title:not(.column-body) h1.title { color: $col1; }
+.quarto-title:not(.column-body) h1.title { color: $brand-red; }
 
-.quarto-title:not(.column-body) .subtitle { color: $col2; }
-  
-.column-page h2 { color: $col2; }
+.quarto-title:not(.column-body) .subtitle { color: $brand-blue; }
 
-.card-body > .card-title { color: $col3; }
+// .column-page h2 { color: $brand-blue; }
 
-.navbar .nav-item > a.nav-link.active { border-top: 2px solid; } // #b4c5e9
+.card-body .card-title { color: $brand-blue; }
+
+.navbar .nav-item > a.nav-link.active { border-top: 2px solid; } // Mark active nav link with a border-top

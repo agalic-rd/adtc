@@ -4,3 +4,5 @@
 .Renviron
 /.quarto/
 /site_libs/
+/_freeze/
+/_site/

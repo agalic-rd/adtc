@@ -1,0 +1,118 @@
+---
+title: "Program"
+subtitle: "Dates TBA (2025)"
+
+listing:
+  - id: day1
+    field-display-names:
+      day: "Day"
+      time: "Time"
+      author: "Speaker"
+      title: "Event"
+    contents: 
+        - "../talks/**/*.qmd"
+        - other_events.yaml
+    type: table
+    field-links: [title]
+    sort: [day, time]
+    sort-ui: false
+    filter-ui: false
+    fields: [time, title, author]
+    include:
+        day: 1
+    
+  - id: day2-part1
+    field-display-names:
+      day: "Day"
+      time: "Time"
+      author: "Speaker"
+      title: "Event"
+    contents: 
+        - "../talks/**/*.qmd"
+        - other_events.yaml
+    type: table
+    field-links: [title]
+    sort: [day, time]
+    fields: [time, title, author]
+    sort-ui: false
+    filter-ui: false
+    include:
+        day: 2
+        part: 1
+    
+  - id: day2-part2
+    field-display-names:
+      day: "Day"
+      time: "Time"
+      author: "Speaker"
+      title: "Event"
+    contents: 
+        - "../talks/**/*.qmd"
+        - other_events.yaml
+    type: table
+    field-links: [title]
+    sort: [day, time]
+    fields: [time, title, author]
+    sort-ui: false
+    filter-ui: false
+    include:
+        day: 2
+        part: 2
+
+  - id: day3
+    field-display-names:
+      day: "Day"
+      time: "Time"
+      author: "Speaker"
+      title: "Event"
+    contents: 
+        - "../talks/**/*.qmd"
+        - other_events.yaml
+    type: table
+    field-links: [title]
+    sort: [day, time]
+    fields: [time, title, author]
+    sort-ui: false
+    filter-ui: false
+    include:
+        day: 3
+---
+
+::: {.panel-tabset}
+
+## Day 1
+
+### Organization, function, and dysfunction of the memory system in connection with AD
+
+*Moderated by [Heikki Tanila](/content/people/speakers/tanila/)*
+
+:::{#day1}
+:::
+
+
+## Day 2
+
+### [Part 1] Central aspects of AD: proteinopathy
+
+*Moderated by [Asgeir Kobro-Flatmoen](/content/people/speakers/kobro-flatmoen/)*
+
+:::{#day2-part1}
+:::
+
+### [Part 2] Central aspects of AD: Early cellular changes, behavior and cognition
+
+*Moderated by [Tora Bonnevie](/content/people/speakers/bonnevie/)*
+
+:::{#day2-part2}
+:::
+
+## Day 3
+
+### Translational research on AD
+
+*Moderator: [Prof. Gunnar Gouras](/content/people/speakers/gouras/)*
+
+:::{#day3}
+:::
+
+:::

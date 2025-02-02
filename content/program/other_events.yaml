@@ -1,0 +1,171 @@
+- title: "Registration and lunch"
+  date: "2025-01-01"
+  day: 1
+  time: "12:30-13:50"
+
+- title: "Welcoming address"
+  date: "2025-01-01"
+  day: 1
+  time: "13:55-14:00"
+
+- title: "Break with refreshments"
+  date: "2025-01-01"
+  day: 1
+  time: "16:00-16:20"
+
+- title: "Poster session 1"
+  date: "2025-01-01"
+  day: 1
+  time: "17:00-18:30"
+
+- title: "Dinner"
+  date: "2025-01-01"
+  day: 1
+  time: "20:15-22:00"
+
+- title: "Questions and discussion"
+  date: "2025-01-02"
+  day: 2
+  part: 1
+  time: "09:40-09:50"
+
+- title: "Questions and discussion"
+  date: "2025-01-02"
+  day: 2
+  part: 1
+  time: "10:20-10:30"
+
+- title: "Questions and discussion"
+  date: "2025-01-02"
+  day: 2
+  part: 1
+  time: "11:00-11:10"
+
+- title: "Break with refreshments"
+  date: "2025-01-02"
+  day: 2
+  part: 1
+  time: "11:10-11:30"
+
+- title: "Questions and discussion"
+  date: "2025-01-02"
+  day: 2
+  part: 1
+  time: "12:00-12:10"
+
+- title: "Questions and discussion"
+  date: "2025-01-02"
+  day: 2
+  part: 1
+  time: "12:40-12:50"
+
+- title: "Lunch"
+  date: "2025-01-02"
+  day: 2
+  part: 1
+  time: "12:50-14:00"
+
+- title: "Poster session 2"
+  date: "2025-01-02"
+  day: 2
+  part: 2
+  time: "15:20-16:30"
+
+- title: "Break with refreshments"
+  date: "2025-01-02"
+  day: 2
+  part: 2
+  time: "17:50-18:10"
+
+- title: "Dinner"
+  date: "2025-01-02"
+  day: 2
+  part: 2
+  time: "20:30-22:30"
+
+- title: "Break with refreshments"
+  date: "2025-01-03"
+  day: 3
+  time: "10:40-11:00"
+
+- title: "Closing remarks"
+  date: "2025-01-03"
+  day: 3
+  time: "12:20-12:30"
+
+- title: "Organize for departure"
+  date: "2025-01-03"
+  day: 3
+  time: "12:30-12:45"
+
+- title: "Lunch"
+  date: "2025-01-03"
+  day: 3
+  time: "12:45-14:00"
+
+- title: "Departure"
+  date: "2025-01-03"
+  day: 3
+  time: "14:00"
+
+- title: "Questions and discussion"
+  date: "2025-01-02"
+  day: 2
+  part: 2
+  time: "14:30-14:40"
+
+- title: "Questions and discussion"
+  date: "2025-01-02"
+  day: 2
+  part: 2
+  time: "15:10-15:20"
+
+- title: "Questions and discussion"
+  date: "2025-01-02"
+  day: 2
+  part: 2
+  time: "17:00-17:10"
+
+- title: "Questions and discussion"
+  date: "2025-01-02"
+  day: 2
+  part: 2
+  time: "17:40-17:50"
+
+- title: "Questions and discussion"
+  date: "2025-01-02"
+  day: 2
+  part: 2
+  time: "18:40-18:50"
+
+- title: "Questions and discussion"
+  date: "2025-01-02"
+  day: 2
+  part: 2
+  time: "19:20-19:30"
+
+- title: "Questions and discussion"
+  date: "2025-01-02"
+  day: 2
+  part: 2
+  time: "20:00-20:10"
+
+- title: "Questions and discussion"
+  date: "2025-01-03"
+  day: 3
+  time: "09:40-09:50"
+
+- title: "Questions and discussion"
+  date: "2025-01-03"
+  day: 3
+  time: "10:20-10:40"
+
+- title: "Questions and discussion"
+  date: "2025-01-03"
+  day: 3
+  time: "11:30-11:40"
+
+- title: "Questions and discussion"
+  date: "2025-01-03"
+  day: 3
+  time: "12:10-12:20"

@@ -1,0 +1,62 @@
+---
+title: "Talks"
+subtitle: "Dates TBA (2025)"
+
+listing:
+  - id: keynotes
+    field-display-names:
+        day: "Day"
+        time: "Time"
+    contents: "keynotes/*/*.qmd"
+    feed: true
+    type: grid
+    grid-columns: 2
+    image-height: 300px
+    image-placeholder: "/res/img/logo.png"
+    sort: [day, time]
+    grid-item-align: left
+    grid-item-border: true
+    categories: true
+    sort-ui: [day, time]
+    filter-ui: false
+    fields: [image, title, categories, description, author, day, time]
+    max-description-length: 150    
+  - id: talks
+    field-display-names:
+        day: "Day"
+        time: "Time"
+    contents: "regular/*/*.qmd"
+    max-items: 30
+    feed: true
+    type: grid
+    grid-columns: 3
+    image-height: 300px
+    image-placeholder: "/res/img/logo.png"
+    sort: [day, time]
+    grid-item-align: left
+    grid-item-border: true
+    categories: true
+    sort-ui: [day, day desc, time, time desc]
+    filter-ui: false
+    fields: [image, title, categories, description, author, day, time]
+    max-description-length: 100
+
+engine: knitr
+---
+
+```{css echo = FALSE}
+.quarto-title-meta-heading, .quarto-title-meta-contents {
+    display: none;
+}
+```
+
+
+## Keynotes
+
+:::{#keynotes}
+:::
+
+## Talks
+
+:::{#talks}
+:::

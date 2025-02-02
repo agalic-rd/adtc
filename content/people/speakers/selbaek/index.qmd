@@ -1,0 +1,43 @@
+---
+title: "Prof. Geir Selbæk"
+subtitle: "Professor at Norwegian National Advisory Unit on Ageing and Health"
+
+author:
+    name: "Geir Selbæk"
+    degrees:
+      - PhD
+    affiliations:
+        - ref: aging-health
+
+image: "/res/img/logo.png"
+
+categories:
+  - Lifestyle Factors
+  - Dementia Risk
+  - Clinical Research
+
+metadata-files: ["../../_people_partials.yml"]
+
+socials:
+    - name: Website
+      url: https://www.aldringoghelse.no/english/
+    - name: ResearchGate
+      url: https://www.researchgate.net/profile/Geir-Selbaek
+---
+
+## About
+
+Prof. Geir Selbæk is a leading researcher in aging and dementia at the Norwegian National Advisory Unit on Ageing and Health. His research focuses on understanding the relationship between lifestyle factors and dementia risk.
+
+## Research Interests
+
+- Lifestyle interventions in dementia
+- Risk factors for AD
+- Prevention strategies
+- Clinical epidemiology
+
+## Selected Publications
+
+- Selbæk G, et al. (2022). Lifestyle factors and dementia risk
+- Selbæk G, et al. (2020). Prevention strategies in aging populations
+- Selbæk G, et al. (2018). Risk factors for cognitive decline 

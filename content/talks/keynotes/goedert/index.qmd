@@ -1,0 +1,27 @@
+---
+title: "The filaments of tau and their impact on AD"
+
+author:
+    name: "[Michel Goedert](/content/people/speakers/goedert/)"
+    affiliations:
+        - ref: cambridge
+
+abstract: |
+  {{< lipsum 1 >}}
+
+categories:
+  - Alzheimer's Disease
+
+image: "/res/img/logo.png"
+image-alt: "Profile picture of Michel Goedert"
+
+day: 2
+date: "2025-01-01"
+part: 1
+time: "09:00-09:40"
+---
+
+***
+
+<object data="/res/quarto.pdf" type="application/pdf" width="100%" height="600">
+</object>

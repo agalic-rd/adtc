@@ -1,0 +1,5 @@
+format:
+  html:
+    template-partials:
+      - /partials/people/title-block.html
+      - /partials/people/title-metadata.html

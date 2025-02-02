@@ -1,0 +1,43 @@
+---
+title: "Prof. Julija Krupic"
+subtitle: "Professor at University of Cambridge"
+
+author:
+    name: "Julija Krupic"
+    degrees:
+      - PhD
+    affiliations:
+        - ref: cambridge
+
+image: "/res/img/logo.png"
+
+categories:
+  - Behavioral Analysis
+  - Cognitive Testing
+  - AD Models
+
+metadata-files: ["../../_people_partials.yml"]
+
+socials:
+    - name: Website
+      url: https://www.neuroscience.cam.ac.uk/directory/profile.php?julijakrupic
+    - name: ResearchGate
+      url: https://www.researchgate.net/profile/Julija-Krupic
+---
+
+## About
+
+Prof. Julija Krupic specializes in behavioral neuroscience at the University of Cambridge, focusing on developing ethologically relevant approaches to studying cognitive impairments in AD model mice.
+
+## Research Interests
+
+- Behavioral phenotyping
+- Cognitive assessment
+- Animal models of AD
+- Natural behavior analysis
+
+## Selected Publications
+
+- Krupic J, et al. (2023). Natural behavior analysis in AD models
+- Krupic J, et al. (2021). Ethological approaches to cognition
+- Krupic J, et al. (2019). Behavioral markers in AD 

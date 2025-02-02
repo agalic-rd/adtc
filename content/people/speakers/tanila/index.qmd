@@ -1,0 +1,43 @@
+---
+title: "Prof. Heikki Tanila"
+subtitle: "Professor at University of Eastern Finland"
+
+author:
+    name: "Heikki Tanila"
+    degrees:
+      - PhD
+    affiliations:
+        - ref: uef
+
+image: "/res/img/logo.png"
+
+categories:
+  - Neuronal Hyperexcitability
+  - AD Mechanisms
+  - Neural Circuits
+
+metadata-files: ["../../_people_partials.yml"]
+
+socials:
+    - name: Website
+      url: https://uefconnect.uef.fi/en/person/heikki.tanila/
+    - name: ResearchGate
+      url: https://www.researchgate.net/profile/Heikki-Tanila
+---
+
+## About
+
+Prof. Heikki Tanila is a neuroscientist at the University of Eastern Finland, specializing in the relationship between neuronal hyperexcitability and Alzheimer's disease. His research investigates the complex feedback loops in AD pathogenesis.
+
+## Research Interests
+
+- Neuronal hyperexcitability in AD
+- Circuit dysfunction in neurodegeneration
+- Memory system organization
+- Therapeutic interventions
+
+## Selected Publications
+
+- Tanila H, et al. (2021). Neuronal hyperexcitability in AD progression
+- Tanila H, et al. (2019). Circuit mechanisms in memory disorders
+- Tanila H, et al. (2017). Neural basis of memory dysfunction 

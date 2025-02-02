@@ -1,51 +1,12 @@
-/* css styles */
-/* Fira code font for code blocks - Needs to be at the top */
-@import url(https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css);
-
-pre code { font-family: 'Fira Code', monospace; }
-
-@supports (font-variation-settings: normal) {
-  pre code { font-family: 'Fira Code VF', monospace; }
-}
-
-:root {
-  --red: #C3212B;
-  --blue:  #00509E;
-  --gray:  #888888;
-}
-
-pre code { font-size: 0.85rem; }
-
-/* details > summary { color: rgb(136, 136, 136); } */
-
-.about-entity {
-  justify-content: center;
-}
-
-.about-entity > img.about-image {
-  clip-path: polygon(50% 0%, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%);
-}
-
-/* For the about trick to add link buttons */
-.quarto-about-solana.column-body {
-  padding-top: 0 !important;
-  padding-bottom: 0 !important
-}
-
-.quarto-about-jolla div p {
-  text-align: center;
+.nav-footer-center ul {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
 }
 
 /* Custom text styles */
-
-.about-employer {
-  font-size: 0.85rem;
-  color: #888888;
-}
-
-.about-missions {
-  font-size: 0.95rem;
-}
 
 .quarto-grid-item {
   display: flex;
@@ -60,4 +21,54 @@ pre code { font-size: 0.85rem; }
 
 .quarto-grid-item .card-body {
   flex: 1;
+}
+
+.center {
+  text-align: center;
+}
+
+/* Social buttons */
+
+.social-buttons {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.social-buttons .btn {
+    margin-bottom: 0.5rem;
+}
+
+/* Custom templates for people */
+
+.quarto-title-banner.people-custom {
+    padding: 1rem 0;  /* Reduce vertical padding */
+}
+
+.quarto-title-banner.people-custom .quarto-title {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin: 0;  /* Removed auto margins */
+    padding: 0 15px; /* Add some padding on the sides */
+}
+
+.people-custom .title-block-image {
+    flex-shrink: 0;
+}
+
+.people-custom .title-block-image img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    clip-path: polygon(50% 0%, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%);
+}
+
+.people-custom .title-block-text {
+    flex-grow: 1;
+}
+
+/* Keep existing about-image hexagon style but adjust for title block */
+.people-custom .title-block-image img {
+    clip-path: polygon(50% 0%, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%);
 }

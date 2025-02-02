@@ -1,0 +1,27 @@
+---
+title: "Roles of inflammation in Alzheimer's disease and dementia"
+
+author:
+    name: "[Paul Edison](/content/people/speakers/edison/)"
+    affiliations:
+        - ref: imperial
+
+abstract: |
+  {{< lipsum 1 >}}
+
+categories:
+  - Inflammation
+  - Dementia
+
+image: "/res/img/logo.png"
+
+date: "2025-01-01"
+time: "14:00-14:30"
+day: 2
+part: 2
+---
+
+***
+
+<object data="/res/quarto.pdf" type="application/pdf" width="100%" height="600">
+</object> 

@@ -1,0 +1,26 @@
+---
+title: "Neurocognitive alterations of entorhinal functioning in preclinical AD"
+
+author:
+    name: "[Nikolai Axmacher](/content/people/speakers/axmacher/)"
+    affiliations:
+        - ref: ruhr
+
+abstract: |
+  {{< lipsum 1 >}}
+
+categories:
+  - Alzheimer's Disease
+
+image: "/res/img/logo.png"
+image-alt: "Profile picture of Nikolai Axmacher"
+
+date: "2025-01-01"
+time: "19:10-19:40"
+day: 1
+---
+
+***
+
+<object data="/res/quarto.pdf" type="application/pdf" width="100%" height="600">
+</object>

@@ -1,0 +1,50 @@
+---
+title: "People"
+listing:
+    - id: speakers
+      field-display-names:
+        affiliation: "Affiliation"
+      contents: "speakers/**/*.qmd"
+      type: grid
+      grid-columns: 3
+      image-height: 300px
+      image-placeholder: "/res/img/logo.png"
+      sort: title
+      fields: [image, title, subtitle, categories, description]
+      categories: true
+      sort-ui: false
+      filter-ui: true
+      max-description-length: 200
+    - id: organizers
+      field-display-names:
+        affiliation: "Affiliation"
+      contents: "organizers/**/*.qmd"
+      type: grid
+      grid-columns: 3
+      image-height: 300px
+      image-placeholder: "/res/img/logo.png"
+      sort: title
+      fields: [image, title, subtitle, categories, description]
+      categories: true
+      sort-ui: false
+      filter-ui: true
+      max-description-length: 200
+
+engine: knitr
+---
+
+```{css echo = FALSE}
+.quarto-title-meta-heading, .quarto-title-meta-contents {
+    display: none;
+}
+```
+
+## Speakers
+
+:::{#speakers}
+:::
+
+## Organizers
+
+:::{#organizers}
+:::
