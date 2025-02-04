@@ -9,7 +9,7 @@ author:
     affiliations:
         - ref: ucl
 
-image: "/res/img/logo.png"
+image: "Karen_Duff.jpg"
 
 categories:
   - Translational Research

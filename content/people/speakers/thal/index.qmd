@@ -9,7 +9,7 @@ author:
     affiliations:
         - ref: kuleuven
 
-image: "/res/img/logo.png"
+image: "Dietmar_Thal.jpg"
 
 categories:
   - Neuropathology

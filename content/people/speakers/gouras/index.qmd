@@ -9,7 +9,7 @@ author:
     affiliations:
         - ref: lund
 
-image: "/res/img/logo.png"
+image: "Gunnar_Gouras.png"
 
 categories:
   - Experimental Dementia
@@ -39,5 +39,5 @@ Prof. Gunnar Gouras is a leading researcher in experimental dementia at Lund Uni
 ## Selected Publications
 
 - Gouras GK, et al. (2020). Early pathological interactions in AD
-- Gouras GK, et al. (2018). Intraneuronal Aβ and synaptic dysfunction
+- Gouras/logo.png" GK, et al. (2018). Intraneuronal Aβ and synaptic dysfunction
 - Gouras GK, et al. (2015). Protein interactions in early AD pathogenesis 

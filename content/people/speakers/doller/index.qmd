@@ -12,8 +12,7 @@ author:
         - ref: kisn
         - ref: max-planck
 
-image: https://www.cbs.mpg.de/1253592/header_image-1673870849.webp
-image-alt: "Profile picture of Christian Döller"
+image: "Christian_Doller.jpg"
 
 categories:
   - Imaging

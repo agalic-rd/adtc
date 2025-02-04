@@ -11,8 +11,7 @@ author:
         - ref: nudc
         - ref: kisn
 
-image: https://backends.it.ntnu.no/user-profile-service/rest/files/4bd71ca6-60ae-3994-beaf-315cefe614df
-image-alt: "Profile picture of May-Britt Moser"
+image: "May_Britt_Moser.jpg"
 
 categories:
   - Neural Circuits

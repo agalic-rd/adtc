@@ -9,7 +9,7 @@ author:
     affiliations:
         - ref: nova
 
-image: "/res/img/logo.png"
+image: "Claudia_Almeida.jpg"
 
 categories:
   - Cell Biology

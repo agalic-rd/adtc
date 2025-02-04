@@ -9,7 +9,7 @@ author:
     affiliations:
         - ref: uio
 
-image: "/res/img/logo.png"
+image: "Evandro_Fei_Fang.png"
 
 categories:
   - NAD+ Metabolism

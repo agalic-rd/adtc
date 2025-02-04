@@ -9,7 +9,7 @@ author:
     affiliations:
         - ref: uef
 
-image: "/res/img/logo.png"
+image: "Heikki_Tanila.jpg"
 
 categories:
   - Neuronal Hyperexcitability

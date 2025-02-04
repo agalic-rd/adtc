@@ -9,7 +9,7 @@ author:
     affiliations:
         - ref: cambridge
 
-image: "/res/img/logo.png"
+image: "Maria_Grazia_Spillantini.jpg"
 
 categories:
   - Molecular Neurology

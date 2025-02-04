@@ -10,7 +10,7 @@ author:
         - ref: stolav
         - ref: ntnu
 
-image: "/res/img/logo.png"
+image: "Katja_Scheffler.jpg"
 
 categories:
   - Translational Medicine

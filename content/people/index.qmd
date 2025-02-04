@@ -7,7 +7,7 @@ listing:
       contents: "speakers/**/*.qmd"
       type: grid
       grid-columns: 3
-      image-height: 300px
+      image-height: 400px
       image-placeholder: "/res/img/logo.png"
       sort: title
       fields: [image, title, subtitle, categories, description]
@@ -21,7 +21,7 @@ listing:
       contents: "organizers/**/*.qmd"
       type: grid
       grid-columns: 3
-      image-height: 300px
+      image-height: 400px
       image-placeholder: "/res/img/logo.png"
       sort: title
       fields: [image, title, subtitle, categories, description]

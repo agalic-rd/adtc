@@ -9,7 +9,8 @@ author:
     affiliations:
         - ref: aging-health
 
-image: "/res/img/logo.png"
+image: "Geir_Selbaek.jpg"
+
 
 categories:
   - Lifestyle Factors
