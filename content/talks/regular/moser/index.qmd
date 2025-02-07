@@ -6,10 +6,7 @@ author:
     affiliations:
         - ref: nudc
         - ref: kisn
-  - name: "[May-Britt Moser](/content/people/speakers/moser-mb/)"
-    affiliations:
-        - ref: nudc
-        - ref: kisn
+
 
 categories:
   - Alzheimer's Disease

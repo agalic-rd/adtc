@@ -1,27 +1,27 @@
 ---
-title: "Tau and microglia and MTL"
+title: "TBA"
 
 author:
-    name: "[Maria Grazia Spillantini](/content/people/speakers/spillantini/)"
+    name: "[Nasjonalforeningen for Folkehelse](/content/people/speakers/folkehelse/)"
     affiliations:
-        - ref: cambridge
+        - ref: ntnu
 
 abstract: |
   {{< lipsum 1 >}}
 
 categories:
-  - Tau Pathology
-  - Microglia
+  - Alzheimer's Disease
+  - Public Health
 
 image: "/res/img/logo.png"
 
+
 date: "2025-01-01"
-time: "10:30-11:00"
-day: 2
-part: 1
+time: "19:10-19:40"
+day: 1
 ---
 
 ***
 
 <object data="/res/quarto.pdf" type="application/pdf" width="100%" height="600">
-</object> 
+</object>

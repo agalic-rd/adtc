@@ -8,15 +8,46 @@
   day: 1
   time: "13:55-14:00"
 
+- title: "Questions and discussion"
+  date: "2025-01-01"
+  day: 1
+  time: "14:30-14:40"
+
+- title: "Questions and discussion"
+  date: "2025-01-01"
+  day: 1
+  time: "15:10-15:20"
+
+- title: "Questions and discussion"
+  date: "2025-01-01"
+  day: 1
+  time: "15:50-16:00"
+
 - title: "Break with refreshments"
   date: "2025-01-01"
   day: 1
   time: "16:00-16:20"
 
+- title: "Questions and discussion"
+  date: "2025-01-01"
+  day: 1
+  time: "16:50-17:00"
+
 - title: "Poster session 1"
   date: "2025-01-01"
   day: 1
   time: "17:00-18:30"
+
+- title: "Questions and discussion"
+  date: "2025-01-01"
+  day: 1
+  time: "19:00-19:10"
+
+- title: "Questions and discussion"
+  date: "2025-01-01"
+  day: 1
+  time: "19:40-19:50"
+
 
 - title: "Dinner"
   date: "2025-01-01"
@@ -81,7 +112,7 @@
   date: "2025-01-02"
   day: 2
   part: 2
-  time: "20:30-22:30"
+  time: "20:15-22:00"
 
 - title: "Break with refreshments"
   date: "2025-01-03"
@@ -143,12 +174,6 @@
   day: 2
   part: 2
   time: "19:20-19:30"
-
-- title: "Questions and discussion"
-  date: "2025-01-02"
-  day: 2
-  part: 2
-  time: "20:00-20:10"
 
 - title: "Questions and discussion"
   date: "2025-01-03"

@@ -99,8 +99,8 @@ layout: custom
             <img src="{{< meta image >}}" alt="{{< meta image-alt >}}">
         </div>
         <div class="title-container">
-            <h2 class="custom-title">COAIM</h2>
-            <div class="custom-subtitle">Conference On Alzheimer's disease In Midt-Norge <br> International collaborative conference</div>
+            <h2 class="custom-title">TBA</h2>
+            <div class="custom-subtitle">Conference On Alzheimer's disease <br> International collaborative conference</div>
         </div>
     </div>
 </div>
