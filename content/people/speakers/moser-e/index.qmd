@@ -11,8 +11,7 @@ author:
         - ref: nudc
         - ref: kisn
 
-image: https://backends.it.ntnu.no/user-profile-service/rest/files/69fed153-b614-3ded-9310-beefd22ff3f4
-image-alt: "Profile picture of Edvard Moser"
+image: "Edvard_Moser.jpg"
 
 categories:
   - Neural Circuits
