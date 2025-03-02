@@ -7,7 +7,8 @@ engine: knitr
 layout: custom
 ---
 
-```{css echo=FALSE}
+```{=html}
+<style>
 /* TODO: use https://github.com/quarto-dev/quarto-web/blob/54f82c6f137be7e7702e0befad24a3e7d2524bf1/docs/gallery/carousel.R#L5 */
 
 .quarto-title-block {
@@ -77,6 +78,7 @@ layout: custom
     color: #00509E;
     white-space: pre-line;
 }
+</style>
 ```
 
 ```{=html}

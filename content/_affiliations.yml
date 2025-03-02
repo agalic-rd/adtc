@@ -84,3 +84,8 @@ affiliations:
     url: https://www.lunduniversity.lu.se/
     city: Lund
     country: Sweden
+  - id: nff
+    name: "Nasjonalforeningen for folkehelsen"
+    url: https://nasjonalforeningen.no/
+    city: Oslo
+    country: Norway
