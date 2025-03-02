@@ -2,7 +2,7 @@
 title: "Sequence of protein changes in AD"
 
 author:
-    name: "[Dietmar Thal](/content/people/speakers/thal/)"
+    name: "[Dietmar Thal](/content/people/speakers/thal/index.qmd)"
     affiliations:
         - ref: kuleuven
 

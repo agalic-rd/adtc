@@ -2,7 +2,7 @@
 title: "The AD time project"
 
 author:
-    name: "[Tora Bonnevie](/content/people/speakers/bonnevie/)"
+    name: "[Tora Bonnevie](/content/people/speakers/bonnevie/index.qmd)"
     affiliations:
         - ref: kisn
         - ref: ntnu

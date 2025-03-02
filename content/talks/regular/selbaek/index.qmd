@@ -2,7 +2,7 @@
 title: "Lifestyle and Dementia Risk: Does It Apply to Alzheimer's?"
 
 author:
-    name: "[Geir Selbæk](/content/people/speakers/selbaek/)"
+    name: "[Geir Selbæk](/content/people/speakers/selbaek/index.qmd)"
     affiliations:
         - ref: aging-health
 

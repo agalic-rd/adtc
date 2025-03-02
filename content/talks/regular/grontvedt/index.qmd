@@ -2,7 +2,7 @@
 title: "The clinical presentation and diagnosis of AD"
 
 author:
-    name: "[Gøril Rolfseng Grøntvedt](/content/people/speakers/grontvedt/)"
+    name: "[Gøril Rolfseng Grøntvedt](/content/people/speakers/grontvedt/index.qmd)"
     affiliations:
         - ref: nudc
         - ref: kisn

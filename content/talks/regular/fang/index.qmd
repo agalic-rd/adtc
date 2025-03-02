@@ -2,7 +2,7 @@
 title: "Fine-tuning the NAD+-mitophagy axis in healthy brain ageing"
 
 author:
-    name: "[Evandro Fang](/content/people/speakers/fang/)"
+    name: "[Evandro Fang](/content/people/speakers/fang/index.qmd)"
     affiliations:
         - ref: uio
 

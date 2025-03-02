@@ -2,7 +2,7 @@
 title: "Anatomical units of space, time and memory"
 
 author:
-    name: "[Menno Witter](/content/people/speakers/witter/)"
+    name: "[Menno Witter](/content/people/speakers/witter/index.qmd)"
     affiliations:
         - ref: kisn
 

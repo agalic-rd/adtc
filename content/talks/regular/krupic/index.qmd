@@ -2,7 +2,7 @@
 title: "Ethologically relevant phenotyping of cognitive impairments in AD model mice"
 
 author:
-    name: "[Julija Krupic](/content/people/speakers/krupic/)"
+    name: "[Julija Krupic](/content/people/speakers/krupic/index.qmd)"
     affiliations:
         - ref: cambridge
 

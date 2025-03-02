@@ -2,7 +2,7 @@
 title: "Endosomal dysfunction triggers intraneuronal beta-amyloid in late-onset AD"
 
 author:
-    name: "[Claudia Almeida](/content/people/speakers/almeida/)"
+    name: "[Claudia Almeida](/content/people/speakers/almeida/index.qmd)"
     affiliations:
         - ref: nova
 

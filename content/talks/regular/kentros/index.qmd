@@ -2,7 +2,7 @@
 title: "Modeling the onset of p-tau in rats"
 
 author:
-    name: "[Cliff Kentros](/content/people/speakers/kentros/)"
+    name: "[Cliff Kentros](/content/people/speakers/kentros/index.qmd)"
     affiliations:
         - ref: kisn
         - ref: ntnu

@@ -2,7 +2,7 @@
 title: "Early/initiating pathological interactions, Aβ, p-tau and ApoE"
 
 author:
-    name: "[Gunnar Gouras](/content/people/speakers/gouras/)"
+    name: "[Gunnar Gouras](/content/people/speakers/gouras/index.qmd)"
     affiliations:
         - ref: lund
 

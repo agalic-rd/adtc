@@ -2,7 +2,7 @@
 title: "Roles of inflammation in Alzheimer's disease and dementia"
 
 author:
-    name: "[Paul Edison](/content/people/speakers/edison/)"
+    name: "[Paul Edison](/content/people/speakers/edison/index.qmd)"
     affiliations:
         - ref: imperial
 

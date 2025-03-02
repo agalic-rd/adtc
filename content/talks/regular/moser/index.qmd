@@ -2,7 +2,7 @@
 title: "Functional units of space, time and memory"
 
 author:
-  - name: "[Edvard Moser](/content/people/speakers/moser-e/)"
+  - name: "[Edvard Moser](/content/people/speakers/moser-e/index.qmd)"
     affiliations:
         - ref: nudc
         - ref: kisn

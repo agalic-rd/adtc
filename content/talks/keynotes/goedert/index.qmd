@@ -2,7 +2,7 @@
 title: "The filaments of tau and their impact on AD"
 
 author:
-    name: "[Michel Goedert](/content/people/speakers/goedert/)"
+    name: "[Michel Goedert](/content/people/speakers/goedert/index.qmd)"
     affiliations:
         - ref: cambridge
 

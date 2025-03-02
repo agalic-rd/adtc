@@ -2,7 +2,7 @@
 title: "Neuron-selective vulnerability in prodromal AD"
 
 author:
-    name: "[Asgeir Kobro-Flatmoen](/content/people/speakers/kobro-flatmoen/)"
+    name: "[Asgeir Kobro-Flatmoen](/content/people/speakers/kobro-flatmoen/index.qmd)"
     affiliations:
         - ref: nudc
         - ref: kisn

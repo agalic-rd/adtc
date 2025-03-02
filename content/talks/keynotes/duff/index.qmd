@@ -2,7 +2,7 @@
 title: "Translational research on the AD cascade"
 
 author:
-    name: "[Karen Duff](/content/people/speakers/duff/)"
+    name: "[Karen Duff](/content/people/speakers/duff/index.qmd)"
     affiliations:
         - ref: ucl
 

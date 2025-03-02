@@ -2,7 +2,7 @@
 title: "Microglial changes in early stages of AD"
 
 author:
-    name: "[Kristine Freude](/content/people/speakers/freude/)"
+    name: "[Kristine Freude](/content/people/speakers/freude/index.qmd)"
     affiliations:
         - ref: ucph
 

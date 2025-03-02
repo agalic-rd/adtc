@@ -84,7 +84,7 @@ listing:
 
 ### Organization, function, and dysfunction of the memory system in connection with AD
 
-*Moderated by [Heikki Tanila](/content/people/speakers/tanila/)*
+*Moderated by [Heikki Tanila](/content/people/speakers/tanila/index.qmd)*
 
 :::{#day1}
 :::
@@ -94,14 +94,14 @@ listing:
 
 ### [Part 1] Central aspects of AD: proteinopathy
 
-*Moderated by [Asgeir Kobro-Flatmoen](/content/people/speakers/kobro-flatmoen/)*
+*Moderated by [Asgeir Kobro-Flatmoen](/content/people/speakers/kobro-flatmoen/index.qmd)*
 
 :::{#day2-part1}
 :::
 
 ### [Part 2] Central aspects of AD: Early cellular changes, behavior and cognition
 
-*Moderated by [Tora Bonnevie](/content/people/speakers/bonnevie/)*
+*Moderated by [Tora Bonnevie](/content/people/speakers/bonnevie/index.qmd)*
 
 :::{#day2-part2}
 :::
@@ -110,7 +110,7 @@ listing:
 
 ### Translational research on AD
 
-*Moderator: [Prof. Gunnar Gouras](/content/people/speakers/gouras/)*
+*Moderator: [Prof. Gunnar Gouras](/content/people/speakers/gouras/index.qmd)*
 
 :::{#day3}
 :::

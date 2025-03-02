@@ -2,7 +2,7 @@
 title: "Alzheimer's disease biomarkers reflecting neuronal and innate immune brain pathologies and pathomechanisms"
 
 author:
-    name: "[Tormod Fladby](/content/people/speakers/fladby/)"
+    name: "[Tormod Fladby](/content/people/speakers/fladby/index.qmd)"
     affiliations:
         - ref: uio
 

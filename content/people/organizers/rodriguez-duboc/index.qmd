@@ -1,5 +1,5 @@
 ---
-title: "Agalic Rodriguez-Duboc"
+title: "Dr. Agalic Rodriguez-Duboc"
 subtitle: "Postdoctoral Fellow at the Kavli Institute for Systems Neuroscience"
 
 author:

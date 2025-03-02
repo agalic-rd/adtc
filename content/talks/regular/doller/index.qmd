@@ -2,7 +2,7 @@
 title: "Imaging the anatomical and structural units of memory"
 
 author:
-    name: "[Christian Döller](/content/people/speakers/doller/)"
+    name: "[Christian Döller](/content/people/speakers/doller/index.qmd)"
     affiliations:
         - ref: jca
         - ref: kisn

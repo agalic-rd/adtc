@@ -2,7 +2,7 @@
 title: "The Trønderbrain project – Next-generation translational medicine"
 
 author:
-    name: "[Katja Scheffler](/content/people/speakers/scheffler/)"
+    name: "[Katja Scheffler](/content/people/speakers/scheffler/index.qmd)"
     affiliations:
         - ref: stolav
         - ref: ntnu

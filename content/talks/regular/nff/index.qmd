@@ -2,7 +2,7 @@
 title: "TBA"
 
 author:
-    name: "[Nasjonalforeningen for Folkehelse](/content/people/speakers/folkehelse/)"
+    name: "[Nasjonalforeningen for Folkehelse](/content/people/speakers/folkehelse/index.qmd)"
     affiliations:
         - ref: ntnu
 
