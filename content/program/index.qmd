@@ -110,7 +110,7 @@ listing:
 
 ### Translational research on AD
 
-*Moderator: [Prof. Gunnar Gouras](/content/people/speakers/gouras/index.qmd)*
+*Moderator: [Gøril Rolfseng Grøntvedt](/content/people/speakers/gouras/index.qmd)*
 
 :::{#day3}
 :::
