@@ -15,12 +15,12 @@ project:
     - "!libs/"
 
 website:
-  title: "COAIM"
+  title: "ADTC"
   description: "Conference On Alzheimer's disease In Midt-Norge  \n International collaborative conference"
   favicon: "/res/img/JCA.png"
   bread-crumbs: true
   back-to-top-navigation: true
-  # site-url: https://www.coaim.org
+  # site-url: https://www.ad-tc.org
 
   ### Navbar ###
   navbar:
@@ -55,19 +55,22 @@ website:
     border: true
     background: dark
     left:
-      - text: "{{< fa university height=20px >}} Norges Teknisk-Naturvitenskapelige Universitet"
+      - text: "Norges Teknisk-Naturvitenskapelige Universitet"
         href: https://www.ntnu.no/
-      - text: "{{< iconify iconoir brain-research height=20px >}} Kavli Institute for Systems Neuroscience" 
+      - text: "Kavli Institute for Systems Neuroscience" 
         href: https://www.ntnu.edu/kavli/
-      - text: "{{< iconify game-icons caduceus height=20px >}} Nasjonalforeningen For Folkehelsen"
+      - text: "Nasjonalforeningen for Folkehelsen"
         href: https://nasjonalforeningen.no/
     center: 
-      - text: "© 2025, COAIM"
+      - text: "© 2025, ADTC"
         href: LICENSE.md
         aria-label: "Website's license"
       - text: "About"
         href: about.qmd
         aria-label: "About"
+    right:
+      - text: "Register"
+        href: https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform
 
 lightbox: true
 

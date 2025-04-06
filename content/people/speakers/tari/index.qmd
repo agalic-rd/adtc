@@ -1,0 +1,48 @@
+---
+title: "Dr. Atefe Tari"
+subtitle: "Researcher at Cardiac Exercise Research Group, NTNU"
+
+author:
+    name: "Atefe Tari"
+    degrees:
+      - PhD
+    affiliations:
+        - ref: stolav
+        - ref: ntnu
+
+image: "/res/img/logo.png"
+image-alt: "Profile picture of Atefe Tari"
+
+metadata-files: ["../../_people_partials.yml"]
+
+categories:
+  - Exercise
+  - Alzheimer's Disease
+  - Plasma Treatment
+
+socials:
+    - name: Website
+      url: https://www.ntnu.edu/cerg
+---
+
+## About
+
+Dr. Atefe Tari is a researcher at the Cardiac Exercise Research Group (CERG), Department of Circulation and Medical Imaging, Faculty of Medicine and Health Sciences at NTNU. Her research focuses on innovative approaches to treating Alzheimer's Disease, particularly through the investigation of exercise-derived plasma as a therapeutic intervention.
+
+## Research Interests
+
+- Exercise-based interventions for neurodegenerative diseases
+- Therapeutic plasma applications
+- Clinical trials in Alzheimer's treatment
+- Cardiovascular and neurological health connections
+
+## Current Research
+
+Dr. Tari currently leads the ExPlas Study, which investigates the potential benefits of exercised plasma for treating Alzheimer's Disease. This innovative research explores how plasma components from individuals who have exercised may contain beneficial factors that could help ameliorate the progression of Alzheimer's Disease.
+
+## Selected Research Areas
+
+- Exercise physiology and neurological health
+- Plasma-based therapeutic approaches
+- Clinical interventions for Alzheimer's Disease
+- Translational medicine

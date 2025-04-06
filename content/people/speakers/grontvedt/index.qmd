@@ -1,6 +1,6 @@
 ---
 title: "Dr. Gøril Rolfseng Grøntvedt"
-subtitle: "Clinical Researcher at the National Union Dementia Centre and KISN at NTNU"
+subtitle: "Clinical Researcher at the JCA and KISN at NTNU"
 
 author:
     name: "Gøril Rolfseng Grøntvedt"
@@ -8,7 +8,7 @@ author:
     degrees:
       - PhD
     affiliations:
-        - ref: nudc
+        - ref: jca
         - ref: kisn
         - ref: ntnu
 
@@ -30,7 +30,7 @@ socials:
 
 ## About
 
-Dr. Gøril Rolfseng Grøntvedt is a clinical researcher at the National Union Dementia Centre and KISN at NTNU. Her work focuses on improving the clinical diagnosis and understanding of Alzheimer's disease, with particular emphasis on early detection and biomarker development.
+Dr. Gøril Rolfseng Grøntvedt is a clinical researcher at the JCA and KISN at NTNU. Her work focuses on improving the clinical diagnosis and understanding of Alzheimer's disease, with particular emphasis on early detection and biomarker development.
 
 ## Research Interests
 

@@ -4,12 +4,12 @@ title: "Neuron-selective vulnerability in prodromal AD"
 author:
     name: "[Asgeir Kobro-Flatmoen](/content/people/speakers/kobro-flatmoen/index.qmd)"
     affiliations:
-        - ref: nudc
+        - ref: jca
         - ref: kisn
         - ref: ntnu
 
 abstract: |
-  {{< lipsum 1 >}}
+  Content TBA
 
 categories:
   - Alzheimer's Disease
@@ -17,12 +17,12 @@ categories:
 image: "/res/img/logo.png"
 image-alt: "Profile picture of Asgeir Kobro-Flatmoen"
 
-date: "2025-01-01"
+date: "2025-09-10"
 time: "16:20-16:50"
 day: 1
 ---
 
 ***
 
-<object data="/res/quarto.pdf" type="application/pdf" width="100%" height="600">
-</object>
+<!-- <object data="/res/quarto.pdf" type="application/pdf" width="100%" height="600">
+</object> -->

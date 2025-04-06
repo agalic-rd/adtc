@@ -29,11 +29,6 @@ affiliations:
     url: https://www.ruhr-uni-bochum.de/
     city: Bochum
     country: Germany
-  - id: nudc
-    name: "The National Union Dementia Centre"
-    url: https://www.ntnu.edu/
-    city: Trondheim
-    country: Norway
   - id: kuleuven
     name: "KU Leuven"
     url: https://www.kuleuven.be/

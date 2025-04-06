@@ -67,8 +67,3 @@
 .people-custom .title-block-text {
     flex-grow: 1;
 }
-
-/* Keep existing about-image hexagon style but adjust for title block */
-.people-custom .title-block-image img {
-    clip-path: polygon(50% 0%, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%);
-}

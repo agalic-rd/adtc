@@ -1,6 +1,6 @@
 ---
 image: res/img/logo.png
-image-alt: "COAIM conference logo"
+image-alt: "ADTC conference logo"
 
 engine: knitr
 
@@ -69,7 +69,8 @@ layout: custom
 }
 
 .title-container .custom-title {
-    margin: 0 0 0 1rem;
+    font-size: 3rem;
+    font-weight: bold;
     color: #C3212B;
 }
 
@@ -101,8 +102,8 @@ layout: custom
             <img src="{{< meta image >}}" alt="{{< meta image-alt >}}">
         </div>
         <div class="title-container">
-            <h2 class="custom-title">TBA</h2>
-            <div class="custom-subtitle">Conference On Alzheimer's disease <br> International collaborative conference</div>
+            <p class="custom-title">ADTC</p>
+            <div class="custom-subtitle">Alzheimer's Disease <br> Translational Conference <br><br> <b>10-12 September 2025</b><br>Trondheim, Norway</div>
         </div>
     </div>
 </div>

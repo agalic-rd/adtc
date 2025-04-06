@@ -8,8 +8,8 @@ author:
     affiliations:
         - ref: nff
 
-image: "https://nasjonalforeningen.no/Static/Img/nasjonalforeningen-logo.svg"
-image-alt: "Logo of Nasjonalforeningen for folkehelsen"
+image: "nff.svg"
+image-alt: "Logo of Nasjonalforeningen for Folkehelsen"
 
 categories:
   - Public Health
@@ -27,13 +27,13 @@ socials:
 
 ## About
 
-Nasjonalforeningen for folkehelsen (The Norwegian National Association for Public Health) is a voluntary humanitarian organization working to combat cardiovascular diseases and dementia. As one of Norway's leading public health organizations, they combine research funding, advocacy, and public health initiatives to improve the lives of those affected by these conditions.
+Nasjonalforeningen for Folkehelsen (The Norwegian National Association for Public Health) is a voluntary humanitarian organization working to combat cardiovascular diseases and dementia. As one of Norway's leading public health organizations, they combine research funding, advocacy, and public health initiatives to improve the lives of those affected by these conditions.
 
 ### Research Support and Conference Contribution
 
 The organization plays a crucial role in advancing medical research in Norway, particularly in the fields of dementia and cardiovascular diseases. Through their research funding programs, they support innovative projects and facilitate knowledge exchange between researchers, healthcare professionals, and the public.
 
-As a proud sponsor of this conference, Nasjonalforeningen for folkehelsen continues their commitment to fostering international collaboration and sharing cutting-edge research findings in neurodegenerative diseases. Their support enables the participation of world-leading researchers and helps bridge the gap between scientific discovery and public health implementation.
+As a proud sponsor of this conference, Nasjonalforeningen for Folkehelsen continues their commitment to fostering international collaboration and sharing cutting-edge research findings in neurodegenerative diseases. Their support enables the participation of world-leading researchers and helps bridge the gap between scientific discovery and public health implementation.
 
 ### Key Focus Areas
 

@@ -9,7 +9,7 @@ author:
       - MD
       - PhD
     affiliations:
-        - ref: nudc
+        - ref: jca
         - ref: kisn
 
 image: https://agalic-rd.com/res/avatar.jpg

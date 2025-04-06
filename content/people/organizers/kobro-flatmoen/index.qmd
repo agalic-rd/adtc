@@ -1,6 +1,6 @@
 ---
 title: "Dr. Asgeir Kobro-Flatmoen"
-subtitle: "Neuroscientist at the National Union Dementia Centre and KISN"
+subtitle: "Neuroscientist at the JCA and KISN"
 
 author:
     name: "Asgeir Kobro-Flatmoen"
@@ -8,7 +8,7 @@ author:
     degrees:
       - PhD
     affiliations:
-        - ref: nudc
+        - ref: jca
         - ref: kisn
         - ref: ntnu
 
@@ -30,7 +30,7 @@ socials:
 
 ## About
 
-Dr. Asgeir Kobro-Flatmoen is a neuroscientist at the National Union Dementia Centre and KISN at NTNU. His research focuses on understanding the cellular mechanisms that underlie selective neuronal vulnerability in the early stages of Alzheimer's disease.
+Dr. Asgeir Kobro-Flatmoen is a neuroscientist at the JCA and KISN at NTNU. His research focuses on understanding the cellular mechanisms that underlie selective neuronal vulnerability in the early stages of Alzheimer's disease.
 
 ## Research Interests
 

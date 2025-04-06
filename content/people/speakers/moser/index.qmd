@@ -8,7 +8,7 @@ author:
     degrees:
       - PhD
     affiliations:
-        - ref: nudc
+        - ref: jca
         - ref: kisn
 
 image: "Edvard_Moser.jpg"

@@ -1,0 +1,29 @@
+---
+title: "Exercised Plasma to Treat Alzheimer's Disease – The ExPlas Study"
+
+author:
+    name: "[Atefe Tari](/content/people/speakers/tari/index.qmd)"
+    affiliations:
+        - ref: stolav
+        - ref: ntnu
+
+abstract: |
+    Content TBA
+
+categories:
+  - Exercise
+  - Plasma Treatment
+  - Clinical Trial
+
+image: "/res/img/logo.png"
+
+date: "2025-09-11"
+time: "17:10-17:40"
+day: 2
+part: 2
+---
+
+***
+
+<!-- <object data="/res/quarto.pdf" type="application/pdf" width="100%" height="600">
+</object>  --> 
