@@ -1,0 +1,43 @@
+---
+title: "Prof. Gunnar Gouras"
+subtitle: "Professor of Experimental Dementia Research at Lund University"
+
+author:
+    name: "Gunnar Gouras"
+    degrees:
+      - PhD
+    affiliations:
+        - ref: lund
+
+image: "Gunnar_Gouras.png"
+
+categories:
+  - Experimental Dementia
+  - Early Pathology
+  - Protein Interactions
+
+metadata-files: ["../../_people_partials.yml"]
+
+socials:
+    - name: Website
+      url: https://www.med.lu.se/english/experimental_medical_science/biomedical_research/experimental_dementia
+    - name: ResearchGate
+      url: https://www.researchgate.net/profile/Gunnar-Gouras
+---
+
+## About
+
+Prof. Gunnar Gouras is a leading researcher in experimental dementia at Lund University. His work focuses on understanding the early pathological interactions in Alzheimer's disease, particularly between Aβ, p-tau and ApoE.
+
+## Research Interests
+
+- Early pathological interactions in AD
+- Protein interactions in neurodegeneration
+- Amyloid beta and tau pathology
+- Therapeutic targeting strategies
+
+## Selected Publications
+
+- Gouras GK, et al. (2020). Early pathological interactions in AD
+- Gouras/logo.png" GK, et al. (2018). Intraneuronal Aβ and synaptic dysfunction
+- Gouras GK, et al. (2015). Protein interactions in early AD pathogenesis 
