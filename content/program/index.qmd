@@ -110,7 +110,7 @@ listing:
 
 ### Translational research on AD
 
-*Moderator: [Gøril Rolfseng Grøntvedt](/content/people/speakers/gouras/index.qmd)*
+*Moderator: [Gøril Rolfseng Grøntvedt](/content/people/speakers/grontvedt/index.qmd)*
 
 :::{#day3}
 :::
