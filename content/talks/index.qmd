@@ -1,6 +1,5 @@
 ---
 title: "Talks"
-subtitle: "Dates TBA (2025)"
 
 listing:
   - id: keynotes
@@ -26,7 +25,7 @@ listing:
         day: "Day"
         time: "Time"
     contents: "regular/*/*.qmd"
-    max-items: 30
+    page-size: 30
     feed: true
     type: grid
     grid-columns: 3

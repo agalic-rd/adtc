@@ -35,21 +35,36 @@ layout: custom
     overflow: hidden;
 }
 
+body {
+    margin: 0; /* Ensure no default body margin */
+}
+
+.footer {
+    position: relative; /* Needed for z-index to work */
+    z-index: 2; /* Higher than content-wrapper */
+}
+
 .content-wrapper {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: center; /* Center flex items horizontally */
+    align-items: center; /* Center flex items vertically */
     min-height: 100vh;
     text-align: center;
-    position: relative;
-    z-index: 1;
+    position: absolute; /* Position relative to viewport/ancestor */
+    top: 0;
+    left: 50%; /* Move left edge to center */
+    transform: translateX(-50%); /* Shift back by half its own width */
+    width: 100%; /* Use 100% of its positioning context */
+    z-index: 1; /* Lower than footer */
+    padding: 0;
+    margin: 0; /* Reset margin */
 }
 
 .hex-container {
-    position: relative;
+    position: relative; /* Keep positioning context for children */
     width: 300px;
     height: 300px;
-    margin: 0 auto;
+    margin: 0 auto; /* Center hex within its parent */
     clip-path: polygon(50% 0%, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%);
     background-color: rgba(255, 255, 255, 0.5);
     padding: 20px;
@@ -62,10 +77,11 @@ layout: custom
 }
 
 .title-container {
-    margin-top: 2rem;
+    margin: 2rem auto 0 auto; /* Center title container horizontally */
     background-color: rgba(255, 255, 255, 0.6);
     padding: 2rem;
     border-radius: 10px;
+    max-width: fit-content; /* Prevent stretching if parent is wide */
 }
 
 .title-container .custom-title {
@@ -84,7 +100,7 @@ layout: custom
 
 ```{=html}
 <div class="carousel-background">
-    <div id="backgroundCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="3000">
+    <div id="backgroundCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="4000">
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <img src="res/img/carousel/Main.jpg" alt="NTNU campus">

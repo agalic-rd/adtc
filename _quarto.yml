@@ -50,6 +50,13 @@ website:
   ### Sidebar ###
   sidebar: false
 
+  announcement: 
+    content: "Conference [**registration**](https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform) is now open" 
+    position: below-navbar 
+    icon: info-circle
+    type: secondary
+    dismissable: true
+
   ### Footer ###
   page-footer:
     border: true
@@ -59,6 +66,8 @@ website:
         href: https://www.ntnu.no/
       - text: "Kavli Institute for Systems Neuroscience" 
         href: https://www.ntnu.edu/kavli/
+      - text: "St. Olavs hospital"
+        href: https://www.stolav.no/
       - text: "Nasjonalforeningen for Folkehelsen"
         href: https://nasjonalforeningen.no/
     center: 
@@ -68,9 +77,6 @@ website:
       - text: "About"
         href: about.qmd
         aria-label: "About"
-    right:
-      - text: "Register"
-        href: https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform
 
 lightbox: true
 
@@ -87,7 +93,7 @@ format:
     css: libs/styles.css
     toc: true
     grid:
-      sidebar-width: 250px
+      sidebar-width: 0px
       body-width: 1200px
       margin-width: 250px
     df-print: paged

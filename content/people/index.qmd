@@ -7,7 +7,7 @@ listing:
       contents: "speakers/**/*.qmd"
       type: grid
       grid-columns: 3
-      max-items: 30
+      page-size: 30
       image-height: 400px
       image-placeholder: "/res/img/logo.png"
       sort: title
@@ -19,7 +19,9 @@ listing:
     - id: organizers
       field-display-names:
         affiliation: "Affiliation"
-      contents: "organizers/**/*.qmd"
+      contents: 
+        - "organizers/**/*.qmd"
+        - "speakers/{kobro-flatmoen,grontvedt,gouras,goedert,fang,nff}/index.qmd"
       type: grid
       grid-columns: 3
       image-height: 400px
