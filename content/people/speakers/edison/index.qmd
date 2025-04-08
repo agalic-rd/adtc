@@ -9,7 +9,7 @@ author:
     affiliations:
         - ref: imperial
 
-image: "/res/img/logo.png"
+image: "/res/img/Paul_Edison.jpg"
 
 categories:
   - Inflammation

@@ -84,13 +84,46 @@ layout: custom
 
 ```{=html}
 <div class="carousel-background">
-    <div id="backgroundCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
+    <div id="backgroundCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="3000">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="res/img/carousel/NTNU.jpg" alt="NTNU campus">
+                <img src="res/img/carousel/Main.jpg" alt="NTNU campus">
             </div>
             <div class="carousel-item">
-                <img src="res/img/carousel/Trondheim.jpg" alt="Trondheim">
+                <img src="res/img/carousel/Aerial.jpg" alt="Trondheim">
+            </div>
+            <div class="carousel-item">
+                <img src="res/img/carousel/Elva.jpg" alt="Nidelva">
+            </div>
+            <div class="carousel-item">
+                <img src="res/img/carousel/Fall.jpg" alt="Bridge">
+            </div>
+            <div class="carousel-item">
+                <img src="res/img/carousel/Cath.jpg" alt="Cathedral">
+            </div>
+            <div class="carousel-item">
+                <img src="res/img/carousel/Fjord.jpg" alt="Fjord">
+            </div>
+            <div class="carousel-item">
+                <img src="res/img/carousel/NTNU.jpg" alt="NTNU">
+            </div>
+            <div class="carousel-item">
+                <img src="res/img/carousel/Marina.jpg" alt="Pier">
+            </div>
+            <div class="carousel-item">
+                <img src="res/img/carousel/Golf.jpg" alt="Golf">
+            </div>
+            <div class="carousel-item">
+                <img src="res/img/carousel/View.jpg" alt="Panorama">
+            </div>
+            <div class="carousel-item">
+                <img src="res/img/carousel/Host.jpg" alt="City">
+            </div>
+            <div class="carousel-item">
+                <img src="res/img/carousel/Sjo.jpg" alt="Lake">
+            </div>
+            <div class="carousel-item">
+                <img src="res/img/carousel/Oya.jpg" alt="Bymarka">
             </div>
         </div>
     </div>
