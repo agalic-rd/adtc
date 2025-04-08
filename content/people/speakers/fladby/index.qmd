@@ -10,7 +10,7 @@ author:
     affiliations:
         - ref: uio
 
-image: "/res/img/Tormod_Fladby.jpg"
+image: "Tormod_Fladby.jpg"
 
 categories:
   - Biomarkers
