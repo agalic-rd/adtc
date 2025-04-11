@@ -51,7 +51,7 @@ website:
   sidebar: false
 
   announcement: 
-    content: "Conference [**registration**](https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform) is now open" 
+    content: "Conference [**registration**](https://docs.google.com/forms/d/e/1FAIpQLSeQIoCR2CXUVLiegQm6Rsh7Ph5LHKDiCepFcalr5sWBk5YlKA/viewform?usp=header) is now open" 
     position: below-navbar 
     icon: info-circle
     type: secondary
