@@ -10,9 +10,23 @@ Kunskapssenteret is a modern facility designed to foster collaboration and learn
 
 ### Hosting Institutions
 
-*   **Norwegian University of Science and Technology (NTNU):** NTNU is Norway's largest university, with a strong focus on science, technology, engineering, and medicine. It plays a central role in Trondheim's academic and research environment.
-*   **Kavli Institute for Systems Neuroscience (KISN):** KISN is a major research centre in the field and is led by Nobel Laureates Edvard Moser and May-Britt Moser. The institute is comprised of 10 research groups with research interests including cognitive, molecular, computational and all other facets of neuroscience.
-*   **K.G. Jebsen Centre for Alzheimer's Disease:** The K.G. Jebsen Centre for Alzheimer’s Disease is led by Edvard Moser and Asgeir Kobro-Flatmoen. Comprised of interdisciplinary experts aiming to understand the onset and developpment of Alzheimer's, the center has translational reach thanks to tight collaboration with St Olavs Hospital.
-*   **St. Olavs Hospital:** The university hospital in Trondheim, closely integrated with NTNU's Faculty of Medicine and Health Sciences. The conference venue itself is part of the hospital complex.
+* **[Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/){target="_blank"}:**
+    NTNU is Norway's largest university, with a strong focus on science,
+    technology, engineering, and medicine. It plays a central role in
+    Trondheim's academic and research environment.
+* **[Kavli Institute for Systems Neuroscience (KISN)](https://www.ntnu.edu/kavli/){target="_blank"}:**
+    KISN is a major research centre in the field and is led by Nobel Laureates
+    Edvard Moser and May-Britt Moser. The institute is comprised of 10 research
+    groups with research interests including cognitive, molecular, computational
+    and all other facets of neuroscience.
+* **[K.G. Jebsen Centre for Alzheimer's Disease](https://www.ntnu.edu/kavli/k.g.-jebsen-centre-for-alzheimer-s-disease){target="_blank"}:**
+    The K.G. Jebsen Centre for Alzheimer's Disease is led by Edvard Moser and
+    Asgeir Kobro-Flatmoen. Comprised of interdisciplinary experts aiming to
+    understand the onset and developpment of Alzheimer's, the center has
+    translational reach thanks to tight collaboration with St Olavs Hospital.
+* **[St. Olavs Hospital](https://stolav.no/){target="_blank"}:**
+    The university hospital in Trondheim, closely integrated with NTNU's Faculty
+    of Medicine and Health Sciences. The conference venue itself is part of the
+    hospital complex.
 
 The venue is well-connected by public transport and within reasonable distance of the city center and various accommodation options.

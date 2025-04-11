@@ -26,13 +26,6 @@ Vaernes Airport (TRD) is located about 32 km northeast of Trondheim city center.
 - **Purchase**: Tickets can be bought online, through their app, or directly from the driver
 - **Bus stop**: Located right outside the arrival terminal
 
-:::{.column-margin}
-::::{.callout-note appearance="simple"}
-#### Bus information
-[More details here](/content/logistics/travel/bus.qmd)
-::::
-:::
-
 ### Train
 
 [SJ Nord](https://www.sj.no/en/frontpage) runs train services from Værnes station to Trondheim Central Station (Trondheim S).
@@ -43,16 +36,9 @@ Vaernes Airport (TRD) is located about 32 km northeast of Trondheim city center.
 - **Station access**: The airport train station is connected to the terminal building by a covered walkway (5-minute walk)
 - **Tickets**: Available from ticket machines at the station or online
 
-:::{.column-margin}
-::::{.callout-note appearance="simple"}
-#### Train information
-[More details here](/content/logistics/travel/train.qmd)
-::::
-:::
-
 ### Taxi
 
-Taxis are readily available outside the arrival terminal.
+Taxis are readily available outside the arrival terminal. You can also book one in advance, using the [Trøndertaxi](https://trondertaxi.no/) app or website. They will ask for your flight number to know when you will arrive, in case of delays.
 
 - **Journey time**: Around 30-35 minutes (depending on traffic)
 
@@ -60,13 +46,6 @@ Taxis are readily available outside the arrival terminal.
 - **Companies**:
     - [Trøndertaxi](https://trondertaxi.no/): +47 07373
     - [Norgestaxi](https://norgestaxi.no/): +47 08000
-
-:::{.column-margin}
-::::{.callout-note appearance="simple"}
-#### Taxi information
-[More details here](/content/logistics/travel/taxi.qmd)
-::::
-:::
 
 ## City Plan
 

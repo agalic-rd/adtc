@@ -1,5 +1,0 @@
----
-title: "Taxi transportation"
----
-
-Book through a taxi company or use a taxi app.
