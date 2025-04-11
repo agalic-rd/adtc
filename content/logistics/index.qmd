@@ -4,9 +4,7 @@ title: "Logistics"
 
 ## Venue
 
-**TODO: Summary of venue**
-
-{{< lipsum 1 >}}
+The conference will take place at **Kunskapssenteret (The Knowledge Centre)**, part of St. Olavs Hospital and NTNU. It's a modern facility centrally located on the hospital campus. The event is hosted by NTNU, the KISN lab, and the KG Jebsen Centre for Alzheimer's Disease.
 
 :::{.column-margin}
 ::::{.callout-note appearance="simple"}
@@ -59,7 +57,7 @@ Taxis are readily available outside the arrival terminal.
 - **Journey time**: Around 30-35 minutes (depending on traffic)
 
 - **Approximate cost**: NOK 800-1000
-- **Companies**: 
+- **Companies**:
     - [Trøndertaxi](https://trondertaxi.no/): +47 07373
     - [Norgestaxi](https://norgestaxi.no/): +47 08000
 
@@ -72,27 +70,24 @@ Taxis are readily available outside the arrival terminal.
 
 ## City Plan
 
-**TODO: Summary of city layout + markers on map**
+Trondheim, Norway's historic third city and a modern university town, offers a blend of cultural attractions like Nidaros Cathedral, charming neighbourhoods like Bakklandet, and beautiful natural surroundings by the fjord. The city center is compact and walkable.
 
 :::{.column-margin}
 ::::{.callout-note appearance="simple"}
 #### Trondheim city information
 [More details here](/content/logistics/trondheim.qmd)
 ::::
-
 :::
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d7139.030494232128!2d10.3860781!3d63.4276172!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sno!4v1738433670044!5m2!1sen!2sno" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-## Accomodations
+## Accommodations
 
-**TODO: Summary of accomodations**
-
-{{< lipsum 1 >}}
+Conference attendance is free, with refreshments provided. Attendees must arrange their own accommodation and meals. Trondheim offers diverse options, from luxury hotels (e.g., Britannia) and mid-range choices (e.g., Scandic Nidelven, Thon Hotel Nidaros) to hostels and B&Bs. The city also boasts a rich culinary scene.
 
 :::{.column-margin}
 ::::{.callout-note appearance="simple"}
-#### Accomodations information
+#### Accommodations information
 [More details here](/content/logistics/accomodations.qmd)
 ::::
 :::

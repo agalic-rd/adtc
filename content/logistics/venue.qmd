@@ -1,3 +1,18 @@
 ---
 title: "Venue"
 ---
+
+The conference will be held at **Kunskapssenteret (The Knowledge Centre)**, located within the St. Olavs Hospital campus, integrated with the Norwegian University of Science and Technology (NTNU).
+
+**Address:** Olav Kyrres gate 17, Trondheim.
+
+Kunskapssenteret is a modern facility designed to foster collaboration and learning, situated centrally within the hospital and university area.
+
+### Hosting Institutions
+
+*   **Norwegian University of Science and Technology (NTNU):** NTNU is Norway's largest university, with a strong focus on science, technology, engineering, and medicine. It plays a central role in Trondheim's academic and research environment.
+*   **Kavli Institute for Systems Neuroscience (KISN):** KISN is a major research centre in the field and is led by Nobel Laureates Edvard Moser and May-Britt Moser. The institute is comprised of 10 research groups with research interests including cognitive, molecular, computational and all other facets of neuroscience.
+*   **K.G. Jebsen Centre for Alzheimer's Disease:** The K.G. Jebsen Centre for Alzheimer’s Disease is led by Edvard Moser and Asgeir Kobro-Flatmoen. Comprised of interdisciplinary experts aiming to understand the onset and developpment of Alzheimer's, the center has translational reach thanks to tight collaboration with St Olavs Hospital.
+*   **St. Olavs Hospital:** The university hospital in Trondheim, closely integrated with NTNU's Faculty of Medicine and Health Sciences. The conference venue itself is part of the hospital complex.
+
+The venue is well-connected by public transport and within reasonable distance of the city center and various accommodation options.
