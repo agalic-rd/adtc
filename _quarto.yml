@@ -66,18 +66,18 @@ website:
         href: https://www.ntnu.no/
       - text: "Kavli Institute for Systems Neuroscience" 
         href: https://www.ntnu.edu/kavli/
-      - text: "St. Olavs hospital"
-        href: https://www.stolav.no/
-      - text: "Nasjonalforeningen for Folkehelsen"
-        href: https://nasjonalforeningen.no/
     center: 
       - text: "© 2025, ADTC"
         href: LICENSE.md
         aria-label: "Website's license"
-    right:
       - text: "Contact Us"
         href: mailto:contact@adtc.no
         aria-label: "Contact Us"
+    right:
+      - text: "St. Olavs hospital"
+        href: https://www.stolav.no/
+      - text: "Nasjonalforeningen for Folkehelsen"
+        href: https://nasjonalforeningen.no/
 
 lightbox: true
 
