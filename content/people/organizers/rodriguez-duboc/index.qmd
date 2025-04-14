@@ -16,8 +16,10 @@ image: https://agalic-rd.com/res/avatar.jpg
 image-alt: "Profile picture of Agalic Rodriguez-Duboc"
 
 categories:
-    - Neuroscience
+    - Transcriptomics
     - Alzheimer's Disease
+    - Bioinformatics
+    - Cell Culture
 
 metadata-files: ["../../_people_partials.yml"]
 
