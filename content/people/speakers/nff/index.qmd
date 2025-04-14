@@ -27,7 +27,7 @@ socials:
 
 ## About
 
-Nasjonalforeningen for Folkehelsen (The Norwegian National Association for Public Health) is a voluntary humanitarian organization working to combat cardiovascular diseases and dementia. As one of Norway's leading public health organizations, they combine research funding, advocacy, and public health initiatives to improve the lives of those affected by these conditions.
+Nasjonalforeningen for Folkehelsen is a voluntary humanitarian organization working to combat cardiovascular diseases and dementia. As one of Norway's leading public health organizations, they combine research funding, advocacy, and public health initiatives to improve the lives of those affected by these conditions.
 
 ### Research Support and Conference Contribution
 

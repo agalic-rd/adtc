@@ -2,11 +2,13 @@
 title: "Venue"
 ---
 
+## The Venue
+
 The conference will be held at **Kunskapssenteret (The Knowledge Centre)**, located within the St. Olavs Hospital campus, integrated with the Norwegian University of Science and Technology (NTNU).
 
 **Address:** Olav Kyrres gate 17, Trondheim.
 
-Kunskapssenteret is a modern facility designed to foster collaboration and learning, situated centrally within the hospital and university area.
+Kunskapssenteret is a modern facility designed to foster collaboration and learning, situated centrally within the hospital and university area. It is well-connected by public transport and within reasonable distance of the city center and various accommodation options.
 
 ### Hosting Institutions
 
@@ -29,4 +31,8 @@ Kunskapssenteret is a modern facility designed to foster collaboration and learn
     of Medicine and Health Sciences. The conference venue itself is part of the
     hospital complex.
 
-The venue is well-connected by public transport and within reasonable distance of the city center and various accommodation options.
+### Funding institutions
+
+* **[Nasjonalforeningen for Folkehelsen](https://nasjonalforeningen.no/){target="_blank"}**
+
+Nasjonalforeningen for Folkehelsen is a voluntary humanitarian organization working to combat cardiovascular diseases and dementia. As one of Norway’s leading public health organizations, they combine research funding, advocacy, and public health initiatives to improve the lives of those affected by these conditions.

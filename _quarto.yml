@@ -20,7 +20,7 @@ website:
   favicon: "/res/img/JCA.png"
   bread-crumbs: true
   back-to-top-navigation: true
-  # site-url: https://www.ad-tc.org
+  site-url: https://www.adtc.no
 
   ### Navbar ###
   navbar:
@@ -74,9 +74,10 @@ website:
       - text: "© 2025, ADTC"
         href: LICENSE.md
         aria-label: "Website's license"
-      - text: "About"
-        href: about.qmd
-        aria-label: "About"
+    right:
+      - text: "Contact Us"
+        href: mailto:contact@adtc.no
+        aria-label: "Contact Us"
 
 lightbox: true
 

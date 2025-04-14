@@ -12,14 +12,9 @@ Attendees are responsible for booking and paying for their own accommodation and
 
 Here are a few options ranging from luxury to budget-friendly. Many hotels are located in the city center, offering convenient access to the venue via public transport or walking.
 
-**Luxury:**
-
 * **[Britannia Hotel](https://britannia.no/en){target="_blank"}:**
     A historic, 5-star hotel in the city center known for its elegance, spa, and
     Michelin-starred restaurant, Speilsalen.
-
-**Mid-Range:**
-
 * **[Radisson Blu Royal Garden Hotel](https://www.radissonhotels.com/en-us/hotels/radisson-blu-trondheim-royal-garden){target="_blank"}:**
     Located centrally, often popular for events.
 * **[Scandic Nidelven](https://www.scandichotels.com/hotels/norway/trondheim/scandic-nidelven){target="_blank"}:**
@@ -38,11 +33,6 @@ Here are a few options ranging from luxury to budget-friendly. Many hotels are l
     Large, modern hotel connected to Lerkendal stadium, a bit further from the
     absolute center but well-connected.
 
-**Budget-Friendly:**
-
-*   **[RUMi Hostel](https://www.rumi.no/){target="_blank"}:**
-    A hostel option for budget travelers.
-
 For a more comprehensive list including B&Bs and other options, please check
 [Visit Trondheim's Accommodation page](https://visittrondheim.no/en/accommodation/){target="_blank"}.
 
@@ -56,4 +46,63 @@ Trondheim is celebrated as a European Region of Gastronomy and "Home of Nordic F
 *   **Special Diets:** Options for vegan, vegetarian, and other dietary needs are available.
 *   **Bars & Pubs:** A lively nightlife scene with craft breweries, cocktail bars, and traditional pubs.
 
-Explore options on the [Visit Trondheim Eat & Drink page](https://visittrondheim.no/en/eat-and-drink/). It's recommended to book tables for dinner, especially at popular restaurants.
+Explore more options on the
+[Visit Trondheim Eat & Drink page](https://visittrondheim.no/en/eat-and-drink/).
+
+**Restaurants:**
+
+*   **[Fagn](https://fagn.no/en/){target="_blank"}:** Celebrated
+    Michelin-starred restaurant offering modern, refined Nordic cuisine across
+    two concepts: a fine dining restaurant upstairs and a more casual
+    bistro/bar downstairs. Known for its creative dishes and warm atmosphere.
+*   **[To Rom og Kjøkken](https://toromogkjokken.no/en/){target="_blank"}:**
+    A classic and popular bistro known for its high-quality European dishes
+    prepared with Norwegian ingredients. Great atmosphere.
+*   **[Bula Neobistro](https://www.bulaneobistro.no/){target="_blank"}:** Offers an
+    innovative and playful tasting menu experience with creative flavor
+    combinations and presentation. Known for its fun vibe.
+*   **[Baklandet Skydsstation](https://www.skydsstation.no/){target="_blank"}:**
+    A charming and historic cafe/restaurant in the picturesque Bakklandet
+    district, serving traditional Norwegian dishes, cakes, and cocoa in a
+    cozy setting.
+*   **[Kalas & Canasta](https://www.kalasogcanasta.no/){target="_blank"}:**
+    A popular bistro located by the Nidelva river, known for its seasonal menu,
+    good wine list, and lively atmosphere, especially in summer.
+
+**Bars & Pubs:**
+
+*   **[Trondhjem Mikrobryggeri](https://www.tmb.no/){target="_blank"}:** A local
+    microbrewery and pub offering a wide selection of their own craft beers
+    alongside hearty pub food in a rustic setting.
+*   **[Antikvariatet Musikkkafé og Bar](https://antikvariatet.no/){target="_blank"}:**
+    A unique spot combining a bookstore, cafe, and pub by the river. Features
+    live music, a good beer selection, and a cozy, bohemian atmosphere.
+*   **[ØX Tap Room](https://oxtaproom.no/){target="_blank"}:** The taproom for the
+    local ØX brewery, serving a wide range of their own craft beers, often
+    including experimental batches. Popular among beer enthusiasts.
+*   **[Raus Bar](https://www.rausbar.no/){target="_blank"}:** A stylish cocktail bar
+    known for its skilled bartenders, creative and classic cocktails, and
+    intimate, sophisticated atmosphere.
+*   **[Kieglekroa](https://www.kieglekroa.no/){target="_blank"}:** Claiming to be
+    Trondheim's oldest pub, this cellar bar offers a traditional pub
+    experience with a selection of beers and a historic ambiance.
+
+**Cafés & Breakfast:**
+
+*   **[Scandic Nidelven Breakfast](https://www.scandichotels.com/hotels/norway/trondheim/scandic-nidelven/restaurant-bar/restaurant){target="_blank"}:**
+    While part of a hotel, its breakfast buffet is nationally famous and
+    award-winning, open to non-guests (booking usually required). Offers an
+    immense variety.
+*   **[Dromedar Kaffebar](https://dromedar.no/){target="_blank"}:** A popular local
+    coffee shop chain with several locations. Known for excellent coffee,
+    skilled baristas, and good baked goods.
+*   **[Hevd Håndverksbakeri](https://hevd.no/){target="_blank"}:** An artisan bakery
+    focused on sourdough bread and high-quality pastries, buns, and
+    sandwiches. Great for a quick breakfast or lunch.
+*   **[Jacobsen & Svart](https://jacobsensvart.no/){target="_blank"}:** A specialty
+    coffee roaster and cafe dedicated to high-quality, ethically sourced
+    coffee. Ideal for coffee purists.
+*   **[SellandBakk](https://www.sellanraa.com/){target="_blank"}:** Located in
+    Bakklandet (associated with Sellanraa Bok & Bar), this cozy cafe is
+    renowned for its delicious homemade cakes, pastries, and light lunch
+    options in a charming setting.

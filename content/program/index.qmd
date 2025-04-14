@@ -78,6 +78,10 @@ listing:
         day: 3
 ---
 
+:::{.column-margin}
+[{{< fa file >}} Download program](/res/program.pdf){.btn .btn-outline-primary .btn-sm role="button" data-toggle="tooltip" title="Download the program as PDF"}
+:::
+
 ::: {.panel-tabset}
 
 ## Day 1

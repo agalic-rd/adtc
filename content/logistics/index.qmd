@@ -58,7 +58,7 @@ Trondheim, Norway's historic third city and a modern university town, offers a b
 ::::
 :::
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d7139.030494232128!2d10.3860781!3d63.4276172!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sno!4v1738433670044!5m2!1sen!2sno" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1m8J1HyPTFdfnNLmtJPaizM5Lj2Fh2rM&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
 ## Accommodations
 
