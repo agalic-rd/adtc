@@ -45,6 +45,7 @@ Her current research focuses on developing and validating enhanced clinical prot
 
 ## Selected Publications
 
-- Grøntvedt GR, et al. (2020). Biomarker profiles and clinical presentation in early-onset Alzheimer's disease
-- Grøntvedt GR, et al. (2018). Clinical correlates of CSF biomarkers in dementia diagnosis
-- Grøntvedt GR, et al. (2016). The progression of cognitive decline in early-stage Alzheimer's disease 
+- Gonzalez-Ortiz, F. et al. Plasma brain-derived tau is an amyloid-associated neurodegeneration biomarker in Alzheimer’s disease. Nat Commun 15, 2908 (2024). DOI: [10.1038/s41467-024-47286-5](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3143306)
+- Grøntvedt, G. R. et al. Association of Klotho Protein Levels and KL-VS Heterozygosity With Alzheimer Disease and Amyloid and Tau Burden. JAMA Netw Open 5, e2243232 (2022). DOI: [10.1001/jamanetworkopen.2022.43232](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2798873)
+- Grøntvedt, G. R. et al. Alzheimer’s disease. Current Biology 28, R645–R649 (2018). DOI: [10.1016/j.cub.2018.04.080](https://www.cell.com/current-biology/fulltext/S0960-9822(18)30552-9)
+ 
