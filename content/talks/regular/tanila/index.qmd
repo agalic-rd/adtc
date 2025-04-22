@@ -1,5 +1,5 @@
 ---
-title: "The viscious circle between neuronal hyperexcitability and AD"
+title: "The vicious circle between neuronal hyperexcitability and AD"
 
 author:
     name: "[Heikki Tanila](/content/people/speakers/tanila/index.qmd)"
