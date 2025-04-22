@@ -46,8 +46,9 @@ body {
 
 .content-wrapper {
     display: flex;
-    justify-content: center; /* Center flex items horizontally */
-    align-items: center; /* Center flex items vertically */
+    flex-direction: column; /* Stack children vertically */
+    justify-content: center; /* Center flex items vertically */
+    align-items: center; /* Center flex items horizontally */
     min-height: 100vh;
     text-align: center;
     position: absolute; /* Position relative to viewport/ancestor */
@@ -94,6 +95,28 @@ body {
     margin-top: 1rem;
     color: #00509E;
     white-space: pre-line;
+}
+
+/* Adjustments for mobile devices */
+@media (max-width: 768px) {
+    .content-wrapper {
+        position: relative; /* Change from absolute to relative */
+        left: auto; /* Reset left positioning */
+        transform: none; /* Reset transform */
+        z-index: auto; /* Reset z-index */
+        /* Keep min-height: 100vh; to push footer down */
+        /* Keep flex properties for centering */
+    }
+
+    .footer {
+        position: relative; /* Ensure footer flows naturally */
+        z-index: auto; /* Reset z-index */
+    }
+
+    /* Optional: Adjust spacing if needed */
+    .content-wrapper .title-container {
+        margin-bottom: 2rem; /* Add some space before footer */
+    }
 }
 </style>
 ```
