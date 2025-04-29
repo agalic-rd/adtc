@@ -34,9 +34,9 @@ socials:
 
 ## About
 
-Trained as a general physician and passionate about research, I then obtained my PhD in the field of cellular and molecular neurosciences. My PhD project was focused on cerebellar development and apnea of prematurity.
+Dr. Rodriguez-Duboc obtained her PhD in the field of cellular and molecular neurosciences. Her research focused on cerebellar development and apnea of prematurity with an emphasis on oxidative stress and transcriptomic regulations.
 
-I am currently working as a postdoctoral fellow at the Kavli Institute for Systems Neuroscience, developing a new model to better understand the initiation of Alzheimer's disease.
+She is currently working as a postdoctoral fellow at the Kavli Institute for Systems Neuroscience, developing a new in-vitro model to better understand the initiation of Alzheimer's disease and the associated molecular pathways.
 
 ## Research Interests
 
@@ -44,6 +44,7 @@ I am currently working as a postdoctoral fellow at the Kavli Institute for Syste
 - Alzheimer's disease
 - In vitro models
 - Oxidative stress
+- Transcriptomics
 
 ## Recent Research
 
