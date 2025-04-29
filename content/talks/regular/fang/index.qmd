@@ -7,7 +7,7 @@ author:
         - ref: uio
 
 abstract: |
-  "NAD+ plays a fundamental role in life and health, including in brain resilience. Preclinical and clinical studies show an age-dependent reduction of NAD+ which is exacerbated in multiple neurodegenerative diseases, including Alzheimer’s disease; conversely, NAD+ augmentation ameliorates memory loss in Alzheimer-like animal models, stimulating multiple on-going clinical trials for this disease. Mechanistically, NAD+ maintains brain resilience via multiple approaches, including stimulating mitochondrial autophagy (termed mitophagy). We hypothesize an NAD+-mitophagy axis in brain health maintenance."
+    NAD+ plays a fundamental role in life and health, including in brain resilience. Preclinical and clinical studies show an age-dependent reduction of NAD+ which is exacerbated in multiple neurodegenerative diseases, including Alzheimer’s disease; conversely, NAD+ augmentation ameliorates memory loss in Alzheimer-like animal models, stimulating multiple on-going clinical trials for this disease. Mechanistically, NAD+ maintains brain resilience via multiple approaches, including stimulating mitochondrial autophagy (termed mitophagy). We hypothesize an NAD+-mitophagy axis in brain health maintenance.
 
 categories:
   - NAD+ Metabolism

@@ -9,7 +9,7 @@ author:
         - ref: ntnu
 
 abstract: |
-    "AD diagnosis relies on clinical evaluation, neuropsychological testing, and biomarkers such as imaging techniques and cerebrospinal fluid analysis. Advancements in diagnostic criteria continue to improve early detection, facilitating timely intervention and management."
+    AD diagnosis relies on clinical evaluation, neuropsychological testing, and biomarkers such as imaging techniques and cerebrospinal fluid analysis. Advancements in diagnostic criteria continue to improve early detection, facilitating timely intervention and management.
 
 categories:
   - Alzheimer's Disease

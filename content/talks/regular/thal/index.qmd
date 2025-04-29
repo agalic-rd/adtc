@@ -7,7 +7,7 @@ author:
         - ref: kuleuven
 
 abstract: |
-  "Alzheimer's disease is histopathologically characterized by the deposition of amyloid plaques and the generation of neurofibrillary tangles that develop first in distinct places from where they spread over the brain. The key proteins are the amyloid β-peptide deposited in amyloid plaques and abnormal phosphorylated τ-protein accumulating in neurofibrillary tangles. Here, we will discuss the role of post-translational modifications of these proteins as well as their interactions with other proteins, such as TDP-43 and α-synuclein and the impact on the disease."
+    Alzheimer's disease is histopathologically characterized by the deposition of amyloid plaques and the generation of neurofibrillary tangles that develop first in distinct places from where they spread over the brain. The key proteins are the amyloid β-peptide deposited in amyloid plaques and abnormal phosphorylated τ-protein accumulating in neurofibrillary tangles. Here, we will discuss the role of post-translational modifications of these proteins as well as their interactions with other proteins, such as TDP-43 and α-synuclein and the impact on the disease.
 
 categories:
   - Protein Changes

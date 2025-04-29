@@ -9,7 +9,7 @@ author:
         - ref: ntnu
 
 abstract: |
-  "The major population of principal neurons in layer II of the entorhinal cortex expresses especially high levels of the glycoprotein reelin. These neurons are prone to a very early increase in Aβ and, subsequently, the formation of p-tau, but the reasons for this remain unknown. Our recent experiments on these neurons indicate that, in a senescent physiology predisposing to frequent inflammation-driven Aβ production bursts, Aβ will form complexes with reelin. Crucially, these complexes can accumulate to extraordinarily high levels, effectively removing signaling competent reelin, and thereby trigger the formation of p-tau."
+    The major population of principal neurons in layer II of the entorhinal cortex expresses especially high levels of the glycoprotein reelin. These neurons are prone to a very early increase in Aβ and, subsequently, the formation of p-tau, but the reasons for this remain unknown. Our recent experiments on these neurons indicate that, in a senescent physiology predisposing to frequent inflammation-driven Aβ production bursts, Aβ will form complexes with reelin. Crucially, these complexes can accumulate to extraordinarily high levels, effectively removing signaling competent reelin, and thereby trigger the formation of p-tau.
 
 categories:
   - Alzheimer's Disease

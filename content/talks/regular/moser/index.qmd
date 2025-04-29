@@ -12,7 +12,7 @@ categories:
   - Alzheimer's Disease
 
 abstract: |
-"The hippocampal formation contains networks of neurons that encode our spatial surroundings, as well as neurons that we use to organize experience in time . Both elements are crucial for our capacity for memory."
+    The hippocampal formation contains networks of neurons that encode our spatial surroundings, as well as neurons that we use to organize experience in time . Both elements are crucial for our capacity for memory.
 
 image: "/res/img/logo.png"
 image-alt: "Profile picture of Edvard and May-Britt Moser"
