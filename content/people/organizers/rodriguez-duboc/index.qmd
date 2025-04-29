@@ -4,7 +4,7 @@ subtitle: "Postdoctoral Fellow at the Kavli Institute for Systems Neuroscience"
 
 author:
     name: "Agalic Rodriguez-Duboc"
-    url: "https://agalic-rd.com"
+    url: "https://www.ntnu.no/ansatte/agalic.rodriguez.duboc"
     degrees:
       - MD
       - PhD
