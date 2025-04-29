@@ -9,7 +9,7 @@ author:
     affiliations:
         - ref: ucph
 
-image: "Kristine_Freude.png"
+image: "Kristine_Freude.jpg"
 
 categories:
   - Microglia

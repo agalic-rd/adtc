@@ -39,7 +39,18 @@ website:
         text: "{{< iconify bi people height=20px >}} People"
       - href: content/logistics/index.qmd
         text: "{{< fa car height=20px >}} Logistics"
-
+  
+  open-graph:
+    locale: en_US
+    image: "/res/img/JCA.png"
+    image-alt: "ADTC Conference Logo"
+    site-name: "ADTC Conference"
+  twitter-card:
+    image: "/res/img/JCA.png"
+    image-alt: "ADTC Conference Logo"
+    card-style: summary_large_image
+    creator: "@Agalic21"
+  
   ### Search ###
   search:
     location: navbar
