@@ -7,7 +7,7 @@ author:
         - ref: uef
 
 abstract: |
-  Content TBA
+  "Neuronal hyperexcitability and hyperactivity are features that can be considered part of Alzheimer’s disease (AD) pathophysiology. There is a bidirectional mutual relationship between neuronal hyperexcitability and amyloid pathology, such that increased local amyloid-beta concentration increases neuronal excitability while neuronal hyperactivity promotes amyloid-beta accumulation and transsynaptic spread in the brain. Subclinical epileptiform activity is associated with faster cognitive decline in patients at an early-stage AD. Intracranial recordings both in few AD patients and transgenic mouse models localize the subclinical epileptiform activity to the medial temporal lobe/hippocampus."
 
 categories:
   - Neuronal Hyperexcitability
