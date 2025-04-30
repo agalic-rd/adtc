@@ -34,7 +34,7 @@ Prof. Katja Scheffler leads the Trønderbrain project at St. Olavs Hospital, foc
 
 - Translational medicine
 - Clinical biomarkers
-- Brain Organoids
+- Brain organoids
 - Treatment development
 
 ## Selected Publications
