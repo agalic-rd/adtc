@@ -1,5 +1,5 @@
 ---
-title: "Modeling the onset of p-tau in rats"
+title: "Certain subtypes of entorhinal neurons are particularly prone to the development of pathological tau species"
 
 author:
     name: "[Cliff Kentros](/content/people/speakers/kentros/index.qmd)"
@@ -8,7 +8,7 @@ author:
         - ref: ntnu
 
 abstract: |
-    Content TBA
+    In recent years the development of genetic tools specific to particular neuronal subtypes has started to illuminate how their remarkable diversity of neuronal subtypes play distinct roles in brain function. Similarly, it is reasonable to ask whether different neuronal subtypes play distinct roles in disease progression. The fact that the tauopathy underlying much of the neurodegeneration in Alzheimer’s Disease (AD) appears to start in particular entorhinal neurons and then spreads trans-synaptically to connected regions suggests that this may be the case for this devastating disease. To investigate this we expressed wildtype human tau protein in a variety of neuronal subtypes of rat brain and tracked the development of pathological tau species. We found that not only are certain subtypes of entorhinal neurons particularly prone to the development of pathological tau species, different entorhinal neurons were more prone to different forms of pathological tau species. This suggests that to truly understand AD pathogenesis may require examining pathogenic mechanisms in their proper cellular context. 
 
 categories:
   - Neural Models
