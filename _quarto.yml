@@ -39,7 +39,22 @@ website:
         text: "{{< iconify bi people height=20px >}} People"
       - href: content/logistics/index.qmd
         text: "{{< fa car height=20px >}} Logistics"
-
+  
+  open-graph:
+    title: "ADTC"
+    description: "Join us in Trondheim for a conference on Alzheimer's disease state-of-the-art research, and explore translational breakthroughs with international experts."
+    locale: en_US
+    image: res/img/logo.png
+    image-alt: "ADTC Conference Logo"
+    site-name: "Alzheimer's Disease Translational Conference"
+  twitter-card:
+    title: "ADTC"
+    description: "Join us in Trondheim for a conference on Alzheimer's disease state-of-the-art research, and explore translational breakthroughs with international experts."
+    image: res/img/logo.png
+    image-alt: "Alzheimer's Disease Translational Conference"
+    card-style: summary
+    creator: "@Agalic21"
+  
   ### Search ###
   search:
     location: navbar
