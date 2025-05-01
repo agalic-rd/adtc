@@ -21,7 +21,8 @@ metadata-files: ["../../_people_partials.yml"]
 socials:
     - name: Website
       url: https://www.nms.unl.pt/en-us/research/research/research-groups/research-group/n/neuronal-trafficking-in-aging
-      
+    - name: ResearchGate
+      url: https://www.researchgate.net/profile/Claudia-Guimas-Almeida
 ---
 
 ## About
