@@ -7,7 +7,7 @@ author:
         - ref: nova
 
 abstract: |
-  Content TBA
+  Late-onset Alzheimer’s disease (LOAD) is linked to aging and genetic risk factors like Bin1 and CD2AP. Studies in mouse neurons revealed that Bin1 and CD2AP loss of function disrupts endosome sorting, while aging enhances APP endocytosis, increasing Aβ42 production and contributing to synapse loss. These findings identify defective endocytic trafficking—driven by aging and genetics—as a potential key mechanism in LOAD pathogenesis.
 
 categories:
   - Endosomal Function
