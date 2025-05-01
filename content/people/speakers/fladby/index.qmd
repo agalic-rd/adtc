@@ -5,8 +5,8 @@ subtitle: "Professor of Neurology"
 author:
     name: "Tormod Fladby"
     degrees:
-      - PhD
       - MD
+      - PhD
     affiliations:
         - ref: uio
 
