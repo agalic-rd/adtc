@@ -38,7 +38,7 @@ Prof. Claudia Almeida is a cell biologist at NOVA Medical School, specializing i
 
 ## Selected Publications
 
-- Burrinha, T., Martinsson, I., Gomes, R., Terrasso, A.P., Gouras, G.K., Almeida, C.G., 2021. Upregulation of APP endocytosis by neuronal aging drives amyloid-dependent synapse loss. Journal of Cell Science 134. https://doi.org/10.1242/jcs.255752
-- Perdigão, C., Barata, M.A., Burrinha, T., Guimas Almeida, C., 2021. Alzheimer’s disease BIN1 coding variants increase intracellular Aβ levels by interfering with BACE1 recycling. Journal of Biological Chemistry 297, 101056. https://doi.org/10.1016/j.jbc.2021.101056
-- Ubelmann, F., Burrinha, T., Salavessa, L., Gomes, R., Ferreira, C., Moreno, N., Guimas Almeida, C., 2017. Bin1 and CD 2 AP polarise the endocytic generation of beta‐amyloid. EMBO Reports 18, 102–122. https://doi.org/10.15252/embr.201642738
+- Burrinha, T., Martinsson, I., Gomes, R., Terrasso, A.P., Gouras, G.K., Almeida, C.G., 2021. Upregulation of APP endocytosis by neuronal aging drives amyloid-dependent synapse loss. Journal of Cell Science 134. [https://doi.org/10.1242/jcs.255752](https://doi.org/10.1242/jcs.255752)
+- Perdigão, C., Barata, M.A., Burrinha, T., Guimas Almeida, C., 2021. Alzheimer’s disease BIN1 coding variants increase intracellular Aβ levels by interfering with BACE1 recycling. Journal of Biological Chemistry 297, 101056. [https://doi.org/10.1016/j.jbc.2021.101056](https://doi.org/10.1016/j.jbc.2021.101056)
+- Ubelmann, F., Burrinha, T., Salavessa, L., Gomes, R., Ferreira, C., Moreno, N., Guimas Almeida, C., 2017. Bin1 and CD 2 AP polarise the endocytic generation of beta‐amyloid. EMBO Reports 18, 102–122. [https://doi.org/10.15252/embr.201642738](https://doi.org/10.15252/embr.2016427380)
 

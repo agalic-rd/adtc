@@ -38,6 +38,6 @@ Prof. Heikki Tanila is a neuroscientist at the University of Eastern Finland, sp
 
 ## Selected Publications
 
-- Jin, N., Gureviciene, I., Atalay, A.N., Häkli, S., Ziyatdinova, S., Tanila, H., 2022. Preclinical evaluation of drug treatment options for sleep‐related epileptiform spiking in Alzheimer’s disease. A&D Transl Res & Clin Interv 8, e12291. https://doi.org/10.1002/trc2.12291
-- Kamondi, A., Grigg-Damberger, M., Löscher, W., Tanila, H., Horvath, A.A., 2024. Epilepsy and epileptiform activity in late-onset Alzheimer disease: clinical and pathophysiological advances, gaps and conundrums. Nat Rev Neurol 20, 162–182. https://doi.org/10.1038/s41582-024-00932-4
-- Mabrouk, R., Miettinen, P.O., Tanila, H., 2023. Most dystrophic neurites in the common 5xFAD Alzheimer mouse model originate from axon terminals. Neurobiology of Disease 182, 106150. https://doi.org/10.1016/j.nbd.2023.106150
+- Jin, N., Gureviciene, I., Atalay, A.N., Häkli, S., Ziyatdinova, S., Tanila, H., 2022. Preclinical evaluation of drug treatment options for sleep‐related epileptiform spiking in Alzheimer’s disease. A&D Transl Res & Clin Interv 8, e12291. [https://doi.org/10.1002/trc2.12291](https://doi.org/10.1002/trc2.12291)
+- Kamondi, A., Grigg-Damberger, M., Löscher, W., Tanila, H., Horvath, A.A., 2024. Epilepsy and epileptiform activity in late-onset Alzheimer disease: clinical and pathophysiological advances, gaps and conundrums. Nat Rev Neurol 20, 162–182. [https://doi.org/10.1038/s41582-024-00932-4](https://doi.org/10.1038/s41582-024-00932-4)
+- Mabrouk, R., Miettinen, P.O., Tanila, H., 2023. Most dystrophic neurites in the common 5xFAD Alzheimer mouse model originate from axon terminals. Neurobiology of Disease 182, 106150. [https://doi.org/10.1016/j.nbd.2023.106150](https://doi.org/10.1016/j.nbd.2023.106150)

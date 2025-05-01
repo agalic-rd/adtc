@@ -30,7 +30,7 @@ socials:
 
 ## About
 
-Dr. Asgeir Kobro-Flatmoen is a neuroscientist at the JCA and KISN at NTNU. His research focuses on understanding the cellular mechanisms that underlie selective neuronal vulnerability in the early stages of Alzheimer's disease.
+Dr. Asgeir Kobro-Flatmoen is a neuroscientist at KISN at NTNU and co-leader of the K.G. Jebsen Centre for Alzheimers Disease. His research focuses on understanding the cellular mechanisms that underlie selective neuronal vulnerability in the early stages of Alzheimer's disease.
 
 ## Research Interests
 
@@ -45,6 +45,6 @@ His current work investigates the cellular and molecular mechanisms that make sp
 
 ## Selected Publications
 
-- Kobro-Flatmoen A, et al. (2021). Selective neuronal vulnerability in prodromal AD
-- Kobro-Flatmoen A, et al. (2019). Early cellular changes in Alzheimer's disease
-- Kobro-Flatmoen A, et al. (2016). Neural circuit vulnerability in neurodegeneration 
+- Kobro-Flatmoen, A., Battistin, C., Nair, R.R., Bjorkli, C., Skender, B., Kentros, C., Gouras, G., Witter, M.P., 2023. Lowering levels of reelin in entorhinal cortex layer II-neurons results in lowered levels of intracellular amyloid-β. Brain Communications 5, fcad115. [https://doi.org/10.1093/braincomms/fcad115](https://doi.org/10.1093/braincomms/fcad115)
+- Kobro-Flatmoen, A., Lagartos-Donate, M.J., Aman, Y., Edison, P., Witter, M.P., Fang, E.F., 2021. Re-emphasizing early Alzheimer’s disease pathology starting in select entorhinal neurons, with a special focus on mitophagy. Ageing Research Reviews 67, 101307. [https://doi.org/10.1016/j.arr.2021.101307](https://doi.org/10.1016/j.arr.2021.101307)
+- Kobro-Flatmoen, A., Nagelhus, A., Witter, M.P., 2016. Reelin-immunoreactive neurons in entorhinal cortex layer II selectively express intracellular amyloid in early Alzheimer’s disease. Neurobiology of Disease 93, 172–183. [https://doi.org/10.1016/j.nbd.2016.05.012](https://doi.org/10.1016/j.nbd.2016.05.012)
