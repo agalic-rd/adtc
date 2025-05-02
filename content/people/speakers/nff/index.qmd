@@ -1,6 +1,6 @@
 ---
 title: "Nasjonalforeningen for Folkehelsen"
-subtitle: "Norwegian National Association for Public Health"
+subtitle: "Norwegian Health Association"
 
 author:
     name: "Nasjonalforeningen for Folkehelsen"

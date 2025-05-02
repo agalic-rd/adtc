@@ -1,6 +1,6 @@
 ---
 title: "Prof. Kristine Freude"
-subtitle: "Professor at Department of Veterinary and Animal Sciences, University of Copenhagen"
+subtitle: "Group leader of Disease Stem Cells Models and Embryology"
 
 author:
     name: "Kristine Freude"
