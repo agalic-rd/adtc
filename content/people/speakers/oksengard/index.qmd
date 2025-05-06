@@ -1,0 +1,56 @@
+---
+title: "Dr. Anne Rita Øksengård"
+subtitle: "Head of Research, The Norwegian Health Association"
+
+author:
+    name: "Anne Rita Øksengård"
+    url: "https://nasjonalforeningen.no/"
+    degrees:
+      - PhD
+      - MD
+    affiliations:
+        - ref: nff
+
+
+image: "Anne_Rita_Oksengard.jpg"
+
+categories:
+  - Public Health
+  - Research Funding
+  - Dementia Research
+
+metadata-files: ["../../_people_partials.yml"]
+
+socials:
+    - name: Website
+      url: https://nasjonalforeningen.no/
+    - name: Facebook
+      url: https://www.facebook.com/nasjonalforeningen/
+---
+
+## About
+
+Dr. Anne Rita Øksengård is a neuro-geriatrician who has worked clinically on an academic basis for many years. Strongly inspired by all the patients she has met, she is now dedicated to bringing skilled people together in collaborative research partnerships. Her aim, as Head of Research in The Norwegian Health Association (Nasjonalforeningen for Folkehelsen) is to facilitate interaction and discovery, including people with their own dementia experience, to detect, prevent, diagnose and treat all dementia illnesses.
+
+### Research Support and Conference Contribution
+
+Nasjonalforeningen for Folkehelsen is a non-profit organization working to combat cardiovascular diseases and dementia. They combine research funding, advocacy, and public health initiatives to improve the lives of those affected by these conditions. Through their research funding programs, they support innovative projects and facilitate knowledge exchange between researchers, healthcare professionals, and the public.
+
+As a proud sponsor of this conference, Nasjonalforeningen for Folkehelsen continues their commitment to fostering international collaboration and sharing cutting-edge research findings in neurodegenerative diseases. Their support enables the participation of world-leading researchers and helps bridge the gap between scientific discovery and public health implementation.
+
+### Key Focus Areas
+
+- Funding dementia research
+- Supporting families affected by dementia
+- Promoting cardiovascular health
+- Public health education and awareness
+- Advocacy for improved healthcare services
+
+For more information about their work and research funding opportunities, please visit [nasjonalforeningen.no](https://nasjonalforeningen.no/).
+
+## Selected Publications 
+
+- Hagberg, G., Fure, B., Thommessen, B., Ihle-Hansen, Håkon, Øksengård, A.-R., Nygård, S., Pendlebury, S.T., Beyer, M.K., Wyller, T.B., Ihle-Hansen, Hege, 2019. Predictors for Favorable Cognitive Outcome Post-Stroke: A-Seven-Year Follow-Up Study. Dement Geriatr Cogn Disord 48, 45–55. [https://doi.org/10.1159/000501850](https://doi.org/10.1159/000501850)
+- Musaeus, C.S., Engedal, K., Høgh, P., Jelic, V., Mørup, M., Naik, M., Oeksengaard, A.-R., Snaedal, J., Wahlund, L.-O., Waldemar, G., Andersen, B.B., 2019. Oscillatory connectivity as a diagnostic marker of dementia due to Alzheimer’s disease. Clinical Neurophysiology 130, 1889–1899. [https://doi.org/10.1016/j.clinph.2019.07.016](https://doi.org/10.1016/j.clinph.2019.07.016)
+- Vahedi, A., Eriksdotter, M., Ihle‐Hansen, H., Wyller, T.B., Øksengård, A.R., Fure, B., 2022. Cognitive impairment in people with physical frailty using the phenotype model: A systematic review and meta analysis. Int J Geriat Psychiatry 37, gps.5822. [https://doi.org/10.1002/gps.5822](https://doi.org/10.1002/gps.5822)
+

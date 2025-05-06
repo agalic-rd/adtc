@@ -1,10 +1,10 @@
 ---
-title: "TBA"
+title: "The Norwegian Health Association"
 
 author:
-    name: "[Nasjonalforeningen for Folkehelsen](/content/people/speakers/nff/index.qmd)"
+    name: "[Anne Rita Øksengård](/content/people/speakers/oksengard/index.qmd)"
     affiliations:
-        - ref: ntnu
+        - ref: nff
 
 abstract: |
   Content TBA
