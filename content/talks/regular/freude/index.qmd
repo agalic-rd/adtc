@@ -7,8 +7,8 @@ author:
         - ref: ucph
 
 abstract: |
-    Content TBA
-
+    The risk to develop sporadic Alzheimer’s disease can be linked to SNPs in innate immunity genes and emerging evidence points towards sex-specific microglial responses. Our work investigates how these factors drive phenotypic changes in microglia to elucidate pathological mechanisms and identify targets for personalized anti-inflammatory therapies.
+    
 categories:
   - Microglia
   - Early AD
