@@ -21,7 +21,7 @@ listing:
         affiliation: "Affiliation"
       contents: 
         - "organizers/**/*.qmd"
-        - "speakers/{kobro-flatmoen,grontvedt,gouras,goedert,fang,nff}/index.qmd"
+        - "speakers/{kobro-flatmoen,grontvedt,gouras,goedert,fang,oksengard}/index.qmd"
       type: grid
       grid-columns: 3
       image-height: 400px
