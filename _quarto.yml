@@ -16,7 +16,7 @@ project:
 
 website:
   title: "ADTC"
-  description: "Conference On Alzheimer's disease In Midt-Norge  \n International collaborative conference"
+  description: "Alzheimer's Disease Translational Conference"
   favicon: "/res/img/JCA.png"
   bread-crumbs: true
   back-to-top-navigation: true
