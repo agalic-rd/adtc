@@ -33,14 +33,14 @@ socials:
 Dr. Anne Rita Øksengård is a neuro-geriatrician who has worked clinically on an academic basis for many years. Strongly inspired by all the patients she has met, she is now dedicated to bringing skilled people together in collaborative research partnerships. Her aim, as Head of Research in The Norwegian Health Association (Nasjonalforeningen for Folkehelsen) is to facilitate interaction and discovery, including people with their own dementia experience, to detect, prevent, diagnose and treat all dementia illnesses.
 
 
-### Research Support and Conference Contribution
+## Research Support and Conference Contribution
 
 Nasjonalforeningen for Folkehelsen is a non-profit organization working to combat cardiovascular diseases and dementia. They combine research funding, advocacy, and public health initiatives to improve the lives of those affected by these conditions. Through their research funding programs, they support innovative projects and facilitate knowledge exchange between researchers, healthcare professionals, and the public.
 
 As a proud sponsor of this conference, Nasjonalforeningen for Folkehelsen continues their commitment to fostering international collaboration and sharing cutting-edge research findings in neurodegenerative diseases. Their support enables the participation of world-leading researchers and helps bridge the gap between scientific discovery and public health implementation.
 
 
-### Key Focus Areas
+## Key Focus Areas
 
 - Funding dementia research
 - Supporting families affected by dementia
