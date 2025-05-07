@@ -1,14 +1,16 @@
 ---
 title: "Dr. Tora Bonnevie"
-subtitle: "Research Scientist at KISN, NTNU"
+subtitle: "Translational neuroscientist"
 
 author:
     name: "Tora Bonnevie"
     degrees:
       - PhD
+      - MD
     affiliations:
         - ref: kisn
-        - ref: ntnu
+        - ref: inb
+        - ref: jca
 
 image: "Tora_Bonnevie.png"
 
@@ -28,17 +30,16 @@ socials:
 
 ## About
 
-Dr. Tora Bonnevie is a research scientist at the Kavli Institute for Systems Neuroscience, leading the AD Time project. Her research focuses on understanding the temporal dynamics of Alzheimer's disease progression.
+Dr. Tora Bonnevie is an associate professor at the JCA, KISN and INB. She co-leads a work package of the JCA in collaboration with prof Christian Doeller. Her research focuses on the neurophysiology of memory, time and space, in the healthy brain and in clinical conditions. Her current research addresses how early pathology of Alzheimer’s disease affects neural processing that underpins memory functions, and causes early memory symptoms of the disease.
 
 ## Research Interests
 
-- Temporal progression of AD
-- Neural circuit dynamics
-- Disease mechanisms
-- Early intervention strategies
+- Neuroscience of space, time and memory
+- Pathophysiology of memory disorders
+- Space, time and memory in Alzheimer’s disease – linking cognition and neurophysiology
 
 ## Selected Publications
 
-- Bonnevie T, et al. (2023). Temporal dynamics in AD progression
-- Bonnevie T, et al. (2021). Circuit mechanisms in neurodegeneration
-- Bonnevie T, et al. (2019). Early markers of AD pathology 
+- Bonnevie, T., Dunn, B., Fyhn, M., Hafting, T., Derdikman, D., Kubie, J.L., Roudi, Y., Moser, E.I., Moser, M.-B., 2013. Grid cells require excitatory drive from the hippocampus. Nat Neurosci 16, 309–317. [https://doi.org/10.1038/nn.3311](https://www.nature.com/articles/nn.3311) 
+- Bonnevie, T., Zaghloul, K.A., 2019. The Subthalamic Nucleus: Unravelling New Roles and Mechanisms in the Control of Action. Neuroscientist 25, 48–64. [https://doi.org/10.1177/1073858418763594](https://journals.sagepub.com/doi/10.1177/1073858418763594)
+- Hafting, T., Fyhn, M., Bonnevie, T., Moser, M.-B., Moser, E.I., 2008. Hippocampus-independent phase precession in entorhinal grid cells. Nature 453, 1248–1252. [https://doi.org/10.1038/nature06957](https://www.nature.com/articles/nature06957)

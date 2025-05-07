@@ -4,6 +4,11 @@ affiliations:
     url: https://www.ntnu.edu/
     city: Trondheim
     country: Norway
+  - id: inb
+    name: "Department of Neuromedicine and Movement Science"
+    url: https://www.ntnu.edu/inb
+    city: Trondheim
+    country: Norway
   - id: kisn
     name: "Kavli Institute for Systems Neuroscience"
     url: https://www.ntnu.edu/kavli/

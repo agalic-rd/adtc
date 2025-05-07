@@ -1,11 +1,12 @@
 ---
-title: "The AD time project"
+title: "Memory, time and space in the human brain – impact of early Alzheimer’s disease"
 
 author:
     name: "[Tora Bonnevie](/content/people/speakers/bonnevie/index.qmd)"
     affiliations:
         - ref: kisn
-        - ref: ntnu
+        - ref: inb
+        - ref: jca
 
 abstract: |
     Content TBA
