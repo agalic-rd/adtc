@@ -1,12 +1,13 @@
 ---
 title: "Dr. Tora Bonnevie"
-subtitle: "Translational neuroscientist"
+subtitle: "Translational neuroscientist at the JCA, KISN and INB"
 
 author:
     name: "Tora Bonnevie"
     degrees:
-      - PhD
       - MD
+      - PhD
+      
     affiliations:
         - ref: kisn
         - ref: inb
