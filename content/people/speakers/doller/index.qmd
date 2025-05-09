@@ -47,7 +47,6 @@ His current research combines cutting-edge neuroimaging methods with virtual rea
 
 ## Selected Publications
 
-- Doeller CF, Barry C, Burgess N (2010). Evidence for grid cells in a human memory network. Nature, 463(7281):657-61
-- Bellmund JLS, Gärdenfors P, Moser EI, Doeller CF (2018). Navigating cognition: Spatial codes for human thinking. Science, 362(6415)
-- Navarro Schröder T, Haak KV, Zaragoza Jimenez NI, Beckmann CF, Doeller CF (2015). Functional topography of the human entorhinal cortex. eLife, 4:e06738
-- Kunz L, Schröder TN, Lee H, Montag C, Lachmann B, Sariyska R, Reuter M, Stirnberg R, Stöcker T, Messing-Floeter PC, Fell J, Doeller CF, Axmacher N (2015). Reduced grid-cell-like representations in adults at genetic risk for Alzheimer's disease. Science, 350(6259):430-3
+- Doeller, C., Barry, C. & Burgess, N. Evidence for grid cells in a human memory network. Nature 463, 657–661 (2010). [https://doi.org/10.1038/nature08704](https://www.nature.com/articles/nature08704)
+- Barnaveli, I., Viganò, S., Reznik, D. et al. Hippocampal-entorhinal cognitive maps and cortical motor system represent action plans and their outcomes. Nat Commun 16, 4139 (2025). [https://doi.org/10.1038/s41467-025-59153-y](https://www.nature.com/articles/s41467-025-59153-y)
+- Reznik, D., Trampel, R., Weiskopf, N., Witter, M.P., Doeller, C.F., 2023. Dissociating distinct cortical networks associated with subregions of the human medial temporal lobe using precision neuroimaging. Neuron 111, 2756-2772.e7. [https://doi.org/10.1016/j.neuron.2023.05.029](https://www.cell.com/neuron/fulltext/S0896-6273(23)00402-6?uuid=uuid%3Afb7f7609-d478-412d-be5b-04ff7951b0b8)

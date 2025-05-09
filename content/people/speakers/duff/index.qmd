@@ -38,6 +38,6 @@ Prof. Karen Duff is the Director of the UK Dementia Research Institute at UCL. H
 
 ## Selected Publications
 
-- Duff K, et al. (2023). Translational approaches in AD
-- Duff K, et al. (2021). Therapeutic targeting in neurodegeneration
-- Duff K, et al. (2019). Disease mechanisms in AD 
+- Morgan, D., Diamond, D., Gottschall, P. et al. Aβ peptide vaccination prevents memory loss in an animal model of Alzheimer's disease. Nature 408, 982–985 (2000). [https://doi.org/10.1038/35050116](https://www.nature.com/articles/35050116)
+- Fowler, S.L., Behr, T.S., Turkes, E. et al. Tau filaments are tethered within brain extracellular vesicles in Alzheimer’s disease. Nat Neurosci 28, 40–48 (2025).[https://doi.org/10.1038/s41593-024-01801-5](https://www.nature.com/articles/s41593-024-01801-5)
+- Watamura, N., Foiani, M.S., Bez, S. et al. In vivo hyperphosphorylation of tau is associated with synaptic loss and behavioral abnormalities in the absence of tau seeds. Nat Neurosci 28, 293–307 (2025).[https://doi.org/10.1038/s41593-024-01829-7](https://www.nature.com/articles/s41593-024-01829-7)
