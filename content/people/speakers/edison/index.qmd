@@ -38,6 +38,7 @@ Prof. Paul Edison is a leading researcher at Imperial College London, specializi
 
 ## Selected Publications
 
-- Edison P, et al. (2021). Neuroinflammation in Alzheimer's disease
-- Edison P, et al. (2019). Imaging inflammation in neurodegenerative diseases
-- Edison P, et al. (2017). Biomarkers of neuroinflammation in dementia 
+- Debatisse, J., Leng, F., Ashraf, A., Edison, P., 2025. Cortical Diffusivity, a Biomarker for Early Neuronal Damage, Is Associated with Amyloid-β Deposition: A Pilot Study. Cells 14, 155. [https://doi.org/10.3390/cells14030155](https://www.mdpi.com/2073-4409/14/3/155)
+- Heneka, M.T., Van Der Flier, W.M., Jessen, F., et al., 2025. Neuroinflammation in Alzheimer disease. Nat Rev Immunol 25, 321–352. [https://doi.org/10.1038/s41577-024-01104-7](https://www.nature.com/articles/s41577-024-01104-7)
+- Leng, F., Edison, P., 2021. Neuroinflammation and microglial activation in Alzheimer disease: where do we go from here? Nat Rev Neurol 17, 157–172. [https://doi.org/10.1038/s41582-020-00435-y](https://www.nature.com/articles/s41582-020-00435-y)
+ 
