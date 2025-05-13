@@ -39,6 +39,7 @@ Prof. Katja Scheffler leads the Trønderbrain project at St. Olavs Hospital, foc
 
 ## Selected Publications
 
-- Scheffler K, et al. (2023). Translational approaches in AD
-- Scheffler K, et al. (2021). Biomarker development for AD
-- Scheffler K, et al. (2019). Clinical applications in neurodegeneration 
+- De Sousa, M.M.L., Ye, J., Luna, L., Hildrestrand, G., Bjørås, K., Scheffler, K., Bjørås, M., 2021. Impact of Oxidative DNA Damage and the Role of DNA Glycosylases in Neurological Dysfunction. IJMS 22, 12924. [https://doi.org/10.3390/ijms222312924](https://doi.org/10.3390/ijms222312924)
+- Egiazarian, M.A., Abentung, A., Sakshaug, T.S., Karabeika, E.E., Hanumaihgari, P.R., Grøntvedt, G.R., Sando, S.B., Bjørås, M., Scheffler, K., 2024. The role of impaired oxidative base lesion repair in Alzheimer’s disease. Alzheimer’s &amp; Dementia 20, e090686. [https://doi.org/10.1002/alz.090686](https://doi.org/10.1002/alz.090686)
+- Obermann, T., Sakshaug, T., Kanagaraj, V.V., Abentung, A., Sousa, M.M.L.D., Hagen, L., Sarno, A., Bjørås, M., Scheffler, K., 2025. Genomic 8-oxoguanine modulates gene transcription independent of its repair by DNA glycosylases OGG1 and MUTYH. Redox Biology 79, 103461. [https://doi.org/10.1016/j.redox.2024.103461](https://doi.org/10.1016/j.redox.2024.103461)
+ 

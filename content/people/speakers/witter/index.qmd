@@ -44,6 +44,6 @@ His current work focuses on understanding the detailed organization of neural ci
 
 ## Selected Publications
 
-- Witter MP, et al. (2017). Architecture of spatial circuits in the hippocampal region. Science, 355(6321):1-8
-- Ohara S, Onodera M, Simonsen ØW, Jimenez-Martin A, Treves A, Witter MP (2021). Intrinsic projections of the presubicular cortex. eLife, 10:e63947
-- Witter MP, Doan TP, Jacobsen B, Nilssen ES, Ohara S (2017). Architecture of the entorhinal cortex: a review of entorhinal anatomy in rodents with some comparative notes. Frontiers in Systems Neuroscience, 11:46 
+- Stouffer, K.M., Grande, X., Düzel, E., Johansson, M., Creese, B., Witter, M.P., Miller, M.I., Wisse, L.E.M., Berron, D., 2024. Amidst an amygdala renaissance in Alzheimer’s disease. Brain 147, 816–829. [https://doi.org/10.1093/brain/awad411](https://doi.org/10.1093/brain/awad411)
+van Haeften, T., Wouterlood, F.G., Jorritsma-Byham, B., Witter, M.P., 1997. GABAergic presubicular projections to the medial entorhinal cortex of the rat. J Neurosci 17, 862–874. [https://doi.org/10.1523/JNEUROSCI.17-02-00862.1997](https://doi.org/10.1523/JNEUROSCI.17-02-00862.1997)
+Witter, M.P., Canto, C.B., Couey, J.J., Koganezawa, N., O’Reilly, K.C., 2014. Architecture of spatial circuits in the hippocampal region. Philos Trans R Soc Lond B Biol Sci 369, 20120515. [https://doi.org/10.1098/rstb.2012.0515](https://doi.org/10.1098/rstb.2012.0515)

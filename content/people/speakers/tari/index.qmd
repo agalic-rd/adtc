@@ -36,13 +36,8 @@ Dr. Atefe Tari is a researcher at the Cardiac Exercise Research Group (CERG), De
 - Clinical trials in Alzheimer's treatment
 - Cardiovascular and neurological health connections
 
-## Current Research
+## Selected Publications
 
-Dr. Tari currently leads the ExPlas Study, which investigates the potential benefits of exercised plasma for treating Alzheimer's Disease. This innovative research explores how plasma components from individuals who have exercised may contain beneficial factors that could help ameliorate the progression of Alzheimer's Disease.
-
-## Selected Research Areas
-
-- Exercise physiology and neurological health
-- Plasma-based therapeutic approaches
-- Clinical interventions for Alzheimer's Disease
-- Translational medicine
+- Norevik, C.S., Huuha, A.M., Røsbjørgen, R.N., Hildegard Bergersen, L., Jacobsen, K., Miguel-dos-Santos, R., Ryan, L., Skender, B., Moreira, J.B.N., Kobro-Flatmoen, A., Witter, M.P., Scrimgeour, N., Tari, A.R., 2024. Exercised blood plasma promotes hippocampal neurogenesis in the Alzheimer’s disease rat brain. Journal of Sport and Health Science 13, 245–255. [https://doi.org/10.1016/j.jshs.2023.07.003](https://doi.org/10.1016/j.jshs.2023.07.003)
+- Tari, A.R., Berg, H.H., Videm, V., Bråthen, G., White, L.R., Røsbjørgen, R.N., Scheffler, K., Dalen, H., Holte, E., Haberg, A.K., Selbaek, G., Lydersen, S., Duezel, E., Bergh, S., Logan-Halvorsrud, K.R., Sando, S.B., Wisløff, U., 2022. Safety and efficacy of plasma transfusion from exercise-trained donors in patients with early Alzheimer’s disease: protocol for the ExPlas study. BMJ Open 12, e056964. [https://doi.org/10.1136/bmjopen-2021-056964](https://doi.org/10.1136/bmjopen-2021-056964)
+- Tari, A.R., Walker, T.L., Huuha, A.M., Sando, S.B., Wisloff, U., 2025. Neuroprotective mechanisms of exercise and the importance of fitness for healthy brain ageing. The Lancet 405, 1093–1118. [https://doi.org/10.1016/S0140-6736(25)00184-9](https://doi.org/10.1016/S0140-6736(25)00184-9)
