@@ -39,6 +39,6 @@ Prof. Cliff Kentros is a leading neuroscientist at KISN, focusing on developing 
 
 ## Selected Publications
 
-- Kentros C, et al. (2022). Novel rat models of tau pathology
-- Kentros C, et al. (2020). Circuit mechanisms in early AD
-- Kentros C, et al. (2018). Neural basis of memory formation 
+- Butola, T., Hernández-Frausto, M., Blankvoort, S., Flatset, M.S., Peng, L., Hairston, A., Johnson, C.D., Elmaleh, M., Amilcar, A., Hussain, F., Clopath, C., Kentros, C., Basu, J., 2025. Hippocampus shapes entorhinal cortical output through a direct feedback circuit. Nat Neurosci 28, 811–822. [https://doi.org/10.1038/s41593-025-01883-9](https://doi.org/10.1038/s41593-025-01883-9)
+- Kentros, C.G., Agnihotri, N.T., Streater, S., Hawkins, R.D., Kandel, E.R., 2004. Increased Attention to Spatial Context Increases Both Place Field Stability and Spatial Memory. Neuron 42, 283–295. [https://doi.org/10.1016/S0896-6273(04)00192-8](https://doi.org/10.1016/S0896-6273(04)00192-8)
+- Moser, E.I., Roudi, Y., Witter, M.P., Kentros, C., Bonhoeffer, T., Moser, M.-B., 2014. Grid cells and cortical representation. Nat Rev Neurosci 15, 466–481. [https://doi.org/10.1038/nrn3766](https://doi.org/10.1038/nrn3766)

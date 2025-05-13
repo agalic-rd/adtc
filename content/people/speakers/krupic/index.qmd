@@ -38,6 +38,6 @@ Prof. Julija Krupic specializes in behavioral neuroscience at the University of 
 
 ## Selected Publications
 
-- Krupic J, et al. (2023). Natural behavior analysis in AD models
-- Krupic J, et al. (2021). Ethological approaches to cognition
-- Krupic J, et al. (2019). Behavioral markers in AD 
+- Krupic, J., Bauza, M., Burton, S., Barry, C., O’Keefe, J., 2015. Grid cell symmetry is shaped by environmental geometry. Nature 518, 232–235. [https://doi.org/10.1038/nature14153](https://doi.org/10.1038/nature14153)
+- Poort, J., Khan, A.G., Pachitariu, M., Nemri, A., Orsolic, I., Krupic, J., Bauza, M., Sahani, M., Keller, G.B., Mrsic-Flogel, T.D., Hofer, S.B., 2015. Learning Enhances Sensory and Multiple Non-sensory Representations in Primary Visual Cortex. Neuron 86, 1478–1490. [https://doi.org/10.1016/j.neuron.2015.05.037](https://doi.org/10.1016/j.neuron.2015.05.037)
+- Rule, M.E., Chaudhuri‐Vayalambrone, P., Krstulovic, M., Bauza, M., Krupic, J., O’Leary, T., 2023. Variational log‐ Gaussian point‐process methods for grid cells. Hippocampus 33, 1235–1251. [https://doi.org/10.1002/hipo.23577](https://doi.org/10.1002/hipo.23577)
