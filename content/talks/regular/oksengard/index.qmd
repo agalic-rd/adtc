@@ -13,7 +13,7 @@ categories:
   - Alzheimer's Disease
   - Public Health
 
-image: "/res/img/logo.png"
+image: "Oksengard_talk.jpg"
 
 
 date: "2025-09-10"
