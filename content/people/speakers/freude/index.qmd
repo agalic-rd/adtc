@@ -20,7 +20,7 @@ metadata-files: ["../../_people_partials.yml"]
 
 socials:
     - name: Website
-      url: https://ivh.ku.dk/english/employees/?pure=en/persons/306913
+      url: https://researchprofiles.ku.dk/en/persons/kristine-freude
     - name: ResearchGate
       url: https://www.researchgate.net/profile/Kristine-Freude
 ---
@@ -34,10 +34,10 @@ Prof. Kristine Freude specializes in microglial changes in early stages of Alzhe
 - Microglial function in AD
 - Early disease mechanisms
 - Cellular pathology
-- Neuroinflammation
+- Induced pluripotent stem cells 
 
 ## Selected Publications
 
-- Freude K, et al. (2022). Microglial activation in early AD
-- Freude K, et al. (2020). Immune responses in neurodegeneration
-- Freude K, et al. (2018). Cellular mechanisms in AD 
+- Baglietto-Vargas, D., Freude, K.K., Garcia-Leon, J.A., 2024. Animal and Cellular Models of Alzheimer’s Disease. Biomedicines 12, 1308. [https://doi.org/10.3390/biomedicines12061308](https://doi.org/10.3390/biomedicines12061308)
+- Kadlecova, M., Freude, K., Haukedal, H., 2023. Complexity of Sex Differences and Their Impact on Alzheimer’s Disease. Biomedicines 11, 1261.[https://doi.org/10.3390/biomedicines11051261](https://doi.org/10.3390/biomedicines11051261)
+- Wu, Y.-C., Lehtonen, Š., Trontti, K., Kauppinen, R., Kettunen, P., Leinonen, V., Laakso, M., Kuusisto, J., Hiltunen, M., Hovatta, I., Freude, K., Dhungana, H., Koistinaho, J., Rolova, T., 2024. Human iPSC-derived pericyte-like cells carrying APP Swedish mutation overproduce beta-amyloid and induce cerebral amyloid angiopathy-like changes. Fluids Barriers CNS 21, 78. [https://doi.org/10.1186/s12987-024-00576-y](https://doi.org/10.1186/s12987-024-00576-y)

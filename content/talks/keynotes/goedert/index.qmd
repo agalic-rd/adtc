@@ -1,5 +1,5 @@
 ---
-title: "The filaments of tau and their impact on AD"
+title: "Cryo-EM structures of tau filaments and their impact on Alzheimer’s disease"
 
 author:
     name: "[Michel Goedert](/content/people/speakers/goedert/index.qmd)"
@@ -7,7 +7,9 @@ author:
         - ref: cambridge
 
 abstract: |
-    Content TBA
+    The assembly of a small number of proteins into abundant amyloid filaments defines most human neurodegenerative diseases, including Alzheimer’s and Parkinson’s. In Alzheimer’s disease these proteins are amyloid-beta and tau. Based largely on the study of familial forms of disease, the formation of abundant filaments or their mere presence is believed to result in the propagation of inclusions and neurodegeneration. Since 2017, in a collaboration with the group of Sjors Scheres at the MRC Laboratory of Molecular Biology, we are using cryo-EM to determine the structures of amyloid filaments from the human brain. I will describe our work on tau filaments and discuss its impact on understanding Alzheimer’s disease.
+
+
 
 categories:
   - Alzheimer's Disease
