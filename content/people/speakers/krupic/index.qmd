@@ -20,7 +20,7 @@ metadata-files: ["../../_people_partials.yml"]
 
 socials:
     - name: Website
-      url: https://www.neuroscience.cam.ac.uk/directory/profile.php?julijakrupic
+      url: https://www.krupiclab.com/
     - name: ResearchGate
       url: https://www.researchgate.net/profile/Julija-Krupic
 ---
