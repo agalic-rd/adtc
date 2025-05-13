@@ -15,7 +15,7 @@ categories:
   - AD Time Project
   - Temporal Dynamics
 
-image: "Goedert_talk.png"
+image: "/res/img/logo.png"
 
 date: "2025-09-12"
 time: "11:40-12:10"
