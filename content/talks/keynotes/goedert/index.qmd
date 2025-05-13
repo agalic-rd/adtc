@@ -14,7 +14,7 @@ abstract: |
 categories:
   - Alzheimer's Disease
 
-image: "/res/img/logo.png"
+image: "Goedert_talk.jpg"
 image-alt: "Profile picture of Michel Goedert"
 
 day: 2
