@@ -1,5 +1,5 @@
 ---
-title: "The Norwegian Health Association"
+title: "The Norwegian Health Association: User engagement in research"
 
 author:
     name: "[Anne Rita Øksengård](/content/people/speakers/oksengard/index.qmd)"
@@ -7,7 +7,7 @@ author:
         - ref: nff
 
 abstract: |
-  Content TBA
+  The Norwegian Health Association has, as the national user organisation for persons with dementia and their next of kins, a targeted focus on user involvement in research. It has emerged as a critical component in enhancing the relevance, quality, and impact of scientific inquiry across disciplines. We facilitate active user engagement where patients and carers have empowered dialogues with researchers to ensure that studies are more aligned with real-world needs and contexts. This participatory approach fosters mutual learning, even up knowledge production, and can lead to more ethical outcomes. User involvement covers a spectrum influencing various stages of the research process including agenda setting, methodology development, data interpretation, and dissemination. Despite its benefits, challenges such as power imbalances, resource constraints, and the need for capacity building persist. Addressing these challenges requires institutional support, clear frameworks for engagement, and a commitment to genuine collaboration.
 
 categories:
   - Alzheimer's Disease

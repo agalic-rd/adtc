@@ -44,7 +44,9 @@ His research focuses on understanding how tau proteins form abnormal filaments i
 
 ## Selected Publications
 
-- Fitzpatrick AWP, Falcon B, He S, Murzin AG, Murshudov G, Garringer HJ, Crowther RA, Ghetti B, Goedert M, Scheres SHW (2017). Cryo-EM structures of tau filaments from Alzheimer's disease. Nature, 547(7662):185-190
-- Goedert M, Spillantini MG (2017). Propagation of Tau aggregates. Molecular Brain, 10(1):18
-- Falcon B, Zhang W, Murzin AG, Murshudov G, Garringer HJ, Vidal R, Crowther RA, Ghetti B, Scheres SHW, Goedert M (2018). Structures of filaments from Pick's disease reveal a novel tau protein fold. Nature, 561(7721):137-140
-- Zhang W, Tarutani A, Newell KL, Murzin AG, Matsubara T, Falcon B, Vidal R, Garringer HJ, Shi Y, Ikeuchi T, Murayama S, Ghetti B, Hasegawa M, Goedert M, Scheres SHW (2020). Novel tau filament fold in corticobasal degeneration. Nature, 580(7802):283-287
+- Falcon, B., Zhang, W., Murzin, A.G., Murshudov, G., Garringer, H.J., Vidal, R., Crowther, R.A., Ghetti, B., Scheres, S.H.W., Goedert, M., 2018. Structures of filaments from Pick’s disease reveal a novel tau protein fold. Nature 561, 137–140. [https://doi.org/10.1038/s41586-018-0454-y](https://doi.org/10.1038/s41586-018-0454-y)
+- Fitzpatrick, A.W.P., Falcon, B., He, S., Murzin, A.G., Murshudov, G., Garringer, H.J., Crowther, R.A., Ghetti, B., Goedert, M., Scheres, S.H.W., 2017. Cryo-EM structures of tau filaments from Alzheimer’s disease. Nature 547, 185–190. [https://doi.org/10.1038/nature23002](https://doi.org/10.1038/nature23002)
+- Goedert, M., Spillantini, M.G., 2017. Propagation of Tau aggregates. Mol Brain 10, 18. [https://doi.org/10.1186/s13041-017-0298-7](https://doi.org/10.1186/s13041-017-0298-7)
+- Zhang, W., Tarutani, A., Newell, K.L., Murzin, A.G., Matsubara, T., Falcon, B., Vidal, R., Garringer, H.J., Shi, Y., Ikeuchi, T., Murayama, S., Ghetti, B., Hasegawa, M., Goedert, M., Scheres, S.H.W., 2020. Novel tau filament fold in corticobasal degeneration. Nature 580, 283–287. [https://doi.org/10.1038/s41586-020-2043-0](https://doi.org/10.1038/s41586-020-2043-0)
+
+

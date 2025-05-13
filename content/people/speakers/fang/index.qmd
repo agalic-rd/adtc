@@ -20,9 +20,9 @@ metadata-files: ["../../_people_partials.yml"]
 
 socials:
     - name: Website
-      url: https://www.med.uio.no/
+      url: https://evandrofanglab.com/
     - name: ResearchGate
-      url: https://www.researchgate.net/profile/Evandro-Fang
+      url: https://www.researchgate.net/profile/Evandro-Fei-Fang
 ---
 
 ## About
@@ -38,6 +38,6 @@ Prof. Evandro Fang is a specialist in aging research, focusing on NAD+ metabolis
 
 ## Selected Publications
 
-- Fang E, et al. (2023). NAD+ metabolism in brain aging
-- Fang E, et al. (2021). Mitophagy regulation in neurodegeneration
-- Fang E, et al. (2019). Molecular mechanisms of brain aging 
+- Fang, E.F., Hou, Y., Palikaras, K., Adriaanse, B.A., Kerr, J.S., Yang, B., Lautrup, S., Hasan-Olive, M.M., Caponio, D., Dan, X., Rocktäschel, P., Croteau, D.L., Akbari, M., Greig, N.H., Fladby, T., Nilsen, H., Cader, M.Z., Mattson, M.P., Tavernarakis, N., Bohr, V.A., 2019. Mitophagy inhibits amyloid-β and tau pathology and reverses cognitive deficits in models of Alzheimer’s disease. Nat Neurosci 22, 401–412. [https://doi.org/10.1038/s41593-018-0332-9](https://doi.org/10.1038/s41593-018-0332-9)
+- Kerr, J.S., Adriaanse, B.A., Greig, N.H., Mattson, M.P., Cader, M.Z., Bohr, V.A., Fang, E.F., 2017. Mitophagy and Alzheimer’s Disease: Cellular and Molecular Mechanisms. Trends in Neurosciences 40, 151–166. [https://doi.org/10.1016/j.tins.2017.01.002](https://doi.org/10.1016/j.tins.2017.01.002)
+- Lautrup, S., Sinclair, D.A., Mattson, M.P., Fang, E.F., 2019. NAD+ in Brain Aging and Neurodegenerative Disorders. Cell Metabolism 30, 630–655. [https://doi.org/10.1016/j.cmet.2019.09.001](https://doi.org/10.1016/j.cmet.2019.09.001)

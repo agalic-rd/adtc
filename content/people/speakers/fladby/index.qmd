@@ -39,6 +39,7 @@ Prof. Tormod Fladby is a neurologist specializing in Alzheimer's disease biomark
 
 ## Selected Publications
 
-- Fladby T, et al. (2022). Biomarker profiles in early AD
-- Fladby T, et al. (2020). Neuroinflammatory markers in AD
-- Fladby T, et al. (2018). Novel biomarkers for AD diagnosis 
+- Gonzalez-Ortiz, F., Kirsebom, B.-E., Contador, J., Tanley, J.E., Selnes, P., Gísladóttir, B., Pålhaugen, L., Suhr Hemminghyth, M., Jarholm, J., Skogseth, R., Bråthen, G., Grøndtvedt, G., Bjørnerud, A., Tecelao, S., Waterloo, K., Aarsland, D., Fernández-Lebrero, A., García-Escobar, G., Navalpotro-Gómez, I., Turton, M., Hesthamar, A., Kac, P.R., Nilsson, J., Luchsinger, J., Hayden, K.M., Harrison, P., Puig-Pijoan, A., Zetterberg, H., Hughes, T.M., Suárez-Calvet, M., Karikari, T.K., Fladby, T., Blennow, K., 2024. Plasma brain-derived tau is an amyloid-associated neurodegeneration biomarker in Alzheimer’s disease. Nat Commun 15, 2908. [https://doi.org/10.1038/s41467-024-47286-5](https://doi.org/10.1038/s41467-024-47286-5)
+- Knudtzon, S.L., Nordengen, K., Grøntvedt, G.R., Jarholm, J., Eliassen, I.V., Selnes, P., Pålhaugen, L., Espenes, J., Gísladóttir, B., Waterloo, K., Fladby, T., Kirsebom, B.-E., 2024. Age-adjusted CSF t-tau and NfL do not improve diagnostic accuracy for prodromal Alzheimer’s disease. Neurobiology of Aging 141, 74–84. [https://doi.org/10.1016/j.neurobiolaging.2024.05.016](https://doi.org/10.1016/j.neurobiolaging.2024.05.016)
+- Wimo, A., Kirsebom, B., Timón‐Reina, S., Vromen, E., Selnes, P., Bon, J., Emersic, A., Kramberger, M.G., Speh, A., Visser, P.J., Winblad, B., Fladby, T., 2024. Costs of diagnosing early Alzheimer’s disease in three European memory clinic settings: Results from the precision medicine in Alzheimer’s disease project. Int J Geriat Psychiatry 39, e6126. [https://doi.org/10.1002/gps.6126](https://doi.org/10.1002/gps.6126)
+
