@@ -7,13 +7,13 @@ author:
         - ref: kisn
 
 abstract: |
-  Space and time are essential elements of episodic or conscious memory, the type of memory that is strongly impaired in Alzheimer's patients. In my introduction to the symposium, I will present a historical overview of the structural neurobiology of brain structures that mediate conscious memory. This aims to lead to a perspective of where we boldly should travel to further our elementary knowledge, in service of productive applications.
+  Space and time are essential elements of episodic or conscious memory, the type of memory that is strongly impaired in Alzheimer's patients. To introduce the symposium, we will go through a historical overview of the structural neurobiology of brain structures that mediate conscious memory. This aims to lead to a perspective of where we boldly should travel to further our elementary knowledge, in service of productive applications.
 
 categories:
   - Alzheimer's Disease
 
-image: "/res/img/logo.png"
-image-alt: "Profile picture of Menno Witter"
+image: "Witter_talk.png"
+image-alt: "Rat MEC"
 
 date: "2025-09-10"
 time: "14:00-14:30"
