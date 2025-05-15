@@ -8,13 +8,13 @@ author:
         - ref: ntnu
 
 abstract: |
-  Content TBA
+  The Trønderbrain project is a collaborative research initiative established in 2003 by St. Olavs Hospital and NTNU. The primary goal is to advance translational research on neurodegenerative diseases with an emphasis on Alzheimer’s disease. Herein, we are combining research in animal and in vitro 3D brain models with clinical studies in humans to better understand the molecular mechanisms behind AD, identifying early biomarkers for diagnosis, and discovering potential therapeutic targets. 
 
 categories:
   - Translational Medicine
   - Clinical Research
 
-image: "/res/img/logo.png"
+image: "Scheffler_talk.png"
 
 date: "2025-09-12"
 time: "11:00-11:30"

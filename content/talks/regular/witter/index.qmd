@@ -13,7 +13,6 @@ categories:
   - Alzheimer's Disease
 
 image: "Witter_talk.png"
-image-alt: "Rat MEC"
 
 date: "2025-09-10"
 time: "14:00-14:30"

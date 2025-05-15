@@ -28,18 +28,18 @@ socials:
 
 ## About
 
-Prof. Katja Scheffler leads the Trønderbrain project at St. Olavs Hospital, focusing on next-generation translational medicine approaches in AD research. Her work bridges basic research and clinical applications.
+Katja Scheffler is an Associate Professor at INB and leads the Trønderbrain project at the Department of Neurology, St. Olavs Hospital, focusing on next-generation translational medicine approaches in AD research. Her work bridges basic research and clinical applications.
 
 ## Research Interests
 
-- Translational medicine
-- Clinical biomarkers
-- Brain organoids
-- Treatment development
+-	Translational medicine 
+-	Brain organoids
+-	Genome regulation
+-	Treatment development
+
 
 ## Selected Publications
 
-- De Sousa, M.M.L., Ye, J., Luna, L., Hildrestrand, G., Bjørås, K., Scheffler, K., Bjørås, M., 2021. Impact of Oxidative DNA Damage and the Role of DNA Glycosylases in Neurological Dysfunction. IJMS 22, 12924. [https://doi.org/10.3390/ijms222312924](https://doi.org/10.3390/ijms222312924)
 - Egiazarian, M.A., Abentung, A., Sakshaug, T.S., Karabeika, E.E., Hanumaihgari, P.R., Grøntvedt, G.R., Sando, S.B., Bjørås, M., Scheffler, K., 2024. The role of impaired oxidative base lesion repair in Alzheimer’s disease. Alzheimer’s &amp; Dementia 20, e090686. [https://doi.org/10.1002/alz.090686](https://doi.org/10.1002/alz.090686)
+- Grøntvedt, G.R., Sando, S.B., Lauridsen, C., Bråthen, G., White, L.R., Salvesen, Ø., Aarsland, D., Hessen, E., Fladby, T., Waterloo, K., Scheffler, K., 2022. Association of Klotho Protein Levels and KL-VS Heterozygosity With Alzheimer Disease and Amyloid and Tau Burden. JAMA Netw Open 5, e2243232. [https://doi.org/10.1001/jamanetworkopen.2022.43232](https://doi.org/10.1001/jamanetworkopen.2022.43232)
 - Obermann, T., Sakshaug, T., Kanagaraj, V.V., Abentung, A., Sousa, M.M.L.D., Hagen, L., Sarno, A., Bjørås, M., Scheffler, K., 2025. Genomic 8-oxoguanine modulates gene transcription independent of its repair by DNA glycosylases OGG1 and MUTYH. Redox Biology 79, 103461. [https://doi.org/10.1016/j.redox.2024.103461](https://doi.org/10.1016/j.redox.2024.103461)
- 

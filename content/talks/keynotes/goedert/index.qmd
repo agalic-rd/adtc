@@ -15,7 +15,6 @@ categories:
   - Alzheimer's Disease
 
 image: "Goedert_talk.jpg"
-image-alt: "ABeta filament structure"
 
 day: 2
 date: "2025-09-11"
