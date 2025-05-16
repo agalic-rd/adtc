@@ -1,5 +1,5 @@
 ---
-title: "Translational research on the AD cascade"
+title: "Insights from new models for tauopathy research and translation"
 
 author:
     name: "[Karen Duff](/content/people/speakers/duff/index.qmd)"
@@ -7,7 +7,7 @@ author:
         - ref: ucl
 
 abstract: |
-    Content TBA
+    Human-relevant mouse and cell models for studying tau pathogenesis in AD and FTD-tau have recently been developed. Insights into pathogenic mechanisms and applications for translational research will be discussed.
 
 categories:
   - Translational Research
