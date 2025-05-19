@@ -7,7 +7,7 @@ author:
         - ref: aging-health
 
 abstract: |
-    Content TBA
+    Research suggests that over 40% of dementia cases could be prevented or delayed by addressing 14 modifiable risk factors. Most of the supporting evidence comes from studies on all-cause dementia. In contrast, fewer studies have specifically examined Alzheimer’s disease as an outcome, and the findings are less conclusive—partly due to possible misclassification. In this presentation, we will go over an update on the current understanding of modifiable risk factors for Alzheimer’s disease and outline future research opportunities.
 
 categories:
   - Lifestyle Factors
