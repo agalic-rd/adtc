@@ -21,7 +21,7 @@ metadata-files: ["../../_people_partials.yml"]
 
 socials:
     - name: Website
-      url: https://www.aldringoghelse.no/english/
+      url: https://www.aldringoghelse.no/om-aldring-og-helse/ansatte/148/
     - name: ResearchGate
       url: https://www.researchgate.net/profile/Geir-Selbaek
 ---
