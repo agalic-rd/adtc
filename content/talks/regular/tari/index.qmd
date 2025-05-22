@@ -8,14 +8,14 @@ author:
         - ref: ntnu
 
 abstract: |
-    Content TBA
+    ExPlas is a first-in-human study examining the feasibility and potential impact of administering plasma from exercise-trained donors to individuals with early Alzheimer’s disease.
 
 categories:
   - Exercise
   - Plasma Treatment
   - Clinical Trial
 
-image: "/res/img/logo.png"
+image: "Tari_talk.png"
 
 date: "2025-09-11"
 time: "17:10-17:40"
