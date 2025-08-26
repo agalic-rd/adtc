@@ -4,7 +4,7 @@ title: "Exercised Plasma to Treat Alzheimer's Disease – The ExPlas Study"
 author:
     name: "[Atefe Tari](/content/people/speakers/tari/index.qmd)"
     affiliations:
-        - ref: stolav
+        - ref: cerg
         - ref: ntnu
 
 abstract: |

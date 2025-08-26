@@ -1,0 +1,19 @@
+---
+title: "Posters"
+
+listing:
+    feed: true
+    type: default
+    fields: [title, subtitle, author]
+    max-description-length: 150
+    sort-ui: [title]
+    filter-ui: false
+
+engine: knitr
+---
+
+```{css echo = FALSE}
+.quarto-title-meta-heading, .quarto-title-meta-contents {
+    display: none;
+}
+```

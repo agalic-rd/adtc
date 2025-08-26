@@ -89,3 +89,12 @@ affiliations:
     url: https://nasjonalforeningen.no/
     city: Oslo
     country: Norway
+  - id: hnt
+    name: "Helse Nord-Trøndelag"
+    url: https://www.hnt.no/
+    country: Norway
+  - id: cerg
+    name: "Cardiac Exercise Research Group"
+    url: https://www.ntnu.edu/cerg
+    city: Trondheim
+    country: Norway

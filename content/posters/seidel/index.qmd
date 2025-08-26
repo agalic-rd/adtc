@@ -1,0 +1,49 @@
+---
+title: "Probing the effect of anesthesia and HIIT exercise on tau pathology in Alzheimer's disease"
+
+subtitle: "Investigating anesthesia-induced tau pathology and the protective effects of high-intensity interval training in rodent models."
+
+author:
+    - name: "Sarah Judith Seidel"
+      url: https://www.ntnu.edu/employees/sarah.j.seidel
+      affiliations:
+        - ref: kisn
+        - ref: nff
+        - ref: jca
+    - name: "Elly Isabella Hartong"
+      affiliations:
+        - ref: kisn
+        - ref: nff
+    - name: "Ulrik Wisløff"
+      url: https://www.ntnu.edu/employees/ulrik.wisloff
+      degrees:
+        - PhD
+      affiliations:
+        - ref: ntnu
+    - name: "Atefe Tari"
+      url: "/content/people/speakers/tari/"
+      degrees:
+        - PhD
+      affiliations:
+        - ref: cerg
+        - ref: ntnu
+    - name: "Asgeir Kobro-Flatmoen"
+      url: "/content/people/speakers/kobro-flatmoen/"
+      degrees:
+        - PhD
+      affiliations:
+        - ref: kisn
+        - ref: nff
+        - ref: jca
+
+abstract: |
+    Alzheimer's disease (AD) is a neurodegenerative disease characterized by a set of progressively appearing pathologies. Accumulation of hyperphosphorylated tau (p-tau) and tau-derived tangles (NFTs) are major hallmarks of the disease. It has long been suspected that the accumulation of p-tau may begin already during the prodromal stages of AD, preceding overt cognitive decline. Preventative interventions during this early window may offer the greatest potential for disease modification.
+    Rodent models remain indispensable in AD research, providing valuable insights into the complex mechanisms underlying the pathology. But a limitation with rodents is that they are largely resistant to formation of p-tau and NFTs. As a result, many have employed strategies to artificially express human and/or mutated forms of p-tau in rodent models. However, the insights gained from these approaches remain limited, as it has proven challenging to distinguish genuine disease-relevant mechanisms from artifacts caused by the overexpression of a foreign protein.
+    This project aims to (I) Use anesthesia to induce endogenous p-tau in McGill-R-Thy1-APP transgenic rats and wild-type Wistar rats, and (II) investigate the effects of high-intensity interval training (HIIT) on such endogenous p-tau. HIIT interventions will be applied in both acute and chronic paradigms to assess their potential in mitigating p-tau and ameliorating cognitive deficits.
+    This project may provide valuable insights into non-pharmacological strategies for preventing or slowing the development of AD, with implications for at-risk populations, including older adults exposed to repeated anesthesia.
+---
+
+***
+
+<!-- <object data="/res/program.pdf" type="application/pdf" width="100%" height="600">
+</object>  -->

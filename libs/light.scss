@@ -27,4 +27,6 @@ h5.quarto-listing-category-title { color: $brand-blue; }
 
 .card-body .card-title { color: $brand-blue; }
 
-.navbar .nav-item > a.nav-link.active { border-top: 2px solid; } // Mark active nav link with a border-top
+@media (min-width: 768px) { // Only apply when navbar is not collapsed (md breakpoint and above)
+    .navbar .nav-item > a.nav-link.active { border-top: 2px solid; } // Mark active nav link with a border-top
+}

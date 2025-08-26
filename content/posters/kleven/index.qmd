@@ -1,0 +1,79 @@
+---
+title: "NORRISK2 score can predict risk of dementia and cognitive impairment"
+
+subtitle: "NORRISK2 score predicts 22-year risk of dementia and cognitive impairment, with stronger effects in women."
+
+author:
+    - name: "Silje Kleven"
+      url: https://www.ntnu.edu/employees/silje.kleven
+      degrees:
+        - MD
+      affiliations:
+        - ref: ntnu
+    - name: "Linda Ernstsen"
+      url: https://www.ntnu.edu/employees/lindaer
+      degrees:
+        - PhD
+      affiliations:
+        - ref: ntnu
+    - name: "Marte Kvello-Alme"
+      url: https://www.hnt.no/helsefaglig/forskning/forskere-ved-hnt/forskere-i-hnt/#kvello-alme-marte
+      degrees:
+        - MD
+        - PhD
+      affiliations:
+        - ref: hnt
+    - name: "Stian Lydersen"
+      url: https://www.ntnu.edu/employees/stian.lydersen
+      degrees:
+        - PhD
+      affiliations:
+        - ref: ntnu
+    - name: "Geir Selbæk"
+      url: "/content/people/speakers/selbaek/"
+      degrees:
+        - MD
+        - PhD
+      affiliations:
+        - ref: aging-health
+    - name: "Rannveig Sakshaug Eldholm"
+      url: https://www.ntnu.edu/employees/rannveig.s.eldholm
+      degrees:
+        - PhD
+      affiliations:
+        - ref: ntnu
+
+abstract: |
+    **Background:** Cardiovascular risk factors are associated with the risk of cognitive decline and
+    dementia. However, it remains unclear whether cardiovascular risk scores can effectively
+    predict cognitive outcomes and whether sex influence this association. This study aimed to
+    investigate the relationship between the NORRISK2 score, a cardiovascular risk score widely
+    used in Norway, and the development of dementia or cognitive impairment (mild cognitive
+    impairment (MCI) or dementia) in males and females over a 22-year follow-up period.
+
+    **Methods:** Participants from The Trøndelag Health Study (HUNT), a longitudinal,
+    population-based health study in central Norway, were included. NORRISK2 score was
+    calculated based on data from The HUNT2 survey (1995-1997). Cognitive status was
+    assessed in the sub study HUNT4 70+ (2017-2019), and categorized as normal, MCI or
+    dementia. Logistic regression with NORRISK2 score as predictor and cognitive status 22
+    years later as dependent variable was used to investigate the associations.
+
+    **Results:** The study sample consisted of 6971 participants, including 42.4% males (mean age
+    55.4 years, SD 5.8) and 57.6% females (mean age 56.5, SD 6.6). At HUNT4 70+, 14.0% of
+    the participants had developed dementia, and 34.6% had developed MCI. Per one unit
+    increase in NORRISK2 score, the odds of developing dementia increased by 12% for males
+    (OR=1.12; 95% CI 1.10-1.14) and 22% for females (OR=1.22; 95% CI 1.20-1.25). Odds for
+    developing cognitive impairment increased by 6% for men (OR=1.06; 95% CI 1.05-1.08) and
+    16% for women (OR 1.16; 95% CI 1.14-1.18).
+
+    **Conclusion:** A higher NORRISK2 score was associated with increased risk of dementia and
+    cognitive impairment in both males and females, with the strongest associations being found
+    in females. The findings suggest that the NORRISK2 score could be used in clinical practice
+    not only to predict future risk of CVD, but also as a predictor of risk of dementia and
+    cognitive impairment.
+---
+
+***
+
+<!-- <object data="/res/program.pdf" type="application/pdf" width="100%" height="600">
+</object> -->

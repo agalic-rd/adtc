@@ -6,11 +6,11 @@ author:
     name: "Geir Selbæk"
     degrees:
       - PhD
+      - MD
     affiliations:
         - ref: aging-health
 
 image: "Geir_Selbaek.jpg"
-
 
 categories:
   - Lifestyle Factors

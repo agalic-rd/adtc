@@ -1,0 +1,24 @@
+---
+title: "State-of-the-art viral vector tools and their applications in Neuroscience"
+
+subtitle: "Viral vectors enable precise gene delivery to brain cells, revolutionizing neuroscience research and offering therapeutic potential for genetic disorders."
+
+author:
+    name: "Rajeevkumar Raveendran Nair"
+    url: https://www.ntnu.edu/employees/rajeevkumar.r.nair
+    degrees:
+      - PhD
+    affiliations:
+        - ref: kisn
+
+abstract: |
+  Recent advancements in molecular and genetic approaches are revolutionizing experimental research, enabling a deeper understanding of complex biological mechanisms in health and disease. However, the optimal use of these tools relies on the ability to deliver them precisely and efficiently to the target cells within complex organs like the mammalian brain, in living organisms. Achieving anatomical specificity in transgene delivery, matching the precision at which neuronal circuits operate, not only enhances our understanding of normal and pathological brain function but also holds promise for therapeutic applications. Genetically engineered viruses, also known as viral vectors are at the forefront of biomedical research, providing powerful tools for delivering foreign genes to precise cellular targets at specific times and locations. Viral vectors have already entered clinics as next-generation life-saving vaccines and for treating several devastating genetic disorders in humans. In neuroscience research, for investigations of intermingled neuronal circuits of the mammalian brain involving gene expressions/manipulations, anatomical/functional circuit mappings, neuronal activity manipulations; viral vector-based approaches have truly been revolutionary. Among the widely used viral vectors, Adeno-Associated Virus, Lentivirus, MoMLV and Rabies Virus each offer distinct advantages, making them suitable for different neuroscience research applications. Additionally, specific scientific questions may require the development of novel viral tools with tailored properties, necessitating innovative vector designs. At the Viral Vector Core of the Kavli Institute, NTNU, we have the expertise and infrastructure to produce high-quality viral vectors for life science research. As part of the NORBRAIN, a national research infrastructure program, the Viral Vector Core located at the Kavli Institute operates as a non-profit entity. At the core facility, we offer consultation and scientific collaborations, novel vector designs, and viral vector production services, enhancing research capabilities across research institutions worldwide.
+---
+
+***
+
+<!-- <object data="/res/program.pdf" type="application/pdf" width="100%" height="600">
+</object>  -->
+
+
+

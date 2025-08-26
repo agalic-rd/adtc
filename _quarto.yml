@@ -35,8 +35,12 @@ website:
         text: "{{< fa calendar-days height=20px >}} Program"
       - href: content/talks/index.qmd
         text: "{{< iconify file-icons keynote height=20px >}} Talks"
+      - href: content/posters/index.qmd
+        icon: file-image
+        text: "Posters"
       - href: content/people/index.qmd
         text: "{{< iconify bi people height=20px >}} People"
+    right:
       - href: content/logistics/index.qmd
         text: "{{< fa car height=20px >}} Logistics"
   
@@ -65,12 +69,12 @@ website:
   ### Sidebar ###
   sidebar: false
 
-  announcement: 
-    content: "Free conference [**registration**](https://docs.google.com/forms/d/e/1FAIpQLSeQIoCR2CXUVLiegQm6Rsh7Ph5LHKDiCepFcalr5sWBk5YlKA/viewform?usp=header) is now open" 
-    position: below-navbar 
-    icon: info-circle
-    type: secondary
-    dismissable: true
+  # announcement: 
+  #   content: "Free conference [**registration**](https://docs.google.com/forms/d/e/1FAIpQLSeQIoCR2CXUVLiegQm6Rsh7Ph5LHKDiCepFcalr5sWBk5YlKA/viewform?usp=header) is now open" 
+  #   position: below-navbar 
+  #   icon: info-circle
+  #   type: secondary
+  #   dismissable: true
 
   ### Footer ###
   page-footer:

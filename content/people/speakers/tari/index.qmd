@@ -7,7 +7,7 @@ author:
     degrees:
       - PhD
     affiliations:
-        - ref: stolav
+        - ref: cerg
         - ref: ntnu
 
 image: "Atefe_Tari.png"
@@ -22,7 +22,7 @@ categories:
 
 socials:
     - name: Website
-      url: https://www.ntnu.edu/cerg
+      url: https://www.ntnu.edu/employees/atefe.r.tari
 ---
 
 ## About
