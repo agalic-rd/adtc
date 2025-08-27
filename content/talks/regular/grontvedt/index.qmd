@@ -4,9 +4,8 @@ title: "The clinical presentation and diagnosis of AD"
 author:
     name: "[Gøril Rolfseng Grøntvedt](/content/people/speakers/grontvedt/index.qmd)"
     affiliations:
-        - ref: jca
-        - ref: kisn
-        - ref: ntnu
+        - ref: ntnu-kisn-jca
+        - ref: ntnu-kisn
 
 abstract: |
     AD diagnosis relies on clinical evaluation, neuropsychological testing, and biomarkers such as imaging techniques and cerebrospinal fluid analysis. Advancements in diagnostic criteria continue to improve early detection, facilitating timely intervention and management.

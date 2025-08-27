@@ -4,7 +4,7 @@ title: "Anatomical units of space, time and memory"
 author:
     name: "[Menno Witter](/content/people/speakers/witter/index.qmd)"
     affiliations:
-        - ref: kisn
+        - ref: ntnu-kisn
 
 abstract: |
   Space and time are essential elements of episodic or conscious memory, the type of memory that is strongly impaired in Alzheimer's patients. To introduce the symposium, we will go through a historical overview of the structural neurobiology of brain structures that mediate conscious memory. This aims to lead to a perspective of where we boldly should travel to further our elementary knowledge, in service of productive applications.

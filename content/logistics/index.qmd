@@ -28,11 +28,11 @@ Vaernes Airport (TRD) is located about 32 km northeast of Trondheim city center.
 
 ### Train
 
-[SJ Nord](https://www.sj.no/en/frontpage) runs train services from Værnes station to Trondheim Central Station (Trondheim S).
+[SJ Nord](https://www.vy.no/tog/trondheim-varnes) runs train services from Værnes station to Trondheim Central Station (Trondheim S).
 
 - **Journey time**: About 35 minutes
 - **Frequency**: Trains run approximately every hour
-- **Ticket price**: NOK 120 for adults (one-way)
+- **Ticket price**: NOK 50 for adults (one-way)
 - **Station access**: The airport train station is connected to the terminal building by a covered walkway (5-minute walk)
 - **Tickets**: Available from ticket machines at the station or online
 

@@ -4,11 +4,9 @@ subtitle: "Professor at Kavli Institute for Systems Neuroscience, NTNU"
 
 author:
     name: "Cliff Kentros"
-    degrees:
-      - PhD
+    degrees: PhD
     affiliations:
-        - ref: kisn
-        - ref: ntnu
+        - ref: ntnu-kisn
 
 image: "Clifford_Kentros.jpg"
 

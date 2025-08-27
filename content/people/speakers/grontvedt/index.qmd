@@ -4,13 +4,12 @@ subtitle: "Clinical Researcher at the JCA and KISN at NTNU"
 
 author:
     name: "Gøril Rolfseng Grøntvedt"
-    url: "#"
+    url: https://www.ntnu.edu/employees/goril.r.grontvedt
     degrees:
       - PhD
     affiliations:
-        - ref: jca
-        - ref: kisn
-        - ref: ntnu
+        - ref: ntnu-mh-inb
+        - ref: ntnu-kisn-jca
 
 image: "Goril_Rolfseng_Grontvedt.jpg"
 
@@ -23,7 +22,7 @@ metadata-files: ["../../_people_partials.yml"]
 
 socials:
     - name: Website
-      url: https://www.ntnu.edu/employees/goril.grontvedt
+      url: https://www.ntnu.edu/employees/goril.r.grontvedt
     - name: ResearchGate
       url: https://www.researchgate.net/profile/Goeril-Grontvedt
 ---

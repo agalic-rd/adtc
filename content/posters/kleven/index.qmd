@@ -6,42 +6,35 @@ subtitle: "NORRISK2 score predicts 22-year risk of dementia and cognitive impair
 author:
     - name: "Silje Kleven"
       url: https://www.ntnu.edu/employees/silje.kleven
-      degrees:
-        - MD
+      degrees: MD
       affiliations:
-        - ref: ntnu
+        - ref: ntnu-mh-inb
     - name: "Linda Ernstsen"
       url: https://www.ntnu.edu/employees/lindaer
-      degrees:
-        - PhD
+      degrees: PhD
       affiliations:
-        - ref: ntnu
+        - ref: ntnu-mh-ism
     - name: "Marte Kvello-Alme"
       url: https://www.hnt.no/helsefaglig/forskning/forskere-ved-hnt/forskere-i-hnt/#kvello-alme-marte
-      degrees:
-        - MD
-        - PhD
+      degrees: [MD, PhD]
       affiliations:
         - ref: hnt
     - name: "Stian Lydersen"
       url: https://www.ntnu.edu/employees/stian.lydersen
-      degrees:
-        - PhD
+      degrees: PhD
       affiliations:
-        - ref: ntnu
+        - ref: ntnu-mh
     - name: "Geir Selbæk"
       url: "/content/people/speakers/selbaek/"
-      degrees:
-        - MD
-        - PhD
+      degrees: [MD, PhD]
       affiliations:
         - ref: aging-health
+        - ref: uio-ikm
     - name: "Rannveig Sakshaug Eldholm"
       url: https://www.ntnu.edu/employees/rannveig.s.eldholm
-      degrees:
-        - PhD
+      degrees: PhD
       affiliations:
-        - ref: ntnu
+        - ref: ntnu-mh-inb
 
 abstract: |
     **Background:** Cardiovascular risk factors are associated with the risk of cognitive decline and

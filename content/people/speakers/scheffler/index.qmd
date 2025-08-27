@@ -4,11 +4,10 @@ subtitle: "Laboratory Leader at Department of Neurology, St. Olavs Hospital"
 
 author:
     name: "Katja Scheffler"
-    degrees:
-      - PhD
+    degrees: PhD
     affiliations:
-        - ref: stolav
-        - ref: ntnu
+    - ref: stolav-neuro
+    - ref: ntnu-mh-inb
 
 image: "Katja_Scheffler.jpg"
 

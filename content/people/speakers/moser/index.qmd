@@ -8,8 +8,8 @@ author:
     degrees:
       - PhD
     affiliations:
-        - ref: jca
-        - ref: kisn
+        - ref: ntnu-kisn-jca
+        - ref: ntnu-kisn
 
 image: "Edvard_Moser.jpg"
 

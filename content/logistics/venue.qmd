@@ -8,6 +8,8 @@ The conference will be held at **Kunskapssenteret (The Knowledge Centre)**, loca
 
 **Address:** Olav Kyrres gate 17, Trondheim.
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7139.412669391062!2d10.37599988271547!3d63.42608308583068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x466d319213c17705%3A0x457c7ea94a81628f!2sOlav%20Kyrres%20gate%2017%2C%207030%20Trondheim!5e0!3m2!1sen!2sno!4v1756327187171!5m2!1sen!2sno" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 Kunskapssenteret is a modern facility designed to foster collaboration and learning, situated centrally within the hospital and university area. It is well-connected by public transport and within reasonable distance of the city center and various accommodation options.
 
 ### Hosting Institutions
@@ -33,6 +35,4 @@ Kunskapssenteret is a modern facility designed to foster collaboration and learn
 
 ### Funding institutions
 
-* **[Nasjonalforeningen for Folkehelsen](https://nasjonalforeningen.no/){target="_blank"}**
-
-Nasjonalforeningen for Folkehelsen is a voluntary humanitarian organization working to combat cardiovascular diseases and dementia. As one of Norway’s leading public health organizations, they combine research funding, advocacy, and public health initiatives to improve the lives of those affected by these conditions.
+**[Nasjonalforeningen for Folkehelsen](https://nasjonalforeningen.no/){target="_blank"}**: Nasjonalforeningen for Folkehelsen is a voluntary humanitarian organization working to combat cardiovascular diseases and dementia. As one of Norway’s leading public health organizations, they combine research funding, advocacy, and public health initiatives to improve the lives of those affected by these conditions.

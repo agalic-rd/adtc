@@ -9,9 +9,9 @@ author:
       - PhD
       
     affiliations:
-        - ref: kisn
-        - ref: inb
-        - ref: jca
+        - ref: ntnu-kisn
+        - ref: ntnu-mh-inb
+        - ref: ntnu-kisn-jca
 
 image: "Tora_Bonnevie.png"
 

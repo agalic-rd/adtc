@@ -4,9 +4,9 @@ title: "Memory, time and space in the human brain – impact of early Alzheimer�
 author:
     name: "[Tora Bonnevie](/content/people/speakers/bonnevie/index.qmd)"
     affiliations:
-        - ref: kisn
-        - ref: inb
-        - ref: jca
+        - ref: ntnu-kisn
+        - ref: ntnu-mh-inb
+        - ref: ntnu-kisn-jca
 
 abstract: |
     The hippocampal region is one of the first areas to be affected by Alzhimer’s pathology. Neural activity in this region underpins representation of our environmental context, including the experience of time - central elements for memory function. How does Alzheimer-related pathology impact neural activity in this region, and cause early symptoms of the disease? We approach this question by assessing episodic time in healthy humans and participants with early Alzheimer’s disease.

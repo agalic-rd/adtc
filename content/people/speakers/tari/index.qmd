@@ -4,11 +4,9 @@ subtitle: "Researcher at Cardiac Exercise Research Group, NTNU"
 
 author:
     name: "Atefe Tari"
-    degrees:
-      - PhD
+    degrees: PhD
     affiliations:
-        - ref: cerg
-        - ref: ntnu
+        - ref: ntnu-cerg
 
 image: "Atefe_Tari.png"
 image-alt: "Profile picture of Atefe Tari"

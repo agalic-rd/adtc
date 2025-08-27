@@ -1,0 +1,65 @@
+---
+title: "Exploring spatial orientation impairments in patients with Lewy Body dementia and Alzheimer’s dementia – unpublished, preliminary findings"
+
+subtitle: "Comparing spatial orientation measures between AD and LBD in memory clinic patients"
+
+author:
+    - name: "Gro Gujord Tangen"
+      degrees: PhD
+      affiliations:
+        - ref: aging-health
+        - ref: ous-geriatric
+    - name: "Karen Sverdrup"
+      url: https://www.aldringoghelse.no/om-aldring-og-helse/ansatte/169/
+      degrees: PhD
+      affiliations:
+        - ref: aging-health
+        - ref: ous-geriatric
+        - ref: uw-anesth
+    - name: "Karin Persson"
+      url: https://www.aldringoghelse.no/om-aldring-og-helse/ansatte/174/
+      degrees: [MD, PhD]
+      affiliations:
+        - ref: aging-health
+        - ref: ous-geriatric
+    - name: "Geir Selbæk"
+      url: /content/people/speakers/selbaek/
+      degrees: [MD, PhD]
+      affiliations:
+        - ref: aging-health
+        - ref: ous-geriatric
+        - ref: uio-ikm
+    - name: "Riona McArdle"
+      url: https://newcastlebrc.nihr.ac.uk/about-us/our-people/4704-dr-riona-mcardle
+      degrees: PhD
+      affiliations:
+        - ref: newcastle-tcri
+    - name: "Bård Erik Bogen"
+      url: https://www.hvl.no/en/employee/?user=Bard.Erik.Bogen
+      degrees: PhD
+      affiliations:
+        - ref: hvl-health
+        - ref: uib-phpc
+    - name: "Anne Brita Knapskog"
+      url: https://www.ous-research.no/home/dementia/Group+members/16499
+      degrees: [MD, PhD]
+      affiliations:
+        - ref: ous-geriatric
+
+abstract: |
+    **Background:** Impairments in spatial orientation are common in both Alzheimer’s dementia (AD) and Lewy Body dementia (LBD), yet less studied in LBD. We aimed to compare various assessments of spatial orientation between memory clinic patients with AD and LBD to better understand these differences in characteristics.
+
+    **Methods:** We included 51 patients with AD and 36 patients with LBD from the memory clinic at Oslo University Hospital. Spatial orientation was examined using the performance-based Floor Maze Test (FMT), the self- and proxy-reported versions of the Spatial Orientation Screening (SOS) and Questionnaire on Everyday Navigational Assessment (QuENA), and self-reported Spatial Anxiety from the Wayfinding questionnaire. Higher values indicate worse performance on  all outcomes.
+
+    **Results:** There were no significant differences between patients with AD and LBD regarding age, sex or MMSE. Patients with
+    LBD were slower on the FMT. This association remained significant when adjusting for age, sex, MMSE and Timed-Up-and-Go. There were no significant differences on the self- and proxy-reported versions of the SOS and QuENA questionnaires, nor in the Spatial Anxiety questionnaire.
+
+    **Conclusion:** Memory clinic patients with LBD had worse results on the performance-based FMT, while there were no differences in the self- or proxy-reported questionnaires. Clinicians should address spatial orientation in both AD and LBD patients to ensure safe mobility in society.
+---
+
+***
+
+<!-- <object data="poster.pdf" type="application/pdf" width="100%" height="1300">
+</object>  -->
+
+

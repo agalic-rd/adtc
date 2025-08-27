@@ -4,11 +4,10 @@ subtitle: "Professor at Norwegian National Advisory Unit on Ageing and Health"
 
 author:
     name: "Geir Selbæk"
-    degrees:
-      - PhD
-      - MD
+    degrees: [MD, PhD]
     affiliations:
         - ref: aging-health
+        - ref: uio-ikm
 
 image: "Geir_Selbaek.jpg"
 

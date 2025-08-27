@@ -4,8 +4,8 @@ title: "Functional units of space, time and memory"
 author:
   - name: "[Edvard Moser](/content/people/speakers/moser/index.qmd)"
     affiliations:
-        - ref: jca
-        - ref: kisn
+        - ref: ntnu-kisn-jca
+        - ref: ntnu-kisn
 
 
 categories:

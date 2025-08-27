@@ -8,7 +8,7 @@ author:
     degrees:
       - PhD
     affiliations:
-        - ref: kisn
+        - ref: ntnu-kisn
 
 image: https://backends.it.ntnu.no/user-profile-service/rest/files/5e8b3d76-c13b-36d3-8008-7825623b0d96
 image-alt: "Profile picture of Menno Witter"

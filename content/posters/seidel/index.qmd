@@ -7,34 +7,30 @@ author:
     - name: "Sarah Judith Seidel"
       url: https://www.ntnu.edu/employees/sarah.j.seidel
       affiliations:
-        - ref: kisn
+        - ref: ntnu-kisn
         - ref: nff
-        - ref: jca
+        - ref: ntnu-kisn-jca
     - name: "Elly Isabella Hartong"
       affiliations:
-        - ref: kisn
+        - ref: ntnu-kisn
         - ref: nff
     - name: "Ulrik Wisløff"
       url: https://www.ntnu.edu/employees/ulrik.wisloff
-      degrees:
-        - PhD
+      degrees: PhD
       affiliations:
-        - ref: ntnu
+        - ref: ntnu-cerg
     - name: "Atefe Tari"
       url: "/content/people/speakers/tari/"
-      degrees:
-        - PhD
+      degrees: PhD
       affiliations:
-        - ref: cerg
-        - ref: ntnu
+        - ref: ntnu-cerg
     - name: "Asgeir Kobro-Flatmoen"
       url: "/content/people/speakers/kobro-flatmoen/"
-      degrees:
-        - PhD
+      degrees: PhD
       affiliations:
-        - ref: kisn
+        - ref: ntnu-kisn
         - ref: nff
-        - ref: jca
+        - ref: ntnu-kisn-jca
 
 abstract: |
     Alzheimer's disease (AD) is a neurodegenerative disease characterized by a set of progressively appearing pathologies. Accumulation of hyperphosphorylated tau (p-tau) and tau-derived tangles (NFTs) are major hallmarks of the disease. It has long been suspected that the accumulation of p-tau may begin already during the prodromal stages of AD, preceding overt cognitive decline. Preventative interventions during this early window may offer the greatest potential for disease modification.

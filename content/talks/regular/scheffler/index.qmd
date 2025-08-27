@@ -4,8 +4,8 @@ title: "The Trønderbrain project – Next-generation translational medicine"
 author:
     name: "[Katja Scheffler](/content/people/speakers/scheffler/index.qmd)"
     affiliations:
-        - ref: stolav
-        - ref: ntnu
+        - ref: stolav-neuro
+        - ref: ntnu-mh-inb
 
 abstract: |
   The Trønderbrain project is a collaborative research initiative established in 2003 by St. Olavs Hospital and NTNU. The primary goal is to advance translational research on neurodegenerative diseases with an emphasis on Alzheimer’s disease. Herein, we are combining research in animal and in vitro 3D brain models with clinical studies in humans to better understand the molecular mechanisms behind AD, identifying early biomarkers for diagnosis, and discovering potential therapeutic targets. 

@@ -4,13 +4,10 @@ subtitle: "Neuroscientist at the JCA and KISN"
 
 author:
     name: "Asgeir Kobro-Flatmoen"
-    url: "#"
-    degrees:
-      - PhD
+    degrees: PhD
     affiliations:
-        - ref: jca
-        - ref: kisn
-        - ref: ntnu
+        - ref: ntnu-kisn-jca
+        - ref: ntnu-kisn
 
 image: "Asgeir_Kobro_Flatmoen.jpg"
 

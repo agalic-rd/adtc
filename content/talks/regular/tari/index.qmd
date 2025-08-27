@@ -4,8 +4,7 @@ title: "Exercised Plasma to Treat Alzheimer's Disease – The ExPlas Study"
 author:
     name: "[Atefe Tari](/content/people/speakers/tari/index.qmd)"
     affiliations:
-        - ref: cerg
-        - ref: ntnu
+        - ref: ntnu-cerg
 
 abstract: |
     ExPlas is a first-in-human study examining the feasibility and potential impact of administering plasma from exercise-trained donors to individuals with early Alzheimer’s disease.

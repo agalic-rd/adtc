@@ -1,24 +1,137 @@
 affiliations:
+  # Norway
+  ## Trondheim
+  ## NTNU
   - id: ntnu
-    name: "Norwegian University of Science and Technology"
+    name: "Norwegian University of Science and Technology (NTNU)"
     url: https://www.ntnu.edu/
     city: Trondheim
     country: Norway
-  - id: inb
-    name: "Department of Neuromedicine and Movement Science"
-    url: https://www.ntnu.edu/inb
-    city: Trondheim
-    country: Norway
-  - id: kisn
-    name: "Kavli Institute for Systems Neuroscience"
+  - id: ntnu-kisn
+    name: "Kavli Institute for Systems Neuroscience (KISN), NTNU"
     url: https://www.ntnu.edu/kavli/
     city: Trondheim
     country: Norway
-  - id: jca
-    name: "K.G. Jebsen Centre for Alzheimer's Disease"
+  - id: ntnu-kisn-jca
+    name: "K.G. Jebsen Centre for Alzheimer's Disease (JCA), KISN, NTNU"
     url: https://www.ntnu.edu/kavli/k.g.-jebsen-centre-for-alzheimer-s-disease
     city: Trondheim
     country: Norway
+  - id: ntnu-cerg
+    name: "Cardiac Exercise Research Group (CERG), NTNU"
+    url: https://www.ntnu.edu/cerg
+    city: Trondheim
+    country: Norway
+  - id: ntnu-mh
+    name: "Faculty of Medicine and Health Sciences (MH), NTNU"
+    url: https://www.ntnu.edu/mh
+    city: Trondheim
+    country: Norway
+  - id: ntnu-mh-inb
+    name: "Department of Neuromedicine and Movement Science (INB), MH, NTNU"
+    url: https://www.ntnu.edu/inb
+    city: Trondheim
+    country: Norway
+  - id: ntnu-mh-cmic
+    name: "Cellular & Molecular Imaging Core Facility (CMIC), MH, NTNU"
+    url: https://www.ntnu.edu/mh/cmic
+    city: Trondheim
+    country: Norway
+  - id: ntnu-mh-ism
+    name: "Department of Public Health and Nursing (ISM), MH, NTNU"
+    url: https://www.ntnu.edu/ism
+    city: Trondheim
+    country: Norway
+  ### St Olav's
+  - id: stolav
+    name: "St. Olavs Hospital"
+    url: https://stolav.no/
+    city: Trondheim
+    country: Norway
+  - id: stolav-neuro
+    name: "Department of Neurology and Clinical Neurophysiology, St. Olav's Hospital"
+    url: https://www.stolav.no/avdelinger/nevroklinikken/nevrologi-og-klinisk-nevrofysiologi
+    city: Trondheim
+    country: Norway
+  - id: ntnu-stolav-neurobio
+    name: "Neurobiological Lab, INB, MH, NTNU"
+    url: https://www.ntnu.edu/inb/neurobio
+    city: Trondheim
+    country: Norway
+  ### Others
+  - id: hnt
+    name: "Helse Nord-Trøndelag"
+    url: https://www.hnt.no/
+    country: Norway
+  ## Oslo
+  - id: uio
+    name: "University of Oslo"
+    url: https://www.uio.no/
+    city: Oslo
+    country: Norway
+  - id: nff
+    name: "Nasjonalforeningen for Folkehelsen"
+    url: https://nasjonalforeningen.no/
+    city: Oslo
+    country: Norway
+  - id: aging-health
+    name: "Norwegian National Advisory Unit on Ageing and Health"
+    url: https://www.aldringoghelse.no/
+    city: Oslo
+    country: Norway
+  - id: ous
+    name: "Oslo University Hospital (OUS)"
+    url: https://oslo-universitetssykehus.no/
+    city: Oslo
+    country: Norway
+  - id: ous-geriatric
+    name: "Department of Geriatric Medicine, Oslo University Hospital (OUS)"
+    url: https://oslo-universitetssykehus.no/avdelinger/geriatrisk-avdeling
+    city: Oslo
+    country: Norway
+  - id: uio-ikm
+    name: "Institute of Clinical Medicine, University of Oslo (UiO)"
+    url: https://www.med.uio.no/klinmed/english/
+    city: Oslo
+    country: Norway
+  ## Bergen
+  - id: uib
+    name: "University of Bergen (UiB)"
+    url: https://www.uib.no/en
+    city: Bergen
+    country: Norway
+  - id: uib-phpc
+    name: "Department of Global Public Health and Primary Care, UiB"
+    url: https://www.uib.no/en/ig
+    city: Bergen
+    country: Norway
+  - id: hvl
+    name: "Western Norway University of Applied Sciences (HVL)"
+    url: https://www.hvl.no/en/
+    city: Bergen
+    country: Norway
+  - id: hvl-health
+    name: "Faculty of Health and Social Sciences, HVL"
+    url: https://www.hvl.no/en/about/faculties/faculty-of-health-and-social-sciences/
+    city: Bergen
+    country: Norway
+  
+  # All
+  - id: lund
+    name: "Lund University"
+    url: https://www.lunduniversity.lu.se/
+    city: Lund
+    country: Sweden
+  - id: uef
+    name: "University of Eastern Finland"
+    url: https://www.uef.fi/
+    city: Kuopio
+    country: Finland
+  - id: ucph
+    name: "University of Copenhagen"
+    url: https://www.ku.dk/
+    city: Copenhagen
+    country: Denmark
   - id: cambridge
     name: "University of Cambridge"
     url: https://www.cam.ac.uk/
@@ -28,6 +141,11 @@ affiliations:
     name: "Max Planck Institute for Human Cognitive and Brain Sciences"
     url: https://www.cbs.mpg.de/
     city: Leipzig
+    country: Germany
+  - id: marburg
+    name: "Philipps-Universität Marburg"
+    url: https://www.uni-marburg.de/en
+    city: Marburg
     country: Germany
   - id: ruhr
     name: "Ruhr University Bochum"
@@ -49,52 +167,29 @@ affiliations:
     url: https://www.imperial.ac.uk/
     city: London
     country: United Kingdom
-  - id: aging-health
-    name: "Norwegian National Advisory Unit on Ageing and Health"
-    url: https://www.aldringoghelse.no/
-    city: Oslo
-    country: Norway
-  - id: uef
-    name: "University of Eastern Finland"
-    url: https://www.uef.fi/
-    city: Kuopio
-    country: Finland
-  - id: ucph
-    name: "University of Copenhagen"
-    url: https://www.ku.dk/
-    city: Copenhagen
-    country: Denmark
-  - id: uio
-    name: "University of Oslo"
-    url: https://www.uio.no/
-    city: Oslo
-    country: Norway
-  - id: stolav
-    name: "St. Olavs Hospital"
-    url: https://stolav.no/
-    city: Trondheim
-    country: Norway
   - id: nova
     name: "NOVA Medical School"
     url: https://www.nms.unl.pt/
     city: Lisbon
     country: Portugal
-  - id: lund
-    name: "Lund University"
-    url: https://www.lunduniversity.lu.se/
-    city: Lund
-    country: Sweden
-  - id: nff
-    name: "Nasjonalforeningen for Folkehelsen"
-    url: https://nasjonalforeningen.no/
-    city: Oslo
-    country: Norway
-  - id: hnt
-    name: "Helse Nord-Trøndelag"
-    url: https://www.hnt.no/
-    country: Norway
-  - id: cerg
-    name: "Cardiac Exercise Research Group"
-    url: https://www.ntnu.edu/cerg
-    city: Trondheim
-    country: Norway
+  - id: uw
+    name: "University of Washington"
+    url: https://www.washington.edu/
+    city: Seattle
+    country: USA
+  - id: uw-anesth
+    name: "Department of Anesthesiology and Pain Medicine, University of Washington"
+    url: https://anesthesiology.uw.edu/
+    city: Seattle
+    country: USA
+  - id: newcastle
+    name: "Newcastle University"
+    url: https://www.ncl.ac.uk/
+    city: Newcastle upon Tyne
+    country: United Kingdom
+  - id: newcastle-tcri
+    name: "Translational & Clinical Research Institute, Newcastle University"
+    url: https://www.ncl.ac.uk/medical-sciences/research/institutes/translational-clinical-research/
+    city: Newcastle upon Tyne
+    country: United Kingdom
+  

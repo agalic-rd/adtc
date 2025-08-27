@@ -9,8 +9,8 @@ author:
       - MD
       - PhD
     affiliations:
-        - ref: jca
-        - ref: kisn
+        - ref: ntnu-kisn-jca
+        - ref: ntnu-kisn
 
 image: https://agalic-rd.com/res/avatar.jpg
 image-alt: "Profile picture of Agalic Rodriguez-Duboc"
