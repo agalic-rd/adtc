@@ -1,11 +1,12 @@
 ---
 title: "Dr. Asgeir Kobro-Flatmoen"
-subtitle: "Neuroscientist at the JCA and KISN"
+subtitle: "Neuroscientist at KISN; JCA co-leader"
 
 author:
     name: "Asgeir Kobro-Flatmoen"
     degrees: PhD
     affiliations:
+        - ref: ntnu-stolav-nfdfs
         - ref: ntnu-kisn-jca
         - ref: ntnu-kisn
 

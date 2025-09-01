@@ -4,9 +4,8 @@ subtitle: "Clinical Researcher at the JCA and KISN at NTNU"
 
 author:
     name: "Gøril Rolfseng Grøntvedt"
-    url: https://www.ntnu.edu/employees/goril.r.grontvedt
-    degrees:
-      - PhD
+    url: https://www.ntnu.no/ansatte/goril.r.grontvedt
+    degrees: [MD, PhD]
     affiliations:
         - ref: ntnu-mh-inb
         - ref: ntnu-kisn-jca

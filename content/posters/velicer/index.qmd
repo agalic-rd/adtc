@@ -1,0 +1,39 @@
+---
+title: "The role of neuron-specific inflammation in the entorhinal cortex in Alzheimer's disease"
+subtitle: "EC neuroinflammation disrupts reelin–GSK‑3β signaling via iAβ42 in reelin+ LII, accelerating tau phosphorylation."
+
+author:
+    - name: "Sophia Tsu Velicer"
+      degrees: MD
+      affiliations:
+        - ref: ntnu-stolav-nfdfs
+        - ref: unil-biomed
+        - ref: ntnu-kisn
+    - name: "Maria Yudina"
+      affiliations:
+        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-kisn
+    - name: "Sarah Judith Seidel"
+      url: https://www.ntnu.edu/employees/sarah.j.seidel
+      affiliations:
+        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-kisn
+    - name: "Asgeir Kobro-Flatmoen"
+      url: "/content/people/speakers/kobro-flatmoen/"
+      degrees: PhD
+      affiliations:
+        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-kisn
+
+abstract: |
+    Alzheimer's disease (AD) is defined by the accumulation of amyloid‑β (Aβ) and the hyperphosphorylation of tau (p‑tau). The entorhinal cortex (EC) and hippocampus are among the first cortical regions affected. In layer II of EC, a major population of reelin‑expressing neurons (Re+ECLII) projects to the dentate gyrus and is thought to be among the earliest to exhibit p‑tau and degeneration, well before diagnosable symptoms.
+
+    Neuroinflammatory insults drive neurons to increase intracellular Aβ42 (iAβ42). Modeling predicts that Re+ECLII neurons may show a disproportionate iAβ42 increase, facilitating an interaction between iAβ42 and reelin that impairs the reelin signaling cascade. A key function of this cascade is inhibition of glycogen synthase kinase‑3β (GSK‑3β), a major tau kinase. Thus, reelin impairment via iAβ42 may promote early p‑tau formation in Re+ECLII neurons.
+
+    Using McGill‑R‑Thy1‑APP transgenic rats, we test whether microinjections of herpes simplex virus I (HSV‑I) into EC and other cortical regions induce neuroinflammation and whether this selectively elevates iAβ42 in Re+ECLII neurons, disrupts reelin signaling, and exacerbates tau phosphorylation.
+---
+
+***
+
+<!-- <object data="poster.pdf" type="application/pdf" width="100%" height="1300">
+</object>  -->
