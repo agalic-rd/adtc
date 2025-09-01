@@ -1,5 +1,6 @@
 ---
 title: "Talks"
+subtitle: "10, 11, 12 September 2025"
 
 listing:
   - id: keynotes

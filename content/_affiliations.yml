@@ -192,4 +192,13 @@ affiliations:
     url: https://www.ncl.ac.uk/medical-sciences/research/institutes/translational-clinical-research/
     city: Newcastle upon Tyne
     country: United Kingdom
-  
+  - id: unizg
+    name: "University of Zagreb"
+    url: https://www.unizg.hr/homepage/
+    city: Zagreb
+    country: Croatia
+  - id: unizg-cibr
+    name: "Croatian Institute for Brain Research (CIBR), University of Zagreb"
+    url: https://mef.unizg.hr/en/o-nama/ustroj/hrvatski-institut-za-istrazivanje-mozga/
+    city: Zagreb
+    country: Croatia

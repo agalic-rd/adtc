@@ -1,0 +1,27 @@
+---
+title: "Before the decline and beyond amyloid: early initiating events in Alzheimer’s disease"
+
+author:
+    name: "[Goran Šimić](/content/people/speakers/simic/index.qmd)"
+    affiliations:
+        - ref: unizg-cibr
+
+abstract: |
+    Content TBA
+
+# categories:
+#   - Early Pathology
+#   - Protein Interactions
+
+image: "/res/img/logo.png"
+
+date: "2025-09-11"
+time: "11:30-12:00"
+day: 2
+part: 1
+---
+
+***
+
+<!-- <object data="/res/quarto.pdf" type="application/pdf" width="100%" height="600">
+</object>  -->

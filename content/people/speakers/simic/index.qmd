@@ -1,0 +1,44 @@
+---
+title: "Prof. Goran Šimić"
+subtitle: "Professor of Neuroscience and Anatomy, University of Zagreb School of Medicine; Head of Neuroscience, Croatian Institute for Brain Research"
+ 
+author:
+    name: "Goran Šimić"
+    degrees: [MD,PhD]
+    affiliations:
+        - ref: unizg-cibr
+
+image: "goran_simic.jpg"
+
+categories:
+  - Alzheimer's disease
+  - Neurodegeneration
+  - Neuropathology
+
+metadata-files: ["../../_people_partials.yml"]
+
+socials:
+    - name: Website
+      url: https://www.pmf.unizg.hr/en/goran.simic
+    - name: ResearchGate
+      url: https://www.researchgate.net/profile/Goran-Simic-2
+    - name: Google Scholar
+      url: https://scholar.google.com/citations?user=JoqjyDsAAAAJ
+---
+
+## About
+
+Prof. Goran Šimić is a tenured Professor of Neuroscience and Anatomy at the University of Zagreb School of Medicine and Head of the Department of Neuroscience at the Croatian Institute for Brain Research (CIBR), where he leads the Laboratory for Developmental Neuropathology. His research focuses on the neuropathology and biomarkers of developmental and neurodegenerative brain disorders, especially Alzheimer's disease and tauopathies.
+
+## Research Interests
+
+- Alzheimer's disease and tauopathies
+- Biomarkers of neurodegeneration
+- Chemical neuroanatomy
+- Brain development, aging and cognition
+
+## Selected Publications
+
+- Petanjek, Z., Judaš, M., **Šimić, G.**, Rašin, M. R., Uylings, H. B. M., Rakic, P., & Kostović, I. (2011). Extraordinary neoteny of synaptic spines in the human prefrontal cortex. Proceedings of the National Academy of Sciences, 108(32), 13281–13286. [https://doi.org/10.1073/pnas.1105108108](https://doi.org/10.1073/pnas.1105108108)
+- **Šimić, G.**, Babić Leko, M., Wray, S., Harrington, C., Delalle, I., Jovanov-Milošević, N., Bažadona, D., Buée, L., De Silva, R., Di Giovanni, G., Wischik, C., & Hof, P. (2016). Tau Protein Hyperphosphorylation and Aggregation in Alzheimer’s Disease and Other Tauopathies, and Possible Neuroprotective Strategies. Biomolecules, 6(1), 6. [https://doi.org/10.3390/biom6010006](https://doi.org/10.3390/biom6010006)
+- **Šimić, G.**, Kostović, I., Winblad, B., & Bogdanović, N. (1997). Volume and number of neurons of the human hippocampal formation in normal aging and Alzheimer’s disease. The Journal of Comparative Neurology, 379(4), 482–494. [https://doi.org/10.1002/(SICI)1096-9861(19970324)379:4<482::AID-CNE2>3.0.CO;2-Z](https://doi.org/10.1002/(SICI)1096-9861(19970324)379:4<482::AID-CNE2>3.0.CO;2-Z)
