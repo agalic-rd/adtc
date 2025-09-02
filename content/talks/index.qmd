@@ -20,7 +20,7 @@ listing:
     sort-ui: [day, time]
     filter-ui: false
     fields: [image, title, categories, description, author, day, time]
-    max-description-length: 150    
+    max-description-length: 300    
   - id: talks
     field-display-names:
         day: "Day"
@@ -39,7 +39,7 @@ listing:
     sort-ui: [day, day desc, time, time desc]
     filter-ui: false
     fields: [image, title, categories, description, author, day, time]
-    max-description-length: 100
+    max-description-length: 200
 
 engine: knitr
 ---
