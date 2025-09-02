@@ -1,5 +1,7 @@
 ---
 title: "People"
+subtitle: "Our Speakers and Organizers"
+
 listing:
     - id: speakers
       field-display-names:
@@ -12,7 +14,7 @@ listing:
       image-placeholder: "/res/img/logo.png"
       sort: title
       fields: [image, title, subtitle, categories, description]
-      categories: true
+      categories: false
       sort-ui: false
       filter-ui: true
       max-description-length: 200
@@ -28,7 +30,7 @@ listing:
       image-placeholder: "/res/img/logo.png"
       sort: title
       fields: [image, title, subtitle, categories, description]
-      categories: true
+      categories: false
       sort-ui: false
       filter-ui: true
       max-description-length: 200
