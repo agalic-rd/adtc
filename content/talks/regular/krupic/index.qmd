@@ -7,7 +7,7 @@ author:
         - ref: cambridge
 
 abstract: |
-  Content TBA
+  Cognitive decline is the defining feature of Alzheimer’s disease (AD) and the primary endpoint in pre-clinical AD studies. I will present how our newly developed home-cage monitoring system (“smart-Kage”) enables high-throughput, fully automated phenotyping of ethologically relevant mouse behaviours to reveal how cognitive and other behavioural deficits progress over time in early Tauopathy mouse models.
 
 categories:
   - Behavioral Analysis
