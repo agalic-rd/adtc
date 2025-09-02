@@ -6,11 +6,23 @@ title: "Logistics"
 
 The conference will take place at **Kunskapssenteret (The Knowledge Centre)**, part of St. Olavs Hospital and NTNU. It's a modern facility centrally located on the hospital campus. The event is hosted by NTNU, the KISN lab, and the KG Jebsen Centre for Alzheimer's Disease.
 
-:::{.column-margin}
-::::{.callout-note appearance="simple"}
-#### Venue information
-[More details here](/content/logistics/venue.qmd)
-::::
+:::{.callout-note appearance="simple"}
+#### [More information on the venue](/content/logistics/venue.qmd)
+:::
+
+## Accommodations
+
+Attendance at the conference sessions is **free of charge**.
+
+Complimentary coffee and light refreshments will be provided during breaks throughout the conference days.
+
+Attendees (except speakers) are responsible for booking and paying for their own accommodation and meals.
+The on-site cantina will be ready on day 2 with a special pre-packaged lunch offer to participants for 150kr (barley salad with salmon and tzatziki) as well as their regular offerings.
+
+Trondheim also offers a wide variety of lodging and dining options to suit different preferences and budgets.
+
+:::{.callout-note appearance="simple"}
+#### [More information on accommodations](/content/logistics/accomodations.qmd)
 :::
 
 ## Vaernes Airport
@@ -60,13 +72,3 @@ Trondheim, Norway's historic third city and a modern university town, offers a b
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1m8J1HyPTFdfnNLmtJPaizM5Lj2Fh2rM&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
-## Accommodations
-
-Conference attendance is free, with refreshments provided. Attendees must arrange their own accommodation and meals. Trondheim offers diverse options, from luxury hotels (e.g., Britannia) and mid-range choices (e.g., Scandic Nidelven, Thon Hotel Nidaros) to hostels and B&Bs. The city also boasts a rich culinary scene.
-
-:::{.column-margin}
-::::{.callout-note appearance="simple"}
-#### Accommodations information
-[More details here](/content/logistics/accomodations.qmd)
-::::
-:::

@@ -68,5 +68,5 @@ abstract: |
 
 ***
 
-<!-- <object data="/res/program.pdf" type="application/pdf" width="100%" height="600">
-</object> -->
+<object data="poster.pdf" type="application/pdf" width="100%" height="1300">
+</object> 

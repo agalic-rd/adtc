@@ -1,5 +1,6 @@
 ---
 title: "Posters"
+subtitle: "10 & 11 September 2025"
 
 listing:
     feed: true
