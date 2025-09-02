@@ -1,7 +1,9 @@
 ---
 title: "Towards an in vitro model of early Alzheimer’s disease pathology"
-
 subtitle: "iPSC-derived Re+ EC layer II neuron model shows reelin induction with intrinsic+extrinsic cues; survival is limited."
+
+date: "2025-09-10"
+day: 1
 
 author:
     - name: "Agalic Rodriguez-Duboc"

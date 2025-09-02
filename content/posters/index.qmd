@@ -3,12 +3,22 @@ title: "Posters"
 subtitle: "10 & 11 September 2025"
 
 listing:
+  - id: day1
     feed: true
-    type: default
     fields: [title, subtitle, author]
     max-description-length: 150
-    sort-ui: [title]
+    sort-ui: false
     filter-ui: false
+    include:
+        day: 1
+  - id: day2
+    feed: true
+    fields: [title, subtitle, author]
+    max-description-length: 150
+    sort-ui: false
+    filter-ui: false
+    include:
+        day: 2
 
 engine: knitr
 ---
@@ -18,3 +28,17 @@ engine: knitr
     display: none;
 }
 ```
+
+::: {.panel-tabset}
+
+## Day 1 (10/09)
+
+::::{#day1}
+::::
+
+## Day 2 (11/09)
+
+::::{#day2}
+::::
+
+:::

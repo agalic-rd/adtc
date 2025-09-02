@@ -1,7 +1,9 @@
 ---
 title: "Bridging the gap between connectome and transcriptome"
-
 subtitle: "Differential CA1 transcriptomes along entorhinal connectivity in APP/PS1 mice to inform AD progression"
+
+date: "2025-09-10"
+day: 1
 
 author:
     - name: "Lars Röttger"

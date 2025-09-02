@@ -1,7 +1,9 @@
 ---
 title: "State-of-the-art viral vector tools and their applications in Neuroscience"
-
 subtitle: "Viral vectors enable precise gene delivery to brain cells, revolutionizing neuroscience research and offering therapeutic potential for genetic disorders."
+
+date: "2025-09-11"
+day: 2
 
 author:
     name: "Rajeevkumar Raveendran Nair"

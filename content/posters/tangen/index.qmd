@@ -1,7 +1,9 @@
 ---
 title: "Exploring spatial orientation impairments in patients with Lewy Body dementia and Alzheimer’s dementia – unpublished, preliminary findings"
-
 subtitle: "Comparing spatial orientation measures between AD and LBD in memory clinic patients"
+
+date: "2025-09-11"
+day: 2
 
 author:
     - name: "Gro Gujord Tangen"

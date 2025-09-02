@@ -1,7 +1,9 @@
 ---
 title: "Probing the effect of anesthesia and HIIT exercise on tau pathology in Alzheimer's disease"
-
 subtitle: "Investigating anesthesia-induced tau pathology and the protective effects of high-intensity interval training in rodent models."
+
+date: "2025-09-10"
+day: 1
 
 author:
     - name: "Sarah Judith Seidel"
