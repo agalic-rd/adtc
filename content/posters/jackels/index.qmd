@@ -1,0 +1,69 @@
+---
+title: "Neural responses to narrative event boundaries in early Alzheimer's Disease"
+subtitle: "Event-boundary brain responses in early AD relate to pathology and biomarkers during narrative fMRI, suggesting event-segmentation deficits underlie temporal memory impairment"
+
+date: "2025-09-10"
+day: 1
+
+author:
+    - name: "Moritz Jäckels"
+      url: https://www.ntnu.edu/employees/moritz.jaeckels
+      affiliations:
+        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-kisn-jca
+        - ref: ntnu-mh-inb
+    - name: "Mae Tjorven Grenz"
+      affiliations:
+        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-kisn-jca
+        - ref: ntnu-kisn
+    - name: "Gøril Rolfseng Grøndvedt"
+      url: "/content/people/speakers/grontvedt/"
+      degrees: [MD, PhD]
+      affiliations:
+        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-kisn-jca
+        - ref: ntnu-mh-inb
+        - ref: ntnu-kisn
+        - ref: stolav-neuro
+    - name: "Sigrid Botne Sando"
+      url: https://www.ntnu.edu/employees/sigrid.botne.sando
+      degrees: [MD, PhD]
+      affiliations:
+        - ref: ntnu-mh-inb
+        - ref: stolav-neuro
+    - name: "Axel Nyman"
+      url: https://www.ntnu.edu/employees/axelkarl
+      degrees: [MD, PhD]
+      affiliations:
+        - ref: ntnu-kisn-jca
+        - ref: ntnu-mh-inb
+        - ref: stolav-neuro
+    - name: "Katja Scheffler"
+      url: "/content/people/speakers/scheffler/"
+      degrees: PhD
+      affiliations:
+        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-mh-inb
+        - ref: stolav-neuro
+    - name: "Christian Doeller"
+      url: "/content/people/speakers/doeller/"
+      degrees: PhD
+      affiliations:
+        - ref: ntnu-kisn-jca
+        - ref: ntnu-kisn
+        - ref: max-planck-psychology
+    - name: "Tora Bonnevie"
+      url: "/content/people/speakers/bonnevie/"
+      degrees: [MD, PhD]
+      affiliations:
+        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-kisn-jca
+        - ref: ntnu-mh-inb
+
+abstract: |
+    Alzheimer’s Disease (AD) is typically associated with symptoms such as memory impairments and spatial disorientation. However, a growing body of evidence points towards impairments not just in spatial, but temporal episodic memory, such as the memory for the temporal order, position and distance of events. One aspect of these impairments might be deficits in event-segmentation, the process whereby we parse our continuous stream of experiences into separate representations in memory. In this study, we aim to link brain activity at event boundaries to pathology and biomarkers of the disease. To do so, we presented an auditory story to patients with early Alzheimer’s Disease as well as age matched controls while recording their brain activity using fMRI. A separate group of young participants was asked to segment the same story into events by marking event boundaries. Subsequently we compared brain activity at these event boundaries between patients and controls and related them to pathological markers. Our preliminary findings support the idea that deficits in event segmentation might underlie the temporal episodic memory impairments found in AD.
+---
+
+***
+

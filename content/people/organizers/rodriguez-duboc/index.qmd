@@ -5,12 +5,11 @@ subtitle: "Postdoctoral Fellow at the Kavli Institute for Systems Neuroscience"
 author:
     name: "Agalic Rodriguez-Duboc"
     url: "https://www.ntnu.no/ansatte/agalic.rodriguez.duboc"
-    degrees:
-      - MD
-      - PhD
+    degrees: [MD, PhD]
     affiliations:
         - ref: ntnu-kisn-jca
         - ref: ntnu-kisn
+        - ref: ntnu-stolav-nfdfs
 
 image: https://agalic-rd.com/res/avatar.jpg
 image-alt: "Profile picture of Agalic Rodriguez-Duboc"

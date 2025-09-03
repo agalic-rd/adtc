@@ -9,6 +9,7 @@ author:
     affiliations:
         - ref: ntnu-mh-inb
         - ref: ntnu-kisn-jca
+        - ref: ntnu-stolav-nfdfs
 
 image: "Goril_Rolfseng_Grontvedt.jpg"
 
