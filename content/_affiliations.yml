@@ -1,7 +1,7 @@
 affiliations:
   # Norway
   ## Trondheim
-  ## NTNU
+  ### NTNU
   - id: ntnu
     name: "Norwegian University of Science and Technology (NTNU)"
     url: https://www.ntnu.edu/

@@ -2,8 +2,8 @@
 title: "Neural responses to narrative event boundaries in early Alzheimer's Disease"
 subtitle: "Event-boundary brain responses in early AD relate to pathology and biomarkers during narrative fMRI, suggesting event-segmentation deficits underlie temporal memory impairment"
 
-date: "2025-09-10"
-day: 1
+date: "2025-09-11"
+day: 2
 
 author:
     - name: "Moritz Jäckels"
