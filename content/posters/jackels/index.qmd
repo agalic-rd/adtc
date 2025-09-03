@@ -27,7 +27,7 @@ author:
         - ref: ntnu-kisn
         - ref: stolav-neuro
     - name: "Sigrid Botne Sando"
-      url: https://www.ntnu.edu/employees/sigrid.botne.sando
+      url: https://www.ntnu.edu/employees/sigrid.b.sando
       degrees: [MD, PhD]
       affiliations:
         - ref: ntnu-mh-inb

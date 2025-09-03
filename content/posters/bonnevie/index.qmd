@@ -1,0 +1,69 @@
+---
+title: "Temporal memory and event segmentation in early Alzheimer’s disease"
+subtitle: "Event segmentation and temporal memory are impaired in early AD; narrative tasks link deficits to verbal recall and CSF biomarkers"
+
+date: "2025-09-11"
+day: 2
+
+author:
+    - name: "Tora Bonnevie"
+      url: "/content/people/speakers/bonnevie/"
+      degrees: [MD, PhD]
+      affiliations:
+        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-kisn-jca
+        - ref: ntnu-mh-inb
+    - name: "Torbjørn Haugan"
+      affiliations:
+        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-kisn-jca
+        - ref: ntnu-kisn
+    - name: "Moritz Jäckels"
+      url: https://www.ntnu.edu/employees/moritz.jaeckels
+      affiliations:
+        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-kisn-jca
+        - ref: ntnu-mh-inb
+    - name: "Axel Nyman"
+      url: https://www.ntnu.edu/employees/axelkarl
+      degrees: [MD, PhD]
+      affiliations:
+        - ref: ntnu-kisn-jca
+        - ref: stolav-neuro
+        - ref: ntnu-mh-inb
+    - name: "Sigrid Botne Sando"
+      url: https://www.ntnu.edu/employees/sigrid.b.sando
+      degrees: [MD, PhD]
+      affiliations:
+        - ref: stolav-neuro
+        - ref: ntnu-mh-inb
+    - name: "Katja Scheffler"
+      url: "/content/people/speakers/scheffler/"
+      degrees: PhD
+      affiliations:
+        - ref: ntnu-stolav-nfdfs
+        - ref: stolav-neuro
+        - ref: ntnu-mh-inb
+    - name: "Christian Doeller"
+      url: "/content/people/speakers/doeller/"
+      degrees: PhD
+      affiliations:
+        - ref: ntnu-kisn-jca
+        - ref: max-planck-psychology
+        - ref: ntnu-kisn
+    - name: "Gøril Rolfseng Grøntvedt"
+      url: "/content/people/speakers/grontvedt/"
+      degrees: [MD, PhD]
+      affiliations:
+        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-kisn-jca
+        - ref: stolav-neuro
+        - ref: ntnu-mh-inb
+        - ref: ntnu-kisn
+
+abstract: |
+    The earliest signs of Alzheimer’s Disease (AD) typically involve episodic memory deficits as well as disorientation in space and time. Since early neuropathology of AD affects brain regions that are also involved in episodic time and event segmentation, we evaluated such functions in a well-characterized cohort of patients with early-stage AD and healthy age-matched controls. Participants listened to narrative audio stories, and were asked to indicate duration, order and position of story events, as well as boundaries between events. Our preliminary results confirm that event segmentation and temporal memory is affected in early AD, and related to verbal recall and CSF biomarkers for AD.
+---
+
+***
+
