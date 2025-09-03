@@ -1,6 +1,8 @@
 ---
 title: "Posters"
-subtitle: "10 & 11 September 2025"
+subtitle: |
+    - Session 1: 10/09 from 17:00 to 18:30  
+    - Session 2: 11/09 from 15:20 to 16:30
 
 listing:
   - id: day1
@@ -31,12 +33,20 @@ engine: knitr
 
 ::: {.panel-tabset}
 
-## Day 1 (10/09)
+## Day 1
+
+Poster session 1 on **10/09** from **17:00 to 18:30**
+
+***
 
 ::::{#day1}
 ::::
 
-## Day 2 (11/09)
+## Day 2
+
+Poster session 2 on **11/09** from **15:20 to 16:30**
+
+***
 
 ::::{#day2}
 ::::

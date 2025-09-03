@@ -4,10 +4,7 @@ subtitle: "Translational neuroscientist at the JCA, KISN and INB"
 
 author:
     name: "Tora Bonnevie"
-    degrees:
-      - MD
-      - PhD
-      
+    degrees: [MD, PhD]
     affiliations:
         - ref: ntnu-kisn
         - ref: ntnu-mh-inb
@@ -41,6 +38,6 @@ Dr. Tora Bonnevie is an associate professor at the JCA, KISN and INB. She co-lea
 
 ## Selected Publications
 
-- Bonnevie, T., Dunn, B., Fyhn, M., Hafting, T., Derdikman, D., Kubie, J.L., Roudi, Y., Moser, E.I., Moser, M.-B., 2013. Grid cells require excitatory drive from the hippocampus. Nat Neurosci 16, 309–317. [https://doi.org/10.1038/nn.3311](https://www.nature.com/articles/nn.3311) 
-- Bonnevie, T., Zaghloul, K.A., 2019. The Subthalamic Nucleus: Unravelling New Roles and Mechanisms in the Control of Action. Neuroscientist 25, 48–64. [https://doi.org/10.1177/1073858418763594](https://journals.sagepub.com/doi/10.1177/1073858418763594)
-- Hafting, T., Fyhn, M., Bonnevie, T., Moser, M.-B., Moser, E.I., 2008. Hippocampus-independent phase precession in entorhinal grid cells. Nature 453, 1248–1252. [https://doi.org/10.1038/nature06957](https://www.nature.com/articles/nature06957)
+- **Bonnevie, T.**, Dunn, B., Fyhn, M., Hafting, T., Derdikman, D., Kubie, J.L., Roudi, Y., Moser, E.I., Moser, M.-B., 2013. Grid cells require excitatory drive from the hippocampus. Nat Neurosci 16, 309–317. [https://doi.org/10.1038/nn.3311](https://www.nature.com/articles/nn.3311) 
+- **Bonnevie, T.**, Zaghloul, K.A., 2019. The Subthalamic Nucleus: Unravelling New Roles and Mechanisms in the Control of Action. Neuroscientist 25, 48–64. [https://doi.org/10.1177/1073858418763594](https://journals.sagepub.com/doi/10.1177/1073858418763594)
+- Hafting, T., Fyhn, M., **Bonnevie, T.**, Moser, M.-B., Moser, E.I., 2008. Hippocampus-independent phase precession in entorhinal grid cells. Nature 453, 1248–1252. [https://doi.org/10.1038/nature06957](https://www.nature.com/articles/nature06957)

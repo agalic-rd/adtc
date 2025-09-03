@@ -4,15 +4,13 @@ subtitle: "Professor of Cognitive Neuroscience at the Max Planck Institute for H
 
 author:
     name: "Christian Döller"
-    url: "#"
-    degrees:
-      - PhD
+    degrees: PhD
     affiliations:
         - ref: ntnu-kisn-jca
         - ref: ntnu-kisn
-        - ref: max-planck
+        - ref: max-planck-psychology
 
-image: "Christian_Doller.jpg"
+image: "Christian_Doeller.jpg"
 
 categories:
   - Imaging

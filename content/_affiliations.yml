@@ -142,9 +142,34 @@ affiliations:
     url: https://www.cam.ac.uk/
     city: Cambridge
     country: United Kingdom
+  - id: leipzig
+    name: "Leipzig University"
+    url: https://www.uni-leipzig.de/en
+    city: Leipzig
+    country: Germany
+  - id: leipzig-imise
+    name: "Institute for Medical Informatics, Statistics and Epidemiology (IMISE), Leipzig University"
+    url: https://www.imise.uni-leipzig.de/en
+    city: Leipzig
+    country: Germany
+  - id: leipzig-life
+    name: "Leipzig Research Center for Civilization Diseases (LIFE), Leipzig University"
+    url: https://www.uni-leipzig.de/en/research/research-profile-areas/life
+    city: Leipzig
+    country: Germany
   - id: max-planck
     name: "Max Planck Institute for Human Cognitive and Brain Sciences"
     url: https://www.cbs.mpg.de/
+    city: Leipzig
+    country: Germany
+  - id: max-planck-psychology
+    name: "Department of Psychology, Max Planck Institute for Human Cognitive and Brain Sciences"
+    url: https://www.cbs.mpg.de/departments/psychology
+    city: Leipzig
+    country: Germany
+  - id: max-planck-neurology
+    name: "Department of Neurology, Max Planck Institute for Human Cognitive and Brain Sciences"
+    url: https://www.cbs.mpg.de/departments/neurology
     city: Leipzig
     country: Germany
   - id: marburg
@@ -217,3 +242,8 @@ affiliations:
     url: https://www.unil.ch/unil/en/home/menuinst/universite/histoire/faculte-de-biologie-et-medecine.html
     city: Lausanne
     country: Switzerland
+  - id: duke-neurosurgery
+    name: "Department of Neurosurgery, Duke University"
+    url: https://neurosurgery.duke.edu/
+    city: Durham
+    country: USA

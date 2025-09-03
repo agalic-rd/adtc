@@ -1,0 +1,83 @@
+---
+title: "Memory deficits in the post-COVID condition – relation to structure and function of the medial temporal lobe"
+subtitle: "Linking fatigue, anosmia, and subjective memory symptoms in PCC to objective memory performance and medial temporal lobe structure & function using 3T MRI"
+
+date: "2025-09-11"
+day: 2
+
+author:
+    - name: "Ivan Markel Krasovec"
+      url: https://www.cbs.mpg.de/employees/krasovec
+      affiliations:
+        - ref: max-planck-psychology
+        - ref: ntnu-kisn
+    - name: "Tora Bonnevie"
+      url: "/content/people/speakers/bonnevie/"
+      degrees: [MD, PhD]
+      affiliations:
+        - ref: ntnu-kisn
+        - ref: ntnu-mh-inb
+        - ref: ntnu-kisn-jca
+    - name: "Daniel Reznik"
+      url: https://www.cbs.mpg.de/employees/reznik
+      degrees: PhD
+      affiliations:
+        - ref: max-planck-psychology
+    - name: "Kerstin Schumer"
+      url: https://www.cbs.mpg.de/employees/traeger
+      degrees: PhD
+      affiliations:
+        - ref: max-planck-neurology
+    - name: "Dörte Kuhrt"
+      url: https://www.cbs.mpg.de/employees/kuhrt
+      affiliations:
+        - ref: max-planck-psychology
+        - ref: ntnu-kisn
+    - name: "Frauke Beyer"
+      url: https://www.cbs.mpg.de/employees/fbeyer
+      degrees: PhD
+      affiliations:
+        - ref: max-planck-neurology
+    - name: "Marcia Bécu"
+      url: https://www.ntnu.edu/employees/marcia.becu
+      degrees: PhD
+      affiliations:
+        - ref: max-planck-psychology
+        - ref: ntnu-kisn
+    - name: "Kerstin Wirkner"
+      url: https://www.uni-leipzig.de/en/profile/mitarbeiter/pd-dr-kerstin-wirkner
+      degrees: PhD
+      affiliations:
+        - ref: leipzig
+    - name: "Arno Villringer"
+      url: https://www.cbs.mpg.de/employees/villringer
+      degrees: [MD, PhD]
+      affiliations:
+        - ref: max-planck-neurology
+    - name: "Markus Löffler"
+      url: https://www.imise.uni-leipzig.de/en/Mitarbeiter/Markus_Loeffler
+      degrees: [MD, PhD]
+      affiliations:
+        - ref: leipzig-imise
+        - ref: leipzig-life
+    - name: "Veronika Witte"
+      url: https://www.cbs.mpg.de/employees/witte
+      degrees: PhD
+      affiliations:
+        - ref: max-planck-neurology
+    - name: "Christian Doeller"
+      url: "/content/people/speakers/doeller/"
+      degrees: PhD
+      affiliations:
+        - ref: ntnu-kisn-jca
+        - ref: ntnu-kisn
+        - ref: max-planck-psychology
+    - name: "LIFE Consortium"
+      affiliations:
+        - ref: leipzig-life
+
+abstract: |
+    Post-COVID condition (PCC; “Long Covid”) is a multi-systemic condition with diverse clinical presentations, including fatigue and neurocognitive symptoms. Specific deficits such as subjective memory deficits and anosmia may be related to alterations in the medial temporal lobe (MTL), a region associated with both memory and olfactory function. It is of clinical relevance to contextualize subjective memory deficit in PCC using objective memory assessments and to advance the understanding of the underlying neuropathology. In the present study, participants were characterized in terms of symptom burden and memory performance and underwent structural and functional 3T MRI and performed an in-scanner spatial memory paradigm. We address, in PCC cases relative to controls, the relationship between fatigue, anosmia, memory symptoms, and objective memory performance. Next, we assess grey matter (GM) volumes and task-related functional activity in the MTL.
+---
+
+***

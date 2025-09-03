@@ -2,11 +2,11 @@
 title: "Imaging the anatomical and structural units of memory"
 
 author:
-    name: "[Christian Döller](/content/people/speakers/doller/index.qmd)"
+    name: "[Christian Döller](/content/people/speakers/doeller/index.qmd)"
     affiliations:
         - ref: ntnu-kisn-jca
         - ref: ntnu-kisn
-        - ref: max-planck
+        - ref: max-planck-psychology
 
 abstract: |
   Content TBA
@@ -24,5 +24,5 @@ day: 1
 
 ***
 
-<!-- <object data="/res/quarto.pdf" type="application/pdf" width="100%" height="600">
+<!-- <object data="slides.pdf" type="application/pdf" width="100%" height="600">
 </object> -->
