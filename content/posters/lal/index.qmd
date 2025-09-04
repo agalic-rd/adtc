@@ -1,0 +1,38 @@
+---
+title: "Effect of dietary intake of cetoleic acid on neurodegenerative disease"
+subtitle: "Exploring cetoleic acid's neuroprotective potential via gene expression, metabolomics, lipidomics, and behavior in zebrafish models of neurodegeneration"
+
+date: "2025-09-10"
+day: 1
+
+author:
+    - name: "Pradeep Lal"
+      url: https://www.norceresearch.no/en/persons/pradeep-lal/4480848
+      degrees: PhD
+      affiliations:
+        - ref: norce-fba
+    - name: "Kari Espolin Fladmark"
+      url: https://www4.uib.no/en/find-employees/Kari.Espolin.Fladmark
+      degrees: PhD
+      affiliations:
+        - ref: uib-bio
+    - name: "Øyvind Halskau"
+      url: https://www4.uib.no/en/find-employees/%C3%98yvind.Halskau
+      degrees: PhD
+      affiliations:
+        - ref: uib-bio
+    - name: "Asgeir Kobro-Flatmoen"
+      url: "/content/people/speakers/kobro-flatmoen/"
+      degrees: PhD
+      affiliations:
+        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-kisn-jca
+        - ref: ntnu-kisn
+
+abstract: |
+    The long-chain monounsaturated fatty acids, erucic acid and cetoleic acid, are 22-carbon fatty acids with a double bond in their omega-9 and omega-11 positions, respectively. Research suggests that these lipids may provide benefits related to cardiovascular, but also brain health. Invitro studies suggest that cetoleic acid may positively affect neurological health. In limited doses, erucic acid has been reported to have a neuroprotective effect through action on peroxisome proliferator-activated receptors; monounsaturated fatty acids generally are able to influence these receptors. Both erucic and cetoleic acid influence the availabilities of docosahexaenoic (DHA) and eicosapentaenoic (EPA) acids, that confer several health benefits, including neuroprotective effects. However, research has not progressed far regarding the direct neuroprotective effects of cetoleic acid, and the mechanisms underlying such effects. Here we are investigating the direct and indirect effects of cetoleic effect on neural health using a combination of gene expression, metabolomic, lipidomic and behavioral studies in zebrafish neurodegenerative disease models. Initial results suggest that cetoleic acid may affect cellular health through alteration in mitochondrial activity. Further research will unravel the genetic and structural changes in the brain and their impact on behavior.
+---
+
+***
+
+

@@ -110,6 +110,11 @@ affiliations:
     url: https://www.uib.no/en/ig
     city: Bergen
     country: Norway
+  - id: uib-bio
+    name: "Department of Biological Sciences (BIO), UiB"
+    url: https://www.uib.no/en/bio
+    city: Bergen
+    country: Norway
   - id: hvl
     name: "Western Norway University of Applied Sciences (HVL)"
     url: https://www.hvl.no/en/
@@ -120,7 +125,16 @@ affiliations:
     url: https://www.hvl.no/en/about/faculties/faculty-of-health-and-social-sciences/
     city: Bergen
     country: Norway
-  
+  - id: norce
+    name: "NORCE Norwegian Research Centre"
+    url: https://www.norceresearch.no/en
+    city: Bergen
+    country: Norway
+  - id: norce-fba
+    name: "Fish Biology and Aquaculture, Climate and Environment Department (FBA), NORCE"
+    url: https://www.norceresearch.no/en/research-group/integrated-fish-biology
+    city: Bergen
+    country: Norway
   # All
   - id: lund
     name: "Lund University"
