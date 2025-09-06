@@ -9,19 +9,19 @@ author:
     - name: "Moritz Jäckels"
       url: https://www.ntnu.edu/employees/moritz.jaeckels
       affiliations:
-        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-stolav-nds
         - ref: ntnu-kisn-jca
         - ref: ntnu-mh-inb
     - name: "Mae Tjorven Grenz"
       affiliations:
-        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-stolav-nds
         - ref: ntnu-kisn-jca
         - ref: ntnu-kisn
     - name: "Gøril Rolfseng Grøndvedt"
       url: "/content/people/speakers/grontvedt/"
       degrees: [MD, PhD]
       affiliations:
-        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-stolav-nds
         - ref: ntnu-kisn-jca
         - ref: ntnu-mh-inb
         - ref: ntnu-kisn
@@ -43,7 +43,7 @@ author:
       url: "/content/people/speakers/scheffler/"
       degrees: PhD
       affiliations:
-        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-stolav-nds
         - ref: ntnu-mh-inb
         - ref: stolav-neuro
     - name: "Christian Doeller"
@@ -57,7 +57,7 @@ author:
       url: "/content/people/speakers/bonnevie/"
       degrees: [MD, PhD]
       affiliations:
-        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-stolav-nds
         - ref: ntnu-kisn-jca
         - ref: ntnu-mh-inb
 

@@ -6,7 +6,7 @@ author:
     name: "Asgeir Kobro-Flatmoen"
     degrees: PhD
     affiliations:
-        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-stolav-nds
         - ref: ntnu-kisn-jca
         - ref: ntnu-kisn
 

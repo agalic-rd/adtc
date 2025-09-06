@@ -10,14 +10,14 @@ author:
       url: "/content/people/organizers/rodriguez-duboc/"
       degrees: [MD, PhD]
       affiliations:
-        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-stolav-nds
         - ref: ntnu-kisn-jca
         - ref: ntnu-kisn
     - name: "Katja Scheffler"
       url: "/content/people/speakers/scheffler/"
       degrees: PhD
       affiliations:
-        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-stolav-nds
         - ref: ntnu-mh-inb
         - ref: stolav-neuro
     - name: "Ida Johansson"
@@ -35,7 +35,7 @@ author:
       url: "/content/people/speakers/grontvedt/"
       degrees: [MD, PhD]
       affiliations:
-        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-stolav-nds
         - ref: ntnu-kisn-jca
         - ref: ntnu-kisn
         - ref: stolav-neuro
@@ -43,7 +43,7 @@ author:
       url: "/content/people/speakers/kobro-flatmoen/"
       degrees: PhD
       affiliations:
-        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-stolav-nds
         - ref: ntnu-kisn-jca
         - ref: ntnu-kisn
 

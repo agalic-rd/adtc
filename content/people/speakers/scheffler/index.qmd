@@ -8,7 +8,7 @@ author:
     affiliations:
     - ref: stolav-neuro
     - ref: ntnu-mh-inb
-    - ref: ntnu-stolav-nfdfs
+    - ref: ntnu-stolav-nds
 
 image: "Katja_Scheffler.jpg"
 

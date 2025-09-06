@@ -58,8 +58,8 @@ affiliations:
     url: https://www.ntnu.edu/inb/neurobio
     city: Trondheim
     country: Norway
-  - id: ntnu-stolav-nfdfs
-    name: "Nasjonalforeningens Demensforskningssenter"
+  - id: ntnu-stolav-nds
+    name: "Nasjonalforeningens Demensforskningssenter (NDS)"
     url: https://www.ntnu.edu/
     city: Trondheim
     country: Norway

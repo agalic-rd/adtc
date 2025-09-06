@@ -9,7 +9,7 @@ author:
     affiliations:
         - ref: ntnu-kisn-jca
         - ref: ntnu-kisn
-        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-stolav-nds
 
 image: https://agalic-rd.com/res/avatar.jpg
 image-alt: "Profile picture of Agalic Rodriguez-Duboc"

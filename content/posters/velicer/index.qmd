@@ -2,30 +2,30 @@
 title: "The role of neuron-specific inflammation in the entorhinal cortex in Alzheimer's disease"
 subtitle: "EC neuroinflammation disrupts reelin–GSK‑3β signaling via iAβ42 in reelin+ LII, accelerating tau phosphorylation."
 
-date: "2025-09-11"
-day: 2
+date: "2025-09-10"
+day: 1
 
 author:
     - name: "Sophia Tsu Velicer"
       degrees: MD
       affiliations:
-        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-stolav-nds
         - ref: unil-biomed
         - ref: ntnu-kisn
     - name: "Maria Yudina"
       affiliations:
-        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-stolav-nds
         - ref: ntnu-kisn
     - name: "Sarah Judith Seidel"
       url: https://www.ntnu.edu/employees/sarah.j.seidel
       affiliations:
-        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-stolav-nds
         - ref: ntnu-kisn
     - name: "Asgeir Kobro-Flatmoen"
       url: "/content/people/speakers/kobro-flatmoen/"
       degrees: PhD
       affiliations:
-        - ref: ntnu-stolav-nfdfs
+        - ref: ntnu-stolav-nds
         - ref: ntnu-kisn
 
 abstract: |
