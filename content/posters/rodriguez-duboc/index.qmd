@@ -62,7 +62,7 @@ abstract: |
     Preliminary results show that control cells exposed only to extrinsic factors express CTIP2 and GluR5, markers
     found in LEC LII neurons, but lack PENK and reelin. This suggests extrinsic factors alone initiate differentiation
     without achieving a Re+ LEC LII-like phenotype. In contrast, cells exposed to both extrinsic and intrinsic factors
-    form neurons that express reelin along with CTIP2 and GluR5, though PENK expression is not yet observed.
+    form neurons that express reelin along with CTIP2 and GluR5, though PENK expression is not as clearly defined.
     Improving neuron survival remains a key challenge to enable further characterization.
 ---
 
