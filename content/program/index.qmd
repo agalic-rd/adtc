@@ -105,7 +105,7 @@ listing:
 
 ### [Part 2] Central aspects of AD: Early cellular changes, behavior and cognition
 
-*Moderated by [Tora Bonnevie](/content/people/speakers/bonnevie/index.qmd)*
+*Moderated by [Evandro Fang](/content/people/speakers/fang/index.qmd) and [Tora Bonnevie](/content/people/speakers/bonnevie/index.qmd)*
 
 :::{#day2-part2}
 :::
