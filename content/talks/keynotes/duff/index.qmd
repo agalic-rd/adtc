@@ -7,13 +7,14 @@ author:
         - ref: ucl
 
 abstract: |
-    Human-relevant mouse and cell models for studying tau pathogenesis in AD and FTD-tau have recently been developed. Insights into pathogenic mechanisms and applications for translational research will be discussed.
+    Human-relevant mouse and cell models for studying tau pathogenesis in AD and FTD-tau have recently been developed. 
+    Insights into pathogenic mechanisms and applications for translational research will be discussed.
 
 categories:
   - Translational Research
   - AD Cascade
 
-image: "/res/img/logo.png"
+image: feature.jpg
 
 date: "2025-09-12"
 time: "09:00-09:40"
