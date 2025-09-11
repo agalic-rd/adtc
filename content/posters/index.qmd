@@ -23,6 +23,9 @@ listing:
         day: 2
 
 engine: knitr
+
+include-after-body:
+  - text: "<script src='/libs/js/move-to-tab.js'></script>"
 ---
 
 ```{css echo = FALSE}
