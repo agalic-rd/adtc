@@ -4,3 +4,5 @@ date-format: full
 
 metadata-files:
   - ../_affiliations.yml
+
+license: "CC BY 4.0"

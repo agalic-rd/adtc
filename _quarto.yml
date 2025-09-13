@@ -69,12 +69,12 @@ website:
   ### Sidebar ###
   sidebar: false
 
-  # announcement: 
-  #   content: "Free conference [**registration**](https://docs.google.com/forms/d/e/1FAIpQLSeQIoCR2CXUVLiegQm6Rsh7Ph5LHKDiCepFcalr5sWBk5YlKA/viewform?usp=header) is now open" 
-  #   position: below-navbar 
-  #   icon: info-circle
-  #   type: secondary
-  #   dismissable: true
+  announcement: 
+    content: "The conference is now over. Thank you to all our speakers and attendees! See you in **2027** for the next edition." 
+    position: below-navbar 
+    icon: info-circle
+    type: success
+    dismissable: true
 
   ### Footer ###
   page-footer:
@@ -87,7 +87,7 @@ website:
         href: https://www.ntnu.edu/kavli/
     center: 
       - text: "© 2025, ADTC"
-        href: LICENSE.md
+        href: https://creativecommons.org/licenses/by/4.0/
         aria-label: "Website's license"
       - text: "Contact Us"
         href: mailto:contact@adtc.no
